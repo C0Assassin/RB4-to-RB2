@@ -1,0 +1,236 @@
+(
+   'o289195163'
+   (
+      'name'
+      "Recession"
+   )
+   (
+      'artist'
+      "Jeff Allen ft. Noelle LeBlanc and Naoko Takamoto"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o289195163/o289195163"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -4.0 -4.0 -4.0 -4.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o289195163/o289195163.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 228968)
+   ('preview' 59006 89007)
+   (
+      'rank'
+      ('vocals' 259)
+      ('drum' 401)
+      ('bass' 401)
+      ('guitar' 354)
+      ('band' 454)
+   )
+   ('genre' 'other')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2015)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_electronica')
+;ORIG_ID=o289195163
+   ('song_id' 1678400004)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb2')
+   (
+      'album_name'
+      "As featured in Amplitude"
+   )
+   ('album_track_number' 1)
+   ('ugc' 1)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20210806
+;Song authored by Harmonix
+;Song=Recession
+;Languages=English,
+;Karaoke=0
+;Multitrack=0
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+(
+   'o535442448'
+   (
+      'name'
+      "Dream Genie"
+   )
+   (
+      'artist'
+      "Lightning Bolt"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o535442448/o535442448"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 0.0)
+      )
+      (
+         'vols'
+         (-1.0 -1.0 -4.5 -4.5 -4.5 -4.5 -3.0 -3.0 -4.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o535442448/o535442448.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 386301)
+   ('preview' 57381 87382)
+   (
+      'rank'
+      ('vocals' 373)
+      ('drum' 401)
+      ('bass' 401)
+      ('guitar' 406)
+      ('band' 454)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2015)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_other')
+;ORIG_ID=o535442448
+   ('song_id' 1678400005)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb2')
+   (
+      'album_name'
+      "Fantasy Empire"
+   )
+   ('album_track_number' 7)
+   ('ugc' 1)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20210806
+;Song authored by Harmonix
+;Song=Dream Genie
+;Languages=English,
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
