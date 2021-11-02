@@ -353,3 +353,362 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'yourlove'
+   (
+      'name'
+      "Your Love"
+   )
+   (
+      'artist'
+      "The Outfield"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o112708059/o112708059"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
+      )
+      (
+         'vols'
+         (-1.5 -1.5 -1.5 -1.5 -1.5 -1.5 -1.5 -1.5 -1.5 -4.0 -4.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+	(vocal_parts 3)
+	(crowd_channels 9 10)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o112708059/o112708059.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 218745)
+   ('preview' 32486 62486)
+   (
+      'rank'
+      ('vocals' 295)
+      ('bass' 112)
+      ('guitar' 227)
+      ('drum' 139)
+      ('band' 183)
+   )
+   ('genre' 'poprock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1985)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' '5004')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Play Deep"
+   )
+   ('album_track_number' 2)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit
+;Song authored by Harmonix
+;Song=Your Love
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'whatsup'
+   (
+      'name'
+      "What's Up?"
+   )
+   (
+      'artist'
+      "4 Non Blondes"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o681656631/o681656631"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
+      )
+	(vocal_parts 2)
+	(crowd_channels 9 10)
+      (
+         'vols'
+         (-1.0 -2.0 -0.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.5 -1.5)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o681656631/o681656631.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 300471)
+   ('preview' 88883 118883)
+   (
+      'rank'
+      ('vocals' 492)
+      ('bass' 116)
+      ('guitar' 120)
+      ('drum' 105)
+      ('band' 156)
+   )
+   ('genre' 'alternative')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1992)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_alternative')
+   ('song_id' 5023)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Bigger, Better, Faster, More!"
+   )
+   ('album_track_number' 3)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20201121
+;Song authored by Harmonix
+;Song=What's Up?
+;Languages=English,
+;Karaoke=0
+;Multitrack=0
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'toysintheattic'
+   (
+      'name'
+      "Toys in the Attic"
+   )
+   (
+      'artist'
+      "Aerosmith"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o18115326/o18115326"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-2.5 -2.5 -1.5 -2.5 -2.5 -2.5 -2.5 -2.5 -2.5)
+      )
+	(vocal_parts 3)
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o18115326/o18115326.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/cowbell_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 188080)
+   ('preview' 66195 96195)
+   (
+      'rank'
+      ('vocals' 353)
+      ('bass' 448)
+      ('guitar' 381)
+      ('drum' 356)
+      ('band' 361)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1975)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '5070')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Toys in the Attic"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the70s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20201121
+;Song authored by Harmonix
+;Song=Toys in the Attic
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
