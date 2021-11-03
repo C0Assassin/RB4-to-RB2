@@ -712,3 +712,125 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'stillintoyou'
+   (
+      'name'
+      "Still Into You"
+   )
+   (
+      'artist'
+      "Paramore"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o763722618/o763722618"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
+      )
+      (
+         'vols'
+         (-2.0 -2.0 -1.5 -2.0 -2.0 -2.0 -2.0 -2.0 -2.0 -1.5 -1.5)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+	  (crowd_channels 9 10)
+	  (vocal_parts 2)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o763722618/o763722618.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 212645)
+   ('preview' 42352 72352)
+   (
+      'rank'
+      ('vocals' 427)
+      ('drum' 241)
+      ('bass' 372)
+      ('guitar' 172)
+      ('band' 279)
+   )
+   ('genre' 'poprock')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2013)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' '5034')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Paramore"
+   )
+   ('album_track_number' 9)
+   ('ugc' 1)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (video_venues (video_04))
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20210806
+;Song authored by Harmonix
+;Song=Still Into You
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
