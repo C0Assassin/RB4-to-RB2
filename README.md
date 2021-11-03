@@ -21,6 +21,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 
 ### AddyMills
 *  Eddie Japan - Albert
+*  Elvis Presley - Suspicious Minds
 
 ### Canonymous
 *  Hail to the King
