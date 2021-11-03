@@ -1073,3 +1073,122 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'caughtupinyou'
+   (
+      'name'
+      "Caught Up In You"
+   )
+   (
+      'artist'
+      ".38 Special"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o689465816/o689465816"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+		(vocal_parts 2)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o689465816/o689465816.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 292184)
+   ('preview' 39008 69008)
+   (
+      'rank'
+      ('vocals' 220)
+      ('bass' 166)
+      ('guitar' 406)
+      ('drum' 133)
+      ('band' 274)
+   )
+   ('genre' 'southernrock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1982)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_southernrock')
+   ('song_id' 5024)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Special Forces"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20210110
+;Song authored by Harmonix
+;Song=Caught Up In  You
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=1
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
