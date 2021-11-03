@@ -8,8 +8,10 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Jeff Allen (ft. NLB and NT) - Recession
 *  Lightning Bolt - Dream Genie
 *  Live - All Over You
+*  Mark Ronson ft. Bruno Mars - Uptown Funk
 *  Outfield, The - Your Love
 *  Paramore - Still Into You
+
 
 ## Songs in Progress
 
@@ -17,6 +19,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Eddie Japan - Albert
 
 ### Canonymous
+*  Brown Eyed Girl
 *  Caught Up in You
 *  Centuries
 *  Hail to the King
@@ -25,4 +28,3 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  That Smell
 *  The One I Love
 *  The Warrior
-*  Uptown Funk

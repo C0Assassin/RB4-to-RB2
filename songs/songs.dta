@@ -834,3 +834,122 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'uptownfunk'
+   (
+      'name'
+      "Uptown Funk"
+   )
+   (
+      'artist'
+      "Mark Ronson ft. Bruno Mars"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o319752394/o319752394"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
+      )
+      (
+         'vols'
+         (-1.0 -1.0 -0.5 -2.0 -2.0 0.0 0.0 -1.0 -1.0 -4.0 -4.0)
+      )
+	  (crowd_channels 9 10)
+	  (vocal_parts 3)
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o319752394/o319752394.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 275472)
+   ('preview' 18782 48782)
+   (
+      'rank'
+      ('vocals' 462)
+      ('bass' 250)
+      ('guitar' 154)
+      ('drum' 157)
+      ('band' 243)
+   )
+   ('genre' 'rbsoulfunk')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2015)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' 5021)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Uptown Special"
+   )
+   ('album_track_number' 4)
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20201121
+;Song authored by Harmonix
+;Song=Uptown Funk
+;Languages=English,
+;Karaoke=0
+;Multitrack=0
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
