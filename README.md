@@ -9,6 +9,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Lightning Bolt - Dream Genie
 *  Live - All Over You
 *  Outfield, The - Your Love
+*  Paramore - Still Into You
 
 ## Songs in Progress
 
@@ -21,7 +22,6 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Hail to the King
 *  Panama
 *  Somebody Told Me 
-*  Still Into You
 *  That Smell
 *  The One I Love
 *  The Warrior
