@@ -953,3 +953,123 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'browneyedgirl'
+   (
+      'name'
+      "Brown Eyed Girl"
+   )
+   (
+      'artist'
+      "Van Morrison"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o133383249/o133383249"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 -1.2 -1.2 0.0 0.0 -3.0 -3.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+	(vocal_parts 3)
+	('crowd_channels' 10 11)
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o133383249/o133383249.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 188590)
+   ('preview' 68452 98452)
+   (
+      'rank'
+      ('vocals' 361)
+      ('bass' 272)
+      ('guitar' 239)
+      ('drum' 130)
+      ('band' 221)
+   )
+   ('genre' 'rbsoulfunk')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1967)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_pop')
+   ('song_id' '5050')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Blowin' Your Mind!"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the60s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20200223
+;Song authored by Harmonix
+;Song=Brown Eyed Girl
+;Languages=English,
+;Karaoke=0
+;Multitrack=1
+;Convert=1
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
