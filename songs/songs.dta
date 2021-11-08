@@ -1432,3 +1432,123 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'panama'
+   (
+      'name'
+      "Panama"
+   )
+   (
+      'artist'
+      "Van Halen"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o78744041/o78744041"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+	(vocal_parts 3)
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+	('crowd_channels' 9 10)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o78744041/o78744041.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 211660)
+   ('preview' 70144 100144)
+   (
+      'rank'
+      ('vocals' 180)
+      ('bass' 403)
+      ('guitar' 341)
+      ('drum' 177)
+      ('band' 251)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1984)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' 5065)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "1984"
+   )
+   ('album_track_number' 3)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20200426
+;Song authored by Harmonix
+;Song=Panama
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=1
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
