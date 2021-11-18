@@ -10,6 +10,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Jeff Allen (ft. NLB and NT) - Recession
 *  Lightning Bolt - Dream Genie
 *  Live - All Over You
+*  Lynyrd Skynyrd - That Smell
 *  Mark Ronson ft. Bruno Mars - Uptown Funk
 *  Outfield, The - Your Love
 *  Paramore - Still Into You
@@ -27,5 +28,4 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 ### Canonymous
 *  Hail to the King
 *  Somebody Told Me 
-*  That Smell
 *  The One I Love

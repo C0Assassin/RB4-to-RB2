@@ -1552,3 +1552,122 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'thatsmell'
+   (
+      'name'
+      "That Smell"
+   )
+   (
+      'artist'
+      "Lynyrd Skynyrd"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o469236283/o469236283"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-1.5 -1.5 -0.0 -0.5 -1.5 -1.5 -1.5 -1.5 -1.5)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+	(vocal_parts 3)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o469236283/o469236283.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 347552)
+   ('preview' 41775 71775)
+   (
+      'rank'
+      ('vocals' 455)
+      ('bass' 411)
+      ('guitar' 417)
+      ('drum' 242)
+      ('band' 409)
+   )
+   ('genre' 'southernrock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1977)
+   ('rating' 3)
+   ('sub_genre' 'subgenre_southernrock')
+   ('song_id' '5014')
+   ('tuning_offset_cents' 0.0)
+   (game_origin 'rb4')
+   (
+      'album_name'
+      "Street Survivors"
+   )
+   ('album_track_number' 2)
+   ('context' 2000)
+   ('decade' 'the70s')
+	(downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit
+;Song authored by Harmonix
+;Song=That Smell
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
