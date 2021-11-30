@@ -8,8 +8,8 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Aerosmith - Toys in the Attic
 *  Elvis Presley - Suspicious Minds
 *  Fallout Boy - Centuries
-*  Jeff Allen (ft. NLB and NT) - Recession
-*  Lightning Bolt - Dream Genie
+*  Jeff Allen (ft. NLB and NT) - Recession\*
+*  Lightning Bolt - Dream Genie\*
 *  Live - All Over You
 *  Lynyrd Skynyrd - That Smell
 *  Mark Ronson ft. Bruno Mars - Uptown Funk
@@ -19,6 +19,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Van Halen - Panama
 *  Van Morrison - Brown Eyed Girl
 
+\* Investigate and see if RB4 venue should be ported
 
 ## Songs in Progress
 
