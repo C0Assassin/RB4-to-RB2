@@ -2,10 +2,11 @@
 
 Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be converted to 360. Eventually a 360 version will be branched off of this one.
 
-## Songs Completed (14/65):
+## Songs Completed (16/65):
 *  .38 Special - Caught Up in You
 *  4 Non Blondes - What's Up?
 *  Aerosmith - Toys in the Attic
+*  Dream Theater - Metropolis (2x option available)
 *  Elvis Presley - Suspicious Minds
 *  Fallout Boy - Centuries
 *  Jeff Allen (ft. NLB and NT) - Recession\*
@@ -24,7 +25,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 ## Songs in Progress
 
 ### AddyMills
-*  Dream Theater - Metropolis
+*  Reviewing my old converts to use proper lipsync/venues
 
 
 ### Canonymous
