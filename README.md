@@ -11,6 +11,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Elvis Presley - Suspicious Minds
 *  Fallout Boy - Centuries
 *  Jeff Allen (ft. NLB and NT) - Recession\*
+*  Killers, The - Somebody Told Me 
 *  Lightning Bolt - Dream Genie\*
 *  Live - All Over You
 *  Lynyrd Skynyrd - That Smell
@@ -31,4 +32,4 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 
 
 ### Canonymous
-*  Somebody Told Me 
+
