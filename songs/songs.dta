@@ -1,5 +1,5 @@
 (
-   'o289195163'
+   'recession'
    (
       'name'
       "Recession"
@@ -74,11 +74,11 @@
    ('preview' 59006 89007)
    (
       'rank'
-      ('vocals' 259)
-      ('drum' 401)
-      ('bass' 401)
-      ('guitar' 354)
-      ('band' 454)
+      ('vocals' 287)
+      ('drum' 472)
+      ('bass' 460)
+      ('guitar' 357)
+      ('band' 393)
    )
    ('genre' 'other')
    ('vocal_gender' 'female')
@@ -88,10 +88,9 @@
    ('year_released' 2015)
    ('rating' 2)
    ('sub_genre' 'subgenre_electronica')
-;ORIG_ID=o289195163
-   ('song_id' 1678400004)
+   ('song_id' '5001')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb2')
+   ('game_origin' 'rb4')
    (
       'album_name'
       "As featured in Amplitude"
@@ -117,7 +116,7 @@
 ;ExpertOnly=0
 )
 (
-   'o535442448'
+   'dreamgenie'
    (
       'name'
       "Dream Genie"
@@ -188,15 +187,15 @@
       "sfx/tambourine_bank.milo"
    )
    ('anim_tempo' 64)
-   ('song_length' 386301)
+   ('song_length' 386302)
    ('preview' 57381 87382)
    (
       'rank'
-      ('vocals' 373)
-      ('drum' 401)
-      ('bass' 401)
-      ('guitar' 406)
-      ('band' 454)
+      ('vocals' 441)
+      ('drum' 500)
+      ('bass' 480)
+      ('guitar' 422)
+      ('band' 474)
    )
    ('genre' 'rock')
    ('vocal_gender' 'male')
@@ -206,10 +205,9 @@
    ('year_released' 2015)
    ('rating' 2)
    ('sub_genre' 'subgenre_other')
-;ORIG_ID=o535442448
-   ('song_id' 1678400005)
+   ('song_id' '5068')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb2')
+   ('game_origin' 'rb4')
    (
       'album_name'
       "Fantasy Empire"
@@ -1672,7 +1670,7 @@
 ;ExpertOnly=0
 )
 (
-   'o92303046'
+   'suspiciousminds'
    (
       'name'
       "Suspicious Minds"
@@ -1744,15 +1742,15 @@
       "sfx/tambourine_bank.milo"
    )
    ('anim_tempo' 32)
-   ('song_length' 270937)
+   ('song_length' 270930)
    ('preview' 42109 72111)
    (
       'rank'
-      ('band' 274)
-      ('guitar' 301)
-      ('bass' 349)
-      ('drum' 1)
-      ('vocals' 180)
+      ('band' 248)
+      ('guitar' 316)
+      ('bass' 435)
+      ('drum' 114)
+      ('vocals' 200)
    )
    ('genre' 'rock')
    ('vocal_gender' 'male')
@@ -1762,9 +1760,9 @@
    ('year_released' 1969)
    ('rating' 1)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' 92303046)
+   ('song_id' '5012')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb2')
+   ('game_origin' 'rb4')
    (
       'album_name'
       "The Memphis 1969 Anthology: Suspicious Minds"
@@ -1790,7 +1788,7 @@
 ;ExpertOnly=0
 )
 (
-   'o870023041'
+   'metropolis'
    (
       'name'
       "Metropolis - Part 1 \qThe Miracle and the Sleeper\q"
@@ -1861,15 +1859,15 @@
       "sfx/tambourine_bank.milo"
    )
    ('anim_tempo' 32)
-   ('song_length' 573996)
+   ('song_length' 573997)
    ('preview' 109910 139910)
    (
       'rank'
-      ('band' 454)
-      ('guitar' 406)
-      ('bass' 401)
-      ('drum' 401)
-      ('vocals' 373)
+      ('band' 490)
+      ('guitar' 480)
+      ('bass' 495)
+      ('drum' 480)
+      ('vocals' 478)
    )
    ('genre' 'prog')
    ('vocal_gender' 'male')
@@ -1879,9 +1877,9 @@
    ('year_released' 1992)
    ('rating' 1)
    ('sub_genre' 'subgenre_progrock')
-   ('song_id' 870023041)
+   ('song_id' '5016')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb2')
+   ('game_origin' 'rb4')
    (
       'album_name'
       "Images and Words"
