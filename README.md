@@ -6,6 +6,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  .38 Special - Caught Up in You
 *  4 Non Blondes - What's Up?
 *  Aerosmith - Toys in the Attic
+*  Avenged Sevenfold - Hail to the King
 *  Dream Theater - Metropolis (2x option available)
 *  Elvis Presley - Suspicious Minds
 *  Fallout Boy - Centuries
@@ -30,5 +31,4 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 
 
 ### Canonymous
-*  Hail to the King
 *  Somebody Told Me 
