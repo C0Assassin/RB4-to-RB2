@@ -16,6 +16,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Mark Ronson ft. Bruno Mars - Uptown Funk
 *  Outfield, The - Your Love
 *  Paramore - Still Into You
+*  R.E.M. - The One I Love
 *  Scandal - The Warrior
 *  Van Halen - Panama
 *  Van Morrison - Brown Eyed Girl
@@ -31,4 +32,3 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 ### Canonymous
 *  Hail to the King
 *  Somebody Told Me 
-*  The One I Love

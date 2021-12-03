@@ -1906,3 +1906,124 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'theoneilove'
+   (
+      'name'
+      "The One I Love"
+   )
+   (
+      'artist'
+      "R.E.M."
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o32515381/o32515381"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+	  (vocal_parts 3)
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-2.0 -2.0 -1.0 -2.0 -2.0 -2.0 -2.0 -2.0 -2.0 -3.0 -3.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+	  (crowd_channels 9 10)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o32515381/o32515381.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 200874)
+   ('preview' 16819 46819)
+   (
+      'rank'
+      ('vocals' 117)
+      ('bass' 134)
+      ('guitar' 138)
+      ('drum' 150)
+      ('band' 132)
+   )
+   ('genre' 'alternative')
+   ('vocal_gender' 'male')
+   ('version' 1)
+   ('format' 3)
+   ('loading_phrase' 'Often misinterpreted as a love song, The One I Love is actually about using people over and over. It's deceptive because it could be a love song until the line, "A simple prop to occupy my time.")
+   ('album_art' 1)
+   ('year_released' 1987)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_alternative')
+   ('song_id' '5039')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Document"
+   )
+   ('album_track_number' 7)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit
+;Song authored by Unknown Author
+;Song=The One I Love
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
