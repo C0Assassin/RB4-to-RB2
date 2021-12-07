@@ -2263,3 +2263,120 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+(
+   'o380990074'
+   (
+      'name'
+      "My God is the Sun"
+   )
+   (
+      'artist'
+      "Queens of the Stone Age"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o380990074/o380990074"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-4.5 -4.5 -4.0 -5.0 -5.0 -5.0 -5.0 -5.5 -5.5)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o380990074/o380990074.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 224240)
+   ('preview' 52764 82764)
+   (
+      'rank'
+      ('band' 275)
+      ('guitar' 252)
+      ('bass' 363)
+      ('drum' 389)
+      ('vocals' 303)
+   )
+   ('genre' 'alternative')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2013)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_alternative')
+   ('song_id' 380990074)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb2')
+   (
+      'album_name'
+      "...Like Clockwork"
+   )
+   ('album_track_number' 5)
+   ('ugc' 1)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20211128
+;Song authored by Harmonix
+;Song=My God is the Sun
+;Languages=English,
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)

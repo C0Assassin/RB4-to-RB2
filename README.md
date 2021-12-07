@@ -2,7 +2,7 @@
 
 Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be converted to 360. Eventually a 360 version will be branched off of this one.
 
-## Songs Completed (16/65):
+## Songs Completed (20/65):
 *  .38 Special - Caught Up in You
 *  4 Non Blondes - What's Up?
 *  Aerosmith - Toys in the Attic
@@ -22,13 +22,15 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Scandal - The Warrior
 *  Van Halen - Panama
 *  Van Morrison - Brown Eyed Girl
+*  Queens of the Stone Age - My God is the Sun
 
 \* Investigate and see if RB4 venue should be ported
 
 ## Songs in Progress
 
 ### AddyMills
-*  Reviewing my old converts to use proper lipsync/venues
+*  Ozzy Osbourne - Miracle Man
+*  Scorpions - No One Like You
 
 
 ### Canonymous
