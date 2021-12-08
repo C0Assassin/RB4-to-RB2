@@ -2380,3 +2380,120 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+(
+   'o1557880'
+   (
+      'name'
+      "Albert"
+   )
+   (
+      'artist'
+      "Eddie Japan"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o1557880/o1557880"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-4.0 -4.0 -4.0 -4.0 -4.0 -3.0 -3.0 -4.0 -4.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o1557880/o1557880.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 252433)
+   ('preview' 49451 79451)
+   (
+      'rank'
+      ('band' 263)
+      ('guitar' 200)
+      ('bass' 325)
+      ('drum' 422)
+      ('vocals' 163)
+   )
+   ('genre' 'indierock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2015)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_indierock')
+   ('song_id' 1557880)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb2')
+   (
+      'album_name'
+      "Modern Desperation, Pt. II"
+   )
+   ('album_track_number' 1)
+   ('ugc' 1)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20211128
+;Song authored by Harmonix
+;Song=Albert
+;Languages=English,
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
