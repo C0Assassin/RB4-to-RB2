@@ -1,6 +1,6 @@
 # RB4-to-RB2
 
-Welcome to the RB4 to RB2 repo. These files are for Xbox only, PS3 files are always found on the main branch.
+Welcome to the RB4 to RB2 Xbox branch. PS3 files always on the main branch.
 
 ## Songs Completed (20/65):
 *  .38 Special - Caught Up in You
