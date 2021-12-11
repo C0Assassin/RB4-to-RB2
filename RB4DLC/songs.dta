@@ -706,7 +706,6 @@
 ;ExpertOnly=0
 )
 
-
 (
    'lipsofanangel'
    (
@@ -813,6 +812,123 @@
 ;Created using Onyx Music Game Toolkit version 20201121
 ;Song authored by Spindoctor6969
 ;Song=Lips Of An Angel
+;Languages=English,
+;Karaoke=0
+;Multitrack=1
+;Convert=1
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'nevertoolate'
+   (
+      'name'
+      "Never Too Late"
+   )
+   (
+      'artist'
+      "Three Days Grace"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o20574188/o20574188"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o20574188/o20574188.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 211046)
+   ('preview' 42000 72000)
+   (
+      'rank'
+      ('vocals' 201)
+      ('bass' 155)
+      ('guitar' 178)
+      ('drum' 142)
+      ('band' 205)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2006)
+   ('rating' 3)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' 'o20574188')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "One-X"
+   )
+   ('album_track_number' 4)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20210530
+;Song authored by Harmonix
+;Song=Never Too Late
 ;Languages=English,
 ;Karaoke=0
 ;Multitrack=1
