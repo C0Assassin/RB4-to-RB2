@@ -8,6 +8,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Aerosmith - Toys in the Attic
 *  Avenged Sevenfold - Hail to the King
 *  Dream Theater - Metropolis (2x option available)
+*  Eddie Japan - Albert
 *  Elvis Presley - Suspicious Minds
 *  Fallout Boy - Centuries
 *  Jeff Allen (ft. NLB and NT) - Recession\*
@@ -25,6 +26,22 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Queens of the Stone Age - My God is the Sun
 
 \* Investigate and see if RB4 venue should be ported
+
+## RB4 DLC:
+Thanks to RBVR and some MIDI fixes included in Rivals. The following DLC is available too:
+*  Aerosmith - 'Cryin
+*  Cranberries, The - Zombie
+*  Generation X - Dancing with Myself
+*  Heart - Crazy on You
+*  Hinder - Lips of an Angel
+*  Steppenwolf - Born to be Wild
+*  Ted Nugent - Strangehold
+*  Three Days Grace - Never Too Late
+*  Tonic - If You Could Only See
+*  Van Halen - Hot for Teacher
+*  Wheatus - Teenage Dirtbag
+*  Winger - Seventeen
+
 
 ## Songs in Progress
 
