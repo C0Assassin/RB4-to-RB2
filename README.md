@@ -28,7 +28,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 \* Investigate and see if RB4 venue should be ported
 
 ## RB4 DLC:
-Thanks to RBVR and some MIDI fixes included in Rivals. The following DLC is available too:
+Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included in Rivals. The following DLC is available too:
 *  Aerosmith - 'Cryin
 *  Cranberries, The - Zombie
 *  Generation X - Dancing with Myself
@@ -38,6 +38,7 @@ Thanks to RBVR and some MIDI fixes included in Rivals. The following DLC is avai
 *  Ted Nugent - Strangehold
 *  Three Days Grace - Never Too Late
 *  Tonic - If You Could Only See
+*  Toto - Africa
 *  Van Halen - Hot for Teacher
 *  Wheatus - Teenage Dirtbag
 *  Winger - Seventeen

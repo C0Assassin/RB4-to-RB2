@@ -1411,3 +1411,121 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+(
+   'africa'
+   (
+      'name'
+      "Africa"
+   )
+   (
+      'artist'
+      "Toto"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o182401652/o182401652"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 -5.5 -5.5)
+      )
+		(crowd_channels 10 11)
+	  (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o182401652/o182401652.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 294679)
+   ('preview' 81000 111000)
+   (
+      'rank'
+      ('vocals' 420)
+      ('bass' 233)
+      ('guitar' 261)
+      ('drum' 256)
+      ('band' 265)
+   )
+   ('genre' 'poprock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1982)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_softrock')
+   ('song_id' 'o182401652')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "Toto IV"
+   )
+   ('album_track_number' 10)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20190707
+;Song authored by Four Neat Guys
+;Song=Africa
+;Languages=English,
+;Karaoke=0
+;Multitrack=0
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
