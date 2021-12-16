@@ -32,6 +32,7 @@ Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included 
 *  Aerosmith - 'Cryin
 *  Cranberries, The - Zombie
 *  Generation X - Dancing with Myself
+*  Goo Goo Dolls - Iris
 *  Heart - Crazy on You
 *  Hinder - Lips of an Angel
 *  Steppenwolf - Born to be Wild
