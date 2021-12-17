@@ -1766,3 +1766,121 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+(
+   'pullmeunder'
+   (
+      'name'
+      "Pull Me Under"
+   )
+   (
+      'artist'
+      "Dream Theater"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o847361339/o847361339"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+	  (vocal_parts 3)
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-3.7 -3.7 -1.4 -1.4 -2.5 -2.5 -0.2 -0.2 -0.0 -0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o847361339/o847361339.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 498796)
+   ('preview' 226764 256764)
+   (
+      'rank'
+      ('vocals' 186)
+      ('drum' 455)
+      ('bass' 384)
+      ('guitar' 415)
+      ('band' 331)
+   )
+   ('genre' 'prog')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1992)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_prog')
+   ('song_id' '1020187')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "Images and Words"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20210806
+;Song authored by Harmonix
+;Song=Pull Me Under
+;Languages=English,
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
