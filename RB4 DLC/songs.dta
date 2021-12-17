@@ -1884,3 +1884,121 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+(
+   'gimmechocolate'
+   (
+      'name'
+      "Gimme Chocolate!!"
+   )
+   (
+      'artist'
+      "BABYMETAL"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o682639794/o682639794"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+		(vocal_parts 3)
+	  (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o682639794/o682639794.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 231271)
+   ('preview' 53454 83454)
+   (
+      'rank'
+      ('vocals' 220)
+      ('drum' 449)
+      ('bass' 293)
+      ('guitar' 440)
+      ('band' 320)
+   )
+   ('genre' 'jrock')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2014)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '1020031')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "BABYMETAL"
+   )
+   ('album_track_number' 3)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20210806
+;Song authored by Harmonix
+;Song=Gimme Chocolate!!
+;Languages=English,Japanese,
+;Karaoke=0
+;Multitrack=0
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)

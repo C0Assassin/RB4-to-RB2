@@ -30,6 +30,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 ## RB4 DLC:
 Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included in Rivals. The following DLC is available too:
 *  Aerosmith - 'Cryin
+*  BABYMETAL - Gimme Chocolate!!
 *  Brian Setzer - Rock This Town
 *  Cranberries, The - Zombie
 *  Dream Theater - Pull Me Under
