@@ -44,6 +44,7 @@ Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included 
 *  Tonic - If You Could Only See
 *  Toto - Africa
 *  Van Halen - Hot for Teacher
+*  Van Halen - Runnin' with the Devil
 *  Wheatus - Teenage Dirtbag
 *  Winger - Seventeen
 
