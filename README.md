@@ -44,6 +44,7 @@ Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included 
 *  Three Days Grace - Never Too Late
 *  Tonic - If You Could Only See
 *  Toto - Africa
+*  Van Halen - Ain't Talkin' 'Bout Love
 *  Van Halen - Hot for Teacher
 *  Van Halen - Runnin' with the Devil
 *  Wheatus - Teenage Dirtbag
