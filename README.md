@@ -31,6 +31,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included in Rivals. The following DLC is available too:
 *  Aerosmith - Angel
 *  Aerosmith - Cryin'
+*  Aerosmith - Janie's Got A Gun
 *  BABYMETAL - Gimme Chocolate!!
 *  Brian Setzer - Rock This Town
 *  Cranberries, The - Zombie

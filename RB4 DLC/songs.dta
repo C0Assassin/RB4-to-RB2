@@ -2478,3 +2478,122 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+(
+   'janiesgotagun'
+   (
+      'name'
+      "Janie's Got A Gun"
+   )
+   (
+      'artist'
+      "Aerosmith"
+   )
+   
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/janiesgotagun/janiesgotagun"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (vocal_parts 3)
+	  (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-1.2 -1.2 -1.3 -1.3 -2.0 -2.0 -0.0 -0.0 -1.0 -1.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/janiesgotagun/janiesgotagun.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 313815)
+   ('preview' 83135 113135)
+   (
+      'rank'
+      ('vocals' 300)
+      ('bass' 186)
+      ('guitar' 279)
+      ('drum' 180)
+      ('band' 263)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1989)
+   ('rating' 3)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '1020259')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "Pump"
+   )
+   ('album_track_number' 5)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20210110
+;Song authored by Harmonix
+;Song=Janie's Got A Gun
+;Languages=English,
+;Karaoke=0
+;Multitrack=1
+;Convert=1
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
