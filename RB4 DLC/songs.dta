@@ -2715,3 +2715,123 @@
 ;CATemh=1
 ;ExpertOnly=0
 )
+
+
+(
+   'idontwanttomissathing'
+   (
+      'name'
+      "I Don't Want to Miss a Thing"
+   )
+   (
+      'artist'
+      "Aerosmith"
+   )   
+   ('master' 1)
+   
+   (
+      'song'
+      (
+         'name'
+         "songs/idontwanttomissathing/idontwanttomissathing"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (vocal_parts 3)
+	  (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-2.0 -2.0 -2.0 -2.0 -1.0 -1.0 -2.4 -2.4 -1.0 -1.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/idontwanttomissathing/idontwanttomissathing.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 276659)
+   ('preview' 74341 104341)
+   (
+      'rank'
+      ('vocals' 266)
+      ('bass' 143)
+      ('guitar' 178)
+      ('drum' 119)
+      ('band' 209)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1998)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '1020278')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "Armageddon: The Album"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20200223
+;Song authored by Harmonix
+;Song=I Don't Want to Miss a Thing
+;Languages=English,
+;Karaoke=1
+;Multitrack=0
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)

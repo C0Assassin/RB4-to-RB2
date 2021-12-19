@@ -32,6 +32,7 @@ Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included 
 *  Aerosmith - Angel
 *  Aerosmith - Crazy
 *  Aerosmith - Cryin'
+*  Aerosmith - I Don't Want to Miss a Thing
 *  Aerosmith - Janie's Got A Gun
 *  BABYMETAL - Gimme Chocolate!!
 *  Brian Setzer - Rock This Town
