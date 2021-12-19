@@ -2953,3 +2953,121 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+(
+   'loveinanelevator'
+   (
+      'name'
+      "Love In An Elevator"
+   )
+   (
+      'artist'
+      "Aerosmith"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/loveinanelevator/loveinanelevator"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2)
+            )
+            (
+               'bass'
+               (3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 -3.0 -3.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+	  (crowd_channels 10 11)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/loveinanelevator/loveinanelevator.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 350523)
+   ('preview' 60000 90000)
+   (
+      'rank'
+      ('vocals' 350)
+      ('bass' 280)
+      ('guitar' 276)
+      ('drum' 245)
+      ('band' 270)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1989)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' 'o782351311')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "Pump"
+   )
+   ('album_track_number' 3)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20210530
+;Song authored by Harmonix
+;Song=Love In An Elevator
+;Languages=English,
+;Karaoke=0
+;Multitrack=1
+;Convert=1
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
