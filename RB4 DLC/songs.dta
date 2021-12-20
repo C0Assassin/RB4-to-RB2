@@ -1390,7 +1390,7 @@
    ('game_origin' 'dlc')
    (
       'album_name'
-      "Get A Grip"
+      "Get a Grip"
    )
    ('album_track_number' 9)
    ('context' 2000)
@@ -2694,7 +2694,7 @@
    ('game_origin' 'dlc')
    (
       'album_name'
-      "Get A Grip"
+      "Get a Grip"
    )
    ('album_track_number' 11)
    ('context' 2000)
@@ -3064,6 +3064,125 @@
 ;Languages=English,
 ;Karaoke=0
 ;Multitrack=1
+;Convert=1
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'livinontheedge'
+   (
+      'name'
+      "Livin' On The Edge"
+   )
+   (
+      'artist'
+      "Aerosmith"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/livinontheedge/livinontheedge"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (vocal_parts 3)
+	  (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+	  (crowd_channels 10 11)
+      (
+         'vols'
+         (-1.2 -1.2 -0.5 -0.5 -2.2 -2.2 0.0 0.0 -1.2 -1.2 -2.8 -2.8)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/livinontheedge/livinontheedge.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 366724)
+   ('preview' 83984 113984)
+   (
+      'rank'
+      ('vocals' 335)
+      ('bass' 216)
+      ('guitar' 272)
+      ('drum' 129)
+      ('band' 248)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1993)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_blues')
+   ('song_id' '1020256')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "Get a Grip"
+   )
+   ('album_track_number' 5)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20201121
+;Song authored by Harmonix
+;Song=Livin' On The Edge
+;Languages=English,
+;Karaoke=0
+;Multitrack=0
 ;Convert=1
 ;2xBass=0
 ;RhythmKeys=0
