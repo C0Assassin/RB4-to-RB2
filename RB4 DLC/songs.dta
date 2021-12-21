@@ -3190,3 +3190,120 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+(
+   'cowboysfromhelllive'
+   (
+      'name'
+      "Cowboys From Hell (Live From Monsters In Moscow)"
+   )
+   (
+      'artist'
+      "Pantera"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/cowboysfromhelllive/cowboysfromhelllive"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/cowboysfromhelllive/cowboysfromhelllive.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 'kTempoMedium')
+   ('song_length' 267704)
+   ('preview' 3917 33917)
+   (
+      'rank'
+      ('vocals' 178)
+      ('bass' 440)
+      ('guitar' 449)
+      ('drum' 244)
+      ('band' 328)
+   )
+   ('genre' 'metal')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1991)
+   ('rating' 3)
+   ('sub_genre' 'subgenre_groove')
+   ('song_id' '1020015')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "aLIVE and hostile ep"
+   )
+   ('album_track_number' 3)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit
+;Song authored by Harmonix
+;Song=Cowboys From Hell (Live From Monsters In Moscow)
+;Languages=
+;Karaoke=0
+;Multitrack=0
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)

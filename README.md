@@ -45,6 +45,7 @@ Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included 
 *  Goo Goo Dolls - Iris
 *  Heart - Crazy on You
 *  Hinder - Lips of an Angel
+*  Pantera - Cowboys From Hell (Live)
 *  Steppenwolf - Born to be Wild
 *  Ted Nugent - Strangehold
 *  Three Days Grace - Never Too Late
