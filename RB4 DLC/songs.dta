@@ -2461,7 +2461,7 @@
    )
    ('album_track_number' 1)
    ('context' 2000)
-   ('decade' 'the70s')
+   ('decade' 'the80s')
    (downloaded TRUE)
    ('base_points' 0)
 ;DO NOT EDIT THE FOLLOWING LINES MANUALLY
@@ -3173,7 +3173,7 @@
    )
    ('album_track_number' 5)
    ('context' 2000)
-   ('decade' 'the00s')
+   ('decade' 'the90s')
    (downloaded TRUE)
    ('base_points' 0)
 ;DO NOT EDIT THE FOLLOWING LINES MANUALLY
