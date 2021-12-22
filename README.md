@@ -41,6 +41,7 @@ Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included 
 *  Brian Setzer - Rock This Town
 *  Cranberries, The - Zombie
 *  Dream Theater - Pull Me Under
+*  Fuel - Hemorrhage (In My Hands)
 *  Generation X - Dancing with Myself
 *  Goo Goo Dolls - Iris
 *  Heart - Crazy on You
