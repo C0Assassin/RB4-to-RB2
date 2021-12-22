@@ -56,6 +56,7 @@ Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included 
 *  Van Halen - And The Cradle Will Rock...
 *  Van Halen - Hot for Teacher
 *  Van Halen - Runnin' with the Devil
+*  Warrant - Cherry Pie
 *  Wheatus - Teenage Dirtbag
 *  Winger - Seventeen
 
