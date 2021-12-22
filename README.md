@@ -32,6 +32,7 @@ Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included 
 *  Aerosmith - Angel
 *  Aerosmith - Crazy
 *  Aerosmith - Cryin'
+*  Aerosmith - Dude (Looks Like a Lady)
 *  Aerosmith - I Don't Want to Miss a Thing
 *  Aerosmith - Janie's Got A Gun
 *  Aerosmith - Livin' On The Edge

@@ -3542,3 +3542,121 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+(
+   'dudelookslikealady'
+   (
+      'name'
+      "Dude (Looks Like a Lady)"
+   )
+   (
+      'artist'
+      "Aerosmith"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/dudelookslikealady/dudelookslikealady"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (vocal_parts 3)
+	  (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/dudelookslikealady/dudelookslikealady.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 252667)
+   ('preview' 75846 105846)
+   (
+      'rank'
+      ('vocals' 260)
+      ('bass' 155)
+      ('guitar' 260)
+      ('drum' 170)
+      ('band' 250)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1987)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '1020040')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "Permanent Vacation"
+   )
+   ('album_track_number' 5)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20201121
+;Song authored by Harmonix
+;Song=Dude (Looks Like a Lady)
+;Languages=English,
+;Karaoke=0
+;Multitrack=0
+;Convert=1
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=1
+;ExpertOnly=0
+)
