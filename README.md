@@ -48,6 +48,7 @@ Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included 
 *  Heart - Crazy on You
 *  Hinder - Lips of an Angel
 *  Pantera - Cowboys From Hell (Live)
+*  Paramore - Ain't It Fun
 *  Steppenwolf - Born to be Wild
 *  Ted Nugent - Strangehold
 *  Three Days Grace - Never Too Late

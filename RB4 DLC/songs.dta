@@ -3660,3 +3660,121 @@
 ;CATemh=1
 ;ExpertOnly=0
 )
+
+(
+   'aintitfun'
+   (
+      'name'
+      "Ain't It Fun"
+   )
+   (
+      'artist'
+      "Paramore"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/aintitfun/aintitfun"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (vocal_parts 3)
+	  (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-2.3 -2.3 -2.4 -2.4 -3.7 -3.7 -0.0 -0.0 -1.3 -1.3)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/aintitfun/aintitfun.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 303460)
+   ('preview' 48461 78461)
+   (
+      'rank'
+      ('vocals' 368)
+      ('bass' 362)
+      ('guitar' 258)
+      ('drum' 238)
+      ('band' 271)
+   )
+   ('genre' 'poprock')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2013)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_pop')
+   ('song_id' '1020171')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "Paramore"
+   )
+   ('album_track_number' 6)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20201121
+;Song authored by Harmonix
+;Song=Ain't It Fun
+;Languages=English,
+;Karaoke=0
+;Multitrack=0
+;Convert=1
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
