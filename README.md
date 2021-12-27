@@ -39,6 +39,7 @@ Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included 
 *  Aerosmith - Livin' On The Edge
 *  Aerosmith - Love In An Elevator
 *  Aerosmith - Rag Doll
+*  Alice In Chains - Them Bones
 *  BABYMETAL - Gimme Chocolate!!
 *  Brian Setzer - Rock This Town
 *  Cranberries, The - Zombie
@@ -67,8 +68,7 @@ Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included 
 ## Songs in Progress
 
 ### AddyMills
-*  Ozzy Osbourne - Miracle Man
-*  Scorpions - No One Like You
+
 
 
 ### Canonymous

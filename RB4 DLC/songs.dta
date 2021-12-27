@@ -3778,3 +3778,121 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+(
+   'thembones'
+   (
+      'name'
+      "Them Bones"
+   )
+   (
+      'artist'
+      "Alice In Chains"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/thembones/thembones"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+	  (vocal_parts 2)
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/thembones/thembones.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 'kTempoFast')
+   ('song_length' 152771)
+   ('preview' 59000 89000)
+   (
+      'rank'
+      ('vocals' 238)
+      ('bass' 255)
+      ('guitar' 275)
+      ('drum' 233)
+      ('band' 262)
+   )
+   ('genre' 'grunge')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1992)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_grunge')
+   ('song_id' 'o414798002')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "Dirt"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20210110
+;Song authored by Harmonix
+;Song=Them Bones
+;Languages=
+;Karaoke=0
+;Multitrack=0
+;Convert=1
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
