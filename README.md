@@ -51,7 +51,7 @@ Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included 
 *  Hinder - Lips of an Angel
 *  Pantera - Cowboys From Hell (Live)
 *  Paramore - Ain't It Fun
-*  Skid Row - 18 and Life\*
+*  Skid Row - 18 and Life
 *  Steppenwolf - Born to be Wild
 *  Ted Nugent - Strangehold
 *  Three Days Grace - Never Too Late
@@ -64,8 +64,6 @@ Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included 
 *  Warrant - Cherry Pie
 *  Wheatus - Teenage Dirtbag
 *  Winger - Seventeen
-
-\*Audrey Lipsync needed
 
 ## Songs in Progress
 
