@@ -2708,3 +2708,109 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'theimpressionthatiget'
+   (
+      'name'
+      "The Impression That I Get"
+   )
+   (
+      'artist'
+      "The Mighty Mighty Bosstones"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/theimpressionthatiget/theimpressionthatiget"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (vocal_parts 2)
+	  (crowd_channels 9 10)
+	  (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
+      )
+      (
+         'vols'
+         (-1.0 -1.0 -0.5 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -3.0 -3.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/theimpressionthatiget/theimpressionthatiget.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 196167)
+   ('preview' 39955 69955)
+   (
+      'rank'
+      ('vocals' 212)
+      ('bass' 442)
+      ('guitar' 323)
+      ('drum' 411)
+      ('band' 338)
+   )
+   ('genre' 'reggaeska')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1997)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_ska')
+   ('song_id' '5037')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Let's Face It"
+   )
+   ('album_track_number' 4)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
