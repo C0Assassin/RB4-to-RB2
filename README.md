@@ -2,7 +2,7 @@
 
 Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be converted to 360. Eventually a 360 version will be branched off of this one.
 
-## Songs Completed (24/65):
+## Songs Completed (25/65):
 *  .38 Special - Caught Up in You
 *  4 Non Blondes - What's Up?
 *  Aerosmith - Toys in the Attic
@@ -25,6 +25,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Queens of the Stone Age - My God is the Sun
 *  R.E.M. - The One I Love
 *  Scandal - The Warrior
+*  System of a Down - Spiders
 *  Van Halen - Panama
 *  Van Morrison - Brown Eyed Girl
 
@@ -74,4 +75,3 @@ Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included 
 
 ### Canonymous
 * The Who - The Seeker
-* System of a Down - Spiders

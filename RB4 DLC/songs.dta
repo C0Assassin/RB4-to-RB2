@@ -3966,7 +3966,7 @@
    ('song_scroll_speed' 2300)
    (
       'bank'
-      "sfx/tambourine_bank.milo"
+      "sfx/cowbell_bank.milo"
    )
    ('anim_tempo' 16)
    ('song_length' 232838)
