@@ -28,6 +28,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  System of a Down - Spiders
 *  Van Halen - Panama
 *  Van Morrison - Brown Eyed Girl
+*  Who, The - The Seeker
 
 \* Investigate and see if RB4 venue should be ported
 
@@ -74,4 +75,4 @@ Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included 
 
 
 ### Canonymous
-* The Who - The Seeker
+Fleetwood Mac - You Make Loving Fun
