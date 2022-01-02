@@ -12,6 +12,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Eddie Japan - Albert
 *  Elvis Presley - Suspicious Minds
 *  Fallout Boy - Centuries
+*  Fleetwood Mac - You Make Loving Fun
 *  Jeff Allen (ft. NLB and NT) - Recession\*
 *  Killers, The - Somebody Told Me 
 *  Lightning Bolt - Dream Genie\*
@@ -75,4 +76,4 @@ Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included 
 
 
 ### Canonymous
-Fleetwood Mac - You Make Loving Fun
+
