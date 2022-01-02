@@ -2,7 +2,7 @@
 
 Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be converted to 360. Eventually a 360 version will be branched off of this one.
 
-## Songs Completed (25/65):
+## Songs Completed (28/65):
 *  .38 Special - Caught Up in You
 *  4 Non Blondes - What's Up?
 *  Aerosmith - Toys in the Attic
@@ -35,7 +35,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 \* Investigate and see if RB4 venue should be ported
 
 ## RB4 DLC:
-Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included in Rivals. The following DLC is available too:
+Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous sources who have dumped their DLC. The following DLC is available too:
 *  Aerosmith - Angel
 *  Aerosmith - Crazy
 *  Aerosmith - Cryin'
@@ -55,6 +55,7 @@ Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included 
 *  Goo Goo Dolls - Iris
 *  Heart - Crazy on You
 *  Hinder - Lips of an Angel
+*  Los Lobos - La Bamba
 *  Pantera - Cowboys From Hell (Live)
 *  Paramore - Ain't It Fun
 *  Skid Row - 18 and Life
@@ -77,6 +78,6 @@ Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included 
 
 
 ### Canonymous
-
+*  Various RB4 DLC
 *  Rick Derringer - Rock and Roll, Hoochie Koo
 *  Rush - A Passage to Bangkok
