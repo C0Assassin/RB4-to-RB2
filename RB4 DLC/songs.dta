@@ -252,7 +252,7 @@
       'song'
       (
          'name'
-         "songs/o737217730/o737217730"
+         "songs/dancingwithmyself/dancingwithmyself"
       )
       (
          'tracks'
@@ -301,7 +301,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o737217730/o737217730.mid")
+      (midi_file "songs/dancingwithmyself/dancingwithmyself.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -339,19 +339,6 @@
    ('decade' 'the80s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20190707
-;Song authored by Unknown Author
-;Song=Dancing with Myself
-;Languages=
-;Karaoke=0
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
