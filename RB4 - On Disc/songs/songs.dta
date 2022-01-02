@@ -13,7 +13,7 @@
       'song'
       (
          'name'
-         "songs/o289195163/o289195163"
+         "songs/recession/recession"
       )
       (
          'tracks'
@@ -62,7 +62,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o289195163/o289195163.mid")
+      (midi_file "songs/recession/recession.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -96,25 +96,12 @@
       "As featured in Amplitude"
    )
    ('album_track_number' 1)
-   ('ugc' 1)
    ('context' 2000)
    ('decade' 'the10s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210806
-;Song authored by Harmonix
-;Song=Recession1
-;Languages=English,
-;Karaoke=0
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
+
 (
    'dreamgenie'
    (
@@ -130,7 +117,7 @@
       'song'
       (
          'name'
-         "songs/o535442448/o535442448"
+         "songs/dreamgenie/dreamgenie"
       )
       (
          'tracks'
@@ -179,7 +166,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o535442448/o535442448.mid")
+      (midi_file "songs/dreamgenie/dreamgenie.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -213,26 +200,11 @@
       "Fantasy Empire"
    )
    ('album_track_number' 7)
-   ('ugc' 1)
    ('context' 2000)
    ('decade' 'the10s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210806
-;Song authored by Harmonix
-;Song=Dream Genie
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
-
 
 (
    'alloveryou'
@@ -249,7 +221,7 @@
       'song'
       (
          'name'
-         "songs/o438278556/o438278556"
+         "songs/alloveryou/alloveryou"
       )
       (
          'tracks'
@@ -284,7 +256,7 @@
          'cores'
          (-1 -1 -1 -1 1 1 -1 -1 -1)
       )
-	(vocal_parts 2)
+	  (vocal_parts 2)
       (
          'drum_solo'
          (
@@ -299,7 +271,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o438278556/o438278556.mid")
+      (midi_file "songs/alloveryou/alloveryou.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -337,21 +309,7 @@
    ('decade' 'the90s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20200426
-;Song authored by Harmonix
-;Song=All Over You
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
-
 
 (
    'yourlove'
@@ -368,7 +326,7 @@
       'song'
       (
          'name'
-         "songs/o112708059/o112708059"
+         "songs/yourlove/yourlove"
       )
       (
          'tracks'
@@ -419,7 +377,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o112708059/o112708059.mid")
+      (midi_file "songs/yourlove/yourlove.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -457,21 +415,7 @@
    ('decade' 'the80s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit
-;Song authored by Harmonix
-;Song=Your Love
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
-
 
 (
    'whatsup'
@@ -488,7 +432,7 @@
       'song'
       (
          'name'
-         "songs/o681656631/o681656631"
+         "songs/whatsup/whatsup"
       )
       (
          'tracks'
@@ -539,7 +483,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o681656631/o681656631.mid")
+      (midi_file "songs/whatsup/whatsup.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -577,21 +521,7 @@
    ('decade' 'the90s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20201121
-;Song authored by Harmonix
-;Song=What's Up?
-;Languages=English,
-;Karaoke=0
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
-
 
 (
    'toysintheattic'
@@ -608,7 +538,7 @@
       'song'
       (
          'name'
-         "songs/o18115326/o18115326"
+         "songs/toysintheattic/toysintheattic"
       )
       (
          'tracks'
@@ -658,7 +588,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o18115326/o18115326.mid")
+      (midi_file "songs/toysintheattic/toysintheattic.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -696,21 +626,7 @@
    ('decade' 'the70s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20201121
-;Song authored by Harmonix
-;Song=Toys in the Attic
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
-
 
 (
    'stillintoyou'
@@ -727,7 +643,7 @@
       'song'
       (
          'name'
-         "songs/o763722618/o763722618"
+         "songs/stillintoyou/stillintoyou"
       )
       (
          'tracks'
@@ -778,7 +694,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o763722618/o763722618.mid")
+      (midi_file "songs/stillintoyou/stillintoyou.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -812,27 +728,12 @@
       "Paramore"
    )
    ('album_track_number' 9)
-   ('ugc' 1)
    ('context' 2000)
    ('decade' 'the10s')
    (video_venues (video_04))
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210806
-;Song authored by Harmonix
-;Song=Still Into You
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
-
 
 (
    'uptownfunk'
@@ -849,7 +750,7 @@
       'song'
       (
          'name'
-         "songs/o319752394/o319752394"
+         "songs/uptownfunk/uptownfunk"
       )
       (
          'tracks'
@@ -900,7 +801,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o319752394/o319752394.mid")
+      (midi_file "songs/uptownfunk/uptownfunk.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -937,21 +838,7 @@
    ('decade' 'the10s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20201121
-;Song authored by Harmonix
-;Song=Uptown Funk
-;Languages=English,
-;Karaoke=0
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
-
 
 (
    'browneyedgirl'
@@ -968,7 +855,7 @@
       'song'
       (
          'name'
-         "songs/o133383249/o133383249"
+         "songs/browneyedgirl/browneyedgirl"
       )
       (
          'tracks'
@@ -991,7 +878,9 @@
             )
          )
       )
-      (
+      (vocal_parts 3)
+	  ('crowd_channels' 10 11)
+	  (
          'pans'
          (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
       )
@@ -1010,8 +899,6 @@
             ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
          )
       )
-	(vocal_parts 3)
-	('crowd_channels' 10 11)
       (
          'drum_freestyle'
          (
@@ -1019,7 +906,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o133383249/o133383249.mid")
+      (midi_file "songs/browneyedgirl/browneyedgirl.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -1057,21 +944,7 @@
    ('decade' 'the60s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20200223
-;Song authored by Harmonix
-;Song=Brown Eyed Girl
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
-
 
 (
    'caughtupinyou'
@@ -1088,7 +961,7 @@
       'song'
       (
          'name'
-         "songs/o689465816/o689465816"
+         "songs/caughtupinyou/caughtupinyou"
       )
       (
          'tracks'
@@ -1138,7 +1011,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o689465816/o689465816.mid")
+      (midi_file "songs/caughtupinyou/caughtupinyou.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -1176,21 +1049,7 @@
    ('decade' 'the80s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210110
-;Song authored by Harmonix
-;Song=Caught Up In  You
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
-
 
 (
    'thewarrior'
@@ -1207,7 +1066,7 @@
       'song'
       (
          'name'
-         "songs/o203046111/o203046111"
+         "songs/thewarrior/thewarrior"
       )
       (
          'tracks'
@@ -1258,7 +1117,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o203046111/o203046111.mid")
+      (midi_file "songs/thewarrior/thewarrior.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -1296,21 +1155,7 @@
    ('decade' 'the80s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20200426
-;Song authored by Harmonix
-;Song=The Warrior
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
-
 
 (
    'centuries'
@@ -1327,7 +1172,7 @@
       'song'
       (
          'name'
-         "songs/o193074983/o193074983"
+         "songs/centuries/centuries"
       )
       (
          'tracks'
@@ -1378,7 +1223,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o193074983/o193074983.mid")
+      (midi_file "songs/centuries/centuries.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -1416,21 +1261,7 @@
    ('decade' 'the10s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20201121
-;Song authored by Harmonix
-;Song=Centuries
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
-
 
 (
    'panama'
@@ -1447,7 +1278,7 @@
       'song'
       (
          'name'
-         "songs/o78744041/o78744041"
+         "songs/panama/panama"
       )
       (
          'tracks'
@@ -1498,7 +1329,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o78744041/o78744041.mid")
+      (midi_file "songs/panama/panama.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -1536,21 +1367,7 @@
    ('decade' 'the80s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20200426
-;Song authored by Harmonix
-;Song=Panama
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
-
 
 (
    'thatsmell'
@@ -1567,7 +1384,7 @@
       'song'
       (
          'name'
-         "songs/o469236283/o469236283"
+         "songs/thatsmell/thatsmell"
       )
       (
          'tracks'
@@ -1617,7 +1434,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o469236283/o469236283.mid")
+      (midi_file "songs/thatsmell/thatsmell.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -1645,7 +1462,7 @@
    ('sub_genre' 'subgenre_southernrock')
    ('song_id' '5014')
    ('tuning_offset_cents' 0.0)
-   (game_origin 'rb4')
+   ('game_origin' 'rb4')
    (
       'album_name'
       "Street Survivors"
@@ -1655,20 +1472,8 @@
    ('decade' 'the70s')
 	(downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit
-;Song authored by Harmonix
-;Song=That Smell
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
+
 (
    'suspiciousminds'
    (
@@ -1684,7 +1489,7 @@
       'song'
       (
          'name'
-         "songs/o92303046/o92303046"
+         "songs/suspiciousminds/suspiciousminds"
       )
       (
          'tracks'
@@ -1734,7 +1539,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o92303046/o92303046.mid")
+      (midi_file "songs/suspiciousminds/suspiciousminds.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -1768,25 +1573,12 @@
       "The Memphis 1969 Anthology: Suspicious Minds"
    )
    ('album_track_number' 1)
-   ('ugc' 1)
    ('context' 2000)
    ('decade' 'the60s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20211125
-;Song authored by Harmonix
-;Song=Suspicious Minds
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
+
 (
    'metropolis'
    (
@@ -1802,7 +1594,7 @@
       'song'
       (
          'name'
-         "songs/o870023041/o870023041"
+         "songs/metropolis/metropolis"
       )
       (
          'tracks'
@@ -1831,7 +1623,7 @@
       )
       (
          'vols'
-         (-2.0 -2.0 -3.0 -2.5 -2.5 -2.0 -2.0 -2.0 -2.0)
+         (-0.0 -0.0 -1.0 -0.5 -0.5 -0.0 -0.0 -0.0 -0.0)
       )
       (
          'cores'
@@ -1851,7 +1643,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o870023041/o870023041.mid")
+      (midi_file "songs/metropolis/metropolis.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -1885,26 +1677,11 @@
       "Images and Words"
    )
    ('album_track_number' 5)
-   ('ugc' 1)
    ('context' 2000)
    ('decade' 'the90s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20211128
-;Song authored by Harmonix
-;Song=Metropolis - Part 1 "The Miracle and the Sleeper"
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
-
 
 (
    'theoneilove'
@@ -1921,7 +1698,7 @@
       'song'
       (
          'name'
-         "songs/o32515381/o32515381"
+         "songs/theoneilove/theoneilove"
       )
       (
          'tracks'
@@ -1972,7 +1749,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o32515381/o32515381.mid")
+      (midi_file "songs/theoneilove/theoneilove.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -2011,19 +1788,6 @@
    ('decade' 'the80s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit
-;Song authored by Unknown Author
-;Song=The One I Love
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -2041,7 +1805,7 @@
       'song'
       (
          'name'
-         "songs/o260432423/o260432423"
+         "songs/hailtotheking/hailtotheking"
       )
       (
          'tracks'
@@ -2092,7 +1856,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o260432423/o260432423.mid")
+      (midi_file "songs/hailtotheking/hailtotheking.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -2130,19 +1894,6 @@
    ('decade' 'the10s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20190707
-;Song authored by Harmonix
-;Song=Hail to the King
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -2160,7 +1911,7 @@
       'song'
       (
          'name'
-         "songs/o985464786/o985464786"
+         "songs/somebodytoldme/somebodytoldme"
       )
       (
          'tracks'
@@ -2211,7 +1962,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o985464786/o985464786.mid")
+      (midi_file "songs/somebodytoldme/somebodytoldme.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -2249,22 +2000,10 @@
    ('decade' 'the00s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20201121
-;Song authored by Harmonix
-;Song=Somebody Told Me
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
+
 (
-   'o380990074'
+   'mygodisthesun'
    (
       'name'
       "My God is the Sun"
@@ -2278,7 +2017,7 @@
       'song'
       (
          'name'
-         "songs/o380990074/o380990074"
+         "songs/mygodisthesun/mygodisthesun"
       )
       (
          'tracks'
@@ -2327,7 +2066,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o380990074/o380990074.mid")
+      (midi_file "songs/mygodisthesun/mygodisthesun.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -2355,33 +2094,20 @@
    ('sub_genre' 'subgenre_alternative')
    ('song_id' 380990074)
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb2')
+   ('game_origin' 'rb4')
    (
       'album_name'
       "...Like Clockwork"
    )
    ('album_track_number' 5)
-   ('ugc' 1)
    ('context' 2000)
    ('decade' 'the10s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20211128
-;Song authored by Harmonix
-;Song=My God is the Sun
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
+
 (
-   'o1557880'
+   'albert'
    (
       'name'
       "Albert"
@@ -2395,7 +2121,7 @@
       'song'
       (
          'name'
-         "songs/o1557880/o1557880"
+         "songs/albert/albert"
       )
       (
          'tracks'
@@ -2444,7 +2170,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o1557880/o1557880.mid")
+      (midi_file "songs/albert/albert.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -2472,2694 +2198,16 @@
    ('sub_genre' 'subgenre_indierock')
    ('song_id' 1557880)
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb2')
+   ('game_origin' 'rb4')
    (
       'album_name'
       "Modern Desperation, Pt. II"
    )
    ('album_track_number' 1)
-   ('ugc' 1)
    ('context' 2000)
    ('decade' 'the10s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20211128
-;Song authored by Harmonix
-;Song=Albert
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
-)
-
-(
-   'lightupthenight'
-   (
-      'name'
-      "Light Up The Night"
-   )
-   (
-      'artist'
-      "The Protomen"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/lightupthenight/lightupthenight"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2 3)
-            )
-            (
-               'guitar'
-               (4 5)
-            )
-            (
-               'vocals'
-               (6 7)
-            )
-         )
-      )
-      (vocal_parts 3)
-	  (
-         'pans'
-         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
-      )
-      (
-         'vols'
-         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
-      )
-      (
-         'cores'
-         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
-      )
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/lightupthenight/lightupthenight.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 64)
-   ('song_length' 254284)
-   ('preview' 65714 95714)
-   (
-      'rank'
-      ('vocals' 485)
-      ('bass' 165)
-      ('guitar' 182)
-      ('drum' 218)
-      ('band' 225)
-   )
-   ('genre' 'rock')
-   ('vocal_gender' 'male')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 2009)
-   ('rating' 2)
-   ('sub_genre' 'subgenre_rock')
-   ('song_id' '5061')
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "Act II: The Father of Death"
-   )
-   ('album_track_number' 10)
-   ('context' 2000)
-   ('decade' 'the00s')
-   (downloaded TRUE)
-   ('base_points' 0)
-)
-
-(
-   'fridayiminlove'
-   (
-      'name'
-      "Friday I'm In Love"
-   )
-   (
-      'artist'
-      "The Cure"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/fridayiminlove/fridayiminlove"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2 3)
-            )
-            (
-               'guitar'
-               (4 5)
-            )
-            (
-               'vocals'
-               (6 7)
-            )
-         )
-      )
-      (vocal_parts 3)
-	  (crowd_channels 10 11)
-	  (
-         'pans'
-         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
-      )
-      (
-         'vols'
-         (-1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -2.0 -2.0)
-      )
-      (
-         'cores'
-         (-1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
-      )
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/fridayiminlove/fridayiminlove.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 32)
-   ('song_length' 215315)
-   ('preview' 46752 76752)
-   (
-      'rank'
-      ('vocals' 270)
-      ('bass' 104)
-      ('guitar' 188)
-      ('drum' 145)
-      ('band' 165)
-   )
-   ('genre' 'new_wave')
-   ('vocal_gender' 'male')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 1992)
-   ('rating' 2)
-   ('sub_genre' 'subgenre_other')
-   ('song_id' '5031')
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "Wish"
-   )
-   ('album_track_number' 7)
-   ('context' 2000)
-   ('decade' 'the90s')
-   (downloaded TRUE)
-   ('base_points' 0)
-)
-
-(
-   'theimpressionthatiget'
-   (
-      'name'
-      "The Impression That I Get"
-   )
-   (
-      'artist'
-      "The Mighty Mighty Bosstones"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/theimpressionthatiget/theimpressionthatiget"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2)
-            )
-            (
-               'guitar'
-               (3 4)
-            )
-            (
-               'vocals'
-               (5 6)
-            )
-         )
-      )
-      (vocal_parts 2)
-	  (crowd_channels 9 10)
-	  (
-         'pans'
-         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
-      )
-      (
-         'vols'
-         (-1.0 -1.0 -0.5 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -3.0 -3.0)
-      )
-      (
-         'cores'
-         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
-      )
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/theimpressionthatiget/theimpressionthatiget.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 64)
-   ('song_length' 196167)
-   ('preview' 39955 69955)
-   (
-      'rank'
-      ('vocals' 212)
-      ('bass' 442)
-      ('guitar' 323)
-      ('drum' 411)
-      ('band' 338)
-   )
-   ('genre' 'reggaeska')
-   ('vocal_gender' 'male')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 1997)
-   ('rating' 2)
-   ('sub_genre' 'subgenre_ska')
-   ('song_id' '5037')
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "Let's Face It"
-   )
-   ('album_track_number' 4)
-   ('context' 2000)
-   ('decade' 'the90s')
-   (downloaded TRUE)
-   ('base_points' 0)
-)
-
-(
-   'spiders'
-   (
-      'name'
-      "Spiders"
-   )
-   (
-      'artist'
-      "System of a Down"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/spiders/spiders"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2 3)
-            )
-            (
-               'guitar'
-               (4 5)
-            )
-            (
-               'vocals'
-               (6 7)
-            )
-         )
-      )
-      (vocal_parts 3)
-	  (
-         'pans'
-         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
-      )
-      (
-         'vols'
-         (-1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0)
-      )
-      (
-         'cores'
-         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
-      )
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/spiders/spiders.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/handclap_bank.milo"
-   )
-   ('anim_tempo' 32)
-   ('song_length' 222498)
-   ('preview' 43163 73163)
-   (
-      'rank'
-      ('vocals' 342)
-      ('bass' 155)
-      ('guitar' 144)
-      ('drum' 163)
-      ('band' 189)
-   )
-   ('genre' 'numetal')
-   ('vocal_gender' 'male')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 1998)
-   ('rating' 2)
-   ('sub_genre' 'subgenre_metal')
-   ('song_id' '5060')
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "System of a Down"
-   )
-   ('album_track_number' 5)
-   ('context' 2000)
-   ('decade' 'the90s')
-   (downloaded TRUE)
-   ('base_points' 0)
-)
-
-(
-   'theseeker'
-   (
-      'name'
-      "The Seeker"
-   )
-   (
-      'artist'
-      "The Who"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/theseeker/theseeker"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2)
-            )
-            (
-               'guitar'
-               (3 4)
-            )
-            (
-               'vocals'
-               (5 6)
-            )
-         )
-      )
-      (vocal_parts 3)
-	  (crowd_channels 9 10)
-	  (
-         'pans'
-         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
-      )
-      (
-         'vols'
-         (-2.0 -2.0 -0.0 -2.0 -2.0 -2.0 -2.0 -2.0 -2.0 -2.5 -2.5)
-      )
-      (
-         'cores'
-         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
-      )
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/theseeker/theseeker.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 16)
-   ('song_length' 201072)
-   ('preview' 22191 52191)
-   (
-      'rank'
-      ('vocals' 175)
-      ('bass' 336)
-      ('guitar' 332)
-      ('drum' 224)
-      ('band' 267)
-   )
-   ('genre' 'classicrock')
-   ('vocal_gender' 'male')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 1971)
-   ('rating' 2)
-   ('sub_genre' 'subgenre_rock')
-   ('song_id' '5022')
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "Meaty Beaty Big and Bouncy"
-   )
-   ('album_track_number' 7)
-   ('context' 2000)
-   ('decade' 'the70s')
-   (downloaded TRUE)
-   ('base_points' 0)
-)
-
-(
-   'caughtupinyou'
-   (
-      'name'
-      "Caught Up In You"
-   )
-   (
-      'artist'
-      ".38 Special"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/o689465816/o689465816"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2)
-            )
-            (
-               'guitar'
-               (3 4)
-            )
-            (
-               'vocals'
-               (5 6)
-            )
-         )
-      )
-      (
-         'pans'
-         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
-      )
-      (
-         'vols'
-         (-1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0)
-      )
-      (
-         'cores'
-         (-1 -1 -1 1 1 -1 -1 -1 -1)
-      )
-		(vocal_parts 2)
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/o689465816/o689465816.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 32)
-   ('song_length' 292184)
-   ('preview' 39008 69008)
-   (
-      'rank'
-      ('vocals' 220)
-      ('bass' 166)
-      ('guitar' 406)
-      ('drum' 133)
-      ('band' 274)
-   )
-   ('genre' 'southernrock')
-   ('vocal_gender' 'male')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 1982)
-   ('rating' 2)
-   ('sub_genre' 'subgenre_southernrock')
-   ('song_id' 5024)
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "Special Forces"
-   )
-   ('album_track_number' 1)
-   ('context' 2000)
-   ('decade' 'the80s')
-   (downloaded TRUE)
-   ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210110
-;Song authored by Harmonix
-;Song=Caught Up In  You
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
-)
-
-(
-   'toysintheattic'
-   (
-      'name'
-      "Toys in the Attic"
-   )
-   (
-      'artist'
-      "Aerosmith"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/o18115326/o18115326"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2)
-            )
-            (
-               'guitar'
-               (3 4)
-            )
-            (
-               'vocals'
-               (5 6)
-            )
-         )
-      )
-      (
-         'pans'
-         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
-      )
-      (
-         'vols'
-         (-2.5 -2.5 -1.5 -2.5 -2.5 -2.5 -2.5 -2.5 -2.5)
-      )
-	(vocal_parts 3)
-      (
-         'cores'
-         (-1 -1 -1 1 1 -1 -1 -1 -1)
-      )
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/o18115326/o18115326.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/cowbell_bank.milo"
-   )
-   ('anim_tempo' 64)
-   ('song_length' 188080)
-   ('preview' 66195 96195)
-   (
-      'rank'
-      ('vocals' 353)
-      ('bass' 448)
-      ('guitar' 381)
-      ('drum' 356)
-      ('band' 361)
-   )
-   ('genre' 'rock')
-   ('vocal_gender' 'male')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 1975)
-   ('rating' 2)
-   ('sub_genre' 'subgenre_rock')
-   ('song_id' '5070')
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "Toys in the Attic"
-   )
-   ('album_track_number' 1)
-   ('context' 2000)
-   ('decade' 'the70s')
-   (downloaded TRUE)
-   ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20201121
-;Song authored by Harmonix
-;Song=Toys in the Attic
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
-)
-
-(
-   'centuries'
-   (
-      'name'
-      "Centuries"
-   )
-   (
-      'artist'
-      "Fall Out Boy"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/o193074983/o193074983"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2)
-            )
-            (
-               'guitar'
-               (3 4)
-            )
-            (
-               'vocals'
-               (5 6)
-            )
-         )
-      )
-      (
-         'pans'
-         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
-      )
-      (
-         'vols'
-         (-1.2 -1.2 -0.7 -1.2 -1.2 -1.2 -1.2 -1.2 -1.2 -4.2 -4.2)
-      )
-      (
-         'cores'
-         (-1 -1 -1 1 1 -1 -1 -1 -1)
-      )
-	('vocal_parts' 3)
-	(crowd_channels 9 10)
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/o193074983/o193074983.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 16)
-   ('song_length' 242783)
-   ('preview' 29347 59347)
-   (
-      'rank'
-      ('vocals' 279)
-      ('bass' 160)
-      ('guitar' 100)
-      ('drum' 123)
-      ('band' 140)
-   )
-   ('genre' 'poprock')
-   ('vocal_gender' 'male')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 2015)
-   ('rating' 2)
-   ('sub_genre' 'subgenre_softrock')
-   ('song_id' '5030')
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "American Beauty/American Psycho"
-   )
-   ('album_track_number' 3)
-   ('context' 2000)
-   ('decade' 'the10s')
-   (downloaded TRUE)
-   ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20201121
-;Song authored by Harmonix
-;Song=Centuries
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
-)
-
-(
-   'thewarrior'
-   (
-      'name'
-      "The Warrior"
-   )
-   (
-      'artist'
-      "Scandal"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/o203046111/o203046111"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2)
-            )
-            (
-               'guitar'
-               (3 4)
-            )
-            (
-               'vocals'
-               (5 6)
-            )
-         )
-      )
-      (
-         'pans'
-         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
-      )
-	  (crowd_channels 9 10)
-      (
-         'vols'
-         (-1.5 -1.5 -0.5 -1.5 -1.5 -1.5 -1.5 -1.5 -1.5 -3.0 -3.0)
-      )
-      (
-         'cores'
-         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
-      )
-	(vocal_parts 3)
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/o203046111/o203046111.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 32)
-   ('song_length' 249534)
-   ('preview' 54310 84310)
-   (
-      'rank'
-      ('vocals' 233)
-      ('bass' 140)
-      ('guitar' 149)
-      ('drum' 172)
-      ('band' 164)
-   )
-   ('genre' 'rock')
-   ('vocal_gender' 'female')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 1984)
-   ('rating' 1)
-   ('sub_genre' 'subgenre_rock')
-   ('song_id' '5029')
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "Warrior"
-   )
-   ('album_track_number' 1)
-   ('context' 2000)
-   ('decade' 'the80s')
-   (downloaded TRUE)
-   ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20200426
-;Song authored by Harmonix
-;Song=The Warrior
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
-)
-
-
-(
-   'noonelikeyou'
-   (
-      'name'
-      "No One Like You"
-   )
-   (
-      'artist'
-      "Scorpions"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/o509594673/o509594673"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2 3)
-            )
-            (
-               'guitar'
-               (4 5)
-            )
-            (
-               'vocals'
-               (6 7)
-            )
-         )
-      )
-      (
-         'pans'
-         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
-      )
-      (
-         'vols'
-         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
-      )
-      (
-         'cores'
-         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
-      )
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/o509594673/o509594673.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 32)
-   ('song_length' 250360)
-   ('preview' 85000 115000)
-   (
-      'rank'
-      ('vocals' 131)
-      ('bass' 135)
-      ('guitar' 365)
-      ('drum' 136)
-      ('band' 231)
-   )
-   ('genre' 'metal')
-   ('vocal_gender' 'male')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 1982)
-   ('rating' 2)
-   ('sub_genre' 'subgenre_alternative')
-   ('song_id' 'o509594673')
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "Blackout"
-   )
-   ('album_track_number' 3)
-   ('context' 2000)
-   ('decade' 'the80s')
-   (downloaded TRUE)
-   ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20200426
-;Song authored by Harmonix
-;Song=No One Like You
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
-)
-
-
-(
-   'alloveryou'
-   (
-      'name'
-      "All Over You"
-   )
-   (
-      'artist'
-      "Live"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/o438278556/o438278556"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2 3)
-            )
-            (
-               'guitar'
-               (4 5)
-            )
-            (
-               'vocals'
-               (6 7)
-            )
-         )
-      )
-      (
-         'pans'
-         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 0.0)
-      )
-      (
-         'vols'
-         (-0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -1.0)
-      )
-      (
-         'cores'
-         (-1 -1 -1 -1 1 1 -1 -1 -1)
-      )
-	(vocal_parts 2)
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/o438278556/o438278556.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 32)
-   ('song_length' 242948)
-   ('preview' 42738 72738)
-   (
-      'rank'
-      ('vocals' 278)
-      ('bass' 258)
-      ('guitar' 210)
-      ('drum' 297)
-      ('band' 264)
-   )
-   ('genre' 'alternative')
-   ('vocal_gender' 'male')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 1994)
-   ('rating' 2)
-   ('sub_genre' 'subgenre_alternative')
-   ('song_id' '5057')
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "Throwing Copper"
-   )
-   ('album_track_number' 7)
-   ('context' 2000)
-   ('decade' 'the90s')
-   (downloaded TRUE)
-   ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20200426
-;Song authored by Harmonix
-;Song=All Over You
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
-)
-
-(
-   'browneyedgirl'
-   (
-      'name'
-      "Brown Eyed Girl"
-   )
-   (
-      'artist'
-      "Van Morrison"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/o133383249/o133383249"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2 3)
-            )
-            (
-               'guitar'
-               (4 5)
-            )
-            (
-               'vocals'
-               (6 7)
-            )
-         )
-      )
-      (
-         'pans'
-         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
-      )
-      (
-         'vols'
-         (0.0 0.0 0.0 0.0 0.0 0.0 -1.2 -1.2 0.0 0.0 -3.0 -3.0)
-      )
-      (
-         'cores'
-         (-1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
-      )
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-	(vocal_parts 3)
-	('crowd_channels' 10 11)
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/o133383249/o133383249.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 64)
-   ('song_length' 188590)
-   ('preview' 68452 98452)
-   (
-      'rank'
-      ('vocals' 361)
-      ('bass' 272)
-      ('guitar' 239)
-      ('drum' 130)
-      ('band' 221)
-   )
-   ('genre' 'rbsoulfunk')
-   ('vocal_gender' 'male')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 1967)
-   ('rating' 2)
-   ('sub_genre' 'subgenre_pop')
-   ('song_id' '5050')
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "Blowin' Your Mind!"
-   )
-   ('album_track_number' 1)
-   ('context' 2000)
-   ('decade' 'the60s')
-   (downloaded TRUE)
-   ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20200223
-;Song authored by Harmonix
-;Song=Brown Eyed Girl
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
-)
-
-(
-   'thatsmell'
-   (
-      'name'
-      "That Smell"
-   )
-   (
-      'artist'
-      "Lynyrd Skynyrd"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/o469236283/o469236283"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2)
-            )
-            (
-               'guitar'
-               (3 4)
-            )
-            (
-               'vocals'
-               (5 6)
-            )
-         )
-      )
-      (
-         'pans'
-         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
-      )
-      (
-         'vols'
-         (-1.5 -1.5 -0.0 -0.5 -1.5 -1.5 -1.5 -1.5 -1.5)
-      )
-      (
-         'cores'
-         (-1 -1 -1 1 1 -1 -1 -1 -1)
-      )
-	(vocal_parts 3)
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/o469236283/o469236283.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 32)
-   ('song_length' 347552)
-   ('preview' 41775 71775)
-   (
-      'rank'
-      ('vocals' 455)
-      ('bass' 411)
-      ('guitar' 417)
-      ('drum' 242)
-      ('band' 409)
-   )
-   ('genre' 'southernrock')
-   ('vocal_gender' 'male')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 1977)
-   ('rating' 3)
-   ('sub_genre' 'subgenre_southernrock')
-   ('song_id' '5014')
-   ('tuning_offset_cents' 0.0)
-   (game_origin 'rb4')
-   (
-      'album_name'
-      "Street Survivors"
-   )
-   ('album_track_number' 2)
-   ('context' 2000)
-   ('decade' 'the70s')
-	(downloaded TRUE)
-   ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit
-;Song authored by Harmonix
-;Song=That Smell
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
-)
-
-(
-   'theoneilove'
-   (
-      'name'
-      "The One I Love"
-   )
-   (
-      'artist'
-      "R.E.M."
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/o32515381/o32515381"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2)
-            )
-            (
-               'guitar'
-               (3 4)
-            )
-            (
-               'vocals'
-               (5 6)
-            )
-         )
-      )
-	  (vocal_parts 3)
-      (
-         'pans'
-         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
-      )
-      (
-         'vols'
-         (-2.0 -2.0 -1.0 -2.0 -2.0 -2.0 -2.0 -2.0 -2.0 -3.0 -3.0)
-      )
-      (
-         'cores'
-         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
-      )
-	  (crowd_channels 9 10)
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/o32515381/o32515381.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 32)
-   ('song_length' 200874)
-   ('preview' 16819 46819)
-   (
-      'rank'
-      ('vocals' 117)
-      ('bass' 134)
-      ('guitar' 138)
-      ('drum' 150)
-      ('band' 132)
-   )
-   ('genre' 'alternative')
-   ('vocal_gender' 'male')
-   ('version' 1)
-   ('format' 3)
-   ('loading_phrase' 'Often misinterpreted as a love song, The One I Love is actually about using people over and over. It's deceptive because it could be a love song until the line, "A simple prop to occupy my time.")
-   ('album_art' 1)
-   ('year_released' 1987)
-   ('rating' 2)
-   ('sub_genre' 'subgenre_alternative')
-   ('song_id' '5039')
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "Document"
-   )
-   ('album_track_number' 7)
-   ('context' 2000)
-   ('decade' 'the80s')
-   (downloaded TRUE)
-   ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit
-;Song authored by Unknown Author
-;Song=The One I Love
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
-)
-
-(
-   'yourlove'
-   (
-      'name'
-      "Your Love"
-   )
-   (
-      'artist'
-      "The Outfield"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/o112708059/o112708059"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2)
-            )
-            (
-               'guitar'
-               (3 4)
-            )
-            (
-               'vocals'
-               (5 6)
-            )
-         )
-      )
-      (
-         'pans'
-         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
-      )
-      (
-         'vols'
-         (-1.5 -1.5 -1.5 -1.5 -1.5 -1.5 -1.5 -1.5 -1.5 -4.0 -4.0)
-      )
-      (
-         'cores'
-         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
-      )
-	(vocal_parts 3)
-	(crowd_channels 9 10)
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/o112708059/o112708059.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 32)
-   ('song_length' 218745)
-   ('preview' 32486 62486)
-   (
-      'rank'
-      ('vocals' 295)
-      ('bass' 112)
-      ('guitar' 227)
-      ('drum' 139)
-      ('band' 183)
-   )
-   ('genre' 'poprock')
-   ('vocal_gender' 'male')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 1985)
-   ('rating' 1)
-   ('sub_genre' 'subgenre_other')
-   ('song_id' '5004')
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "Play Deep"
-   )
-   ('album_track_number' 2)
-   ('context' 2000)
-   ('decade' 'the80s')
-   (downloaded TRUE)
-   ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit
-;Song authored by Harmonix
-;Song=Your Love
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
-)
-
-(
-   'panama'
-   (
-      'name'
-      "Panama"
-   )
-   (
-      'artist'
-      "Van Halen"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/o78744041/o78744041"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2)
-            )
-            (
-               'guitar'
-               (3 4)
-            )
-            (
-               'vocals'
-               (5 6)
-            )
-         )
-      )
-      (
-         'pans'
-         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
-      )
-      (
-         'vols'
-         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
-      )
-	(vocal_parts 3)
-      (
-         'cores'
-         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
-      )
-	(crowd_channels 9 10)
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/o78744041/o78744041.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 32)
-   ('song_length' 211660)
-   ('preview' 70144 100144)
-   (
-      'rank'
-      ('vocals' 180)
-      ('bass' 403)
-      ('guitar' 341)
-      ('drum' 177)
-      ('band' 251)
-   )
-   ('genre' 'rock')
-   ('vocal_gender' 'male')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 1984)
-   ('rating' 2)
-   ('sub_genre' 'subgenre_rock')
-   ('song_id' 5065)
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "1984"
-   )
-   ('album_track_number' 3)
-   ('context' 2000)
-   ('decade' 'the80s')
-   (downloaded TRUE)
-   ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20200426
-;Song authored by Harmonix
-;Song=Panama
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
-)
-
-(
-   'uptownfunk'
-   (
-      'name'
-      "Uptown Funk"
-   )
-   (
-      'artist'
-      "Mark Ronson ft. Bruno Mars"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/o319752394/o319752394"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2)
-            )
-            (
-               'guitar'
-               (3 4)
-            )
-            (
-               'vocals'
-               (5 6)
-            )
-         )
-      )
-      (
-         'pans'
-         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
-      )
-      (
-         'vols'
-         (-1.0 -1.0 -0.5 -2.0 -2.0 0.0 0.0 -1.0 -1.0 -4.0 -4.0)
-      )
-	  (crowd_channels 9 10)
-	  (vocal_parts 3)
-      (
-         'cores'
-         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
-      )
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/o319752394/o319752394.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 32)
-   ('song_length' 275472)
-   ('preview' 18782 48782)
-   (
-      'rank'
-      ('vocals' 462)
-      ('bass' 250)
-      ('guitar' 154)
-      ('drum' 157)
-      ('band' 243)
-   )
-   ('genre' 'rbsoulfunk')
-   ('vocal_gender' 'male')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 2015)
-   ('rating' 2)
-   ('sub_genre' 'subgenre_other')
-   ('song_id' 5021)
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "Uptown Special"
-   )
-   ('album_track_number' 4)
-   ('decade' 'the10s')
-   (downloaded TRUE)
-   ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20201121
-;Song authored by Harmonix
-;Song=Uptown Funk
-;Languages=English,
-;Karaoke=0
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
-)
-
-(
-   'whatsup'
-   (
-      'name'
-      "What's Up?"
-   )
-   (
-      'artist'
-      "4 Non Blondes"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/o681656631/o681656631"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2)
-            )
-            (
-               'guitar'
-               (3 4)
-            )
-            (
-               'vocals'
-               (5 6)
-            )
-         )
-      )
-      (
-         'pans'
-         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
-      )
-	(vocal_parts 2)
-	(crowd_channels 9 10)
-      (
-         'vols'
-         (-1.0 -2.0 -0.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.5 -1.5)
-      )
-      (
-         'cores'
-         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
-      )
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/o681656631/o681656631.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 16)
-   ('song_length' 300471)
-   ('preview' 88883 118883)
-   (
-      'rank'
-      ('vocals' 492)
-      ('bass' 116)
-      ('guitar' 120)
-      ('drum' 105)
-      ('band' 156)
-   )
-   ('genre' 'alternative')
-   ('vocal_gender' 'female')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 1992)
-   ('rating' 1)
-   ('sub_genre' 'subgenre_alternative')
-   ('song_id' 5023)
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "Bigger, Better, Faster, More!"
-   )
-   ('album_track_number' 3)
-   ('context' 2000)
-   ('decade' 'the90s')
-   (downloaded TRUE)
-   ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20201121
-;Song authored by Harmonix
-;Song=What's Up?
-;Languages=English,
-;Karaoke=0
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
-)
-
-(
-   'stillintoyou'
-   (
-      'name'
-      "Still Into You"
-   )
-   (
-      'artist'
-      "Paramore"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/o763722618/o763722618"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2)
-            )
-            (
-               'guitar'
-               (3 4)
-            )
-            (
-               'vocals'
-               (5 6)
-            )
-         )
-      )
-      (
-         'pans'
-         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
-      )
-      (
-         'vols'
-         (-2.0 -2.0 -1.5 -2.0 -2.0 -2.0 -2.0 -2.0 -2.0 -1.5 -1.5)
-      )
-      (
-         'cores'
-         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
-      )
-	  (crowd_channels 9 10)
-	  (vocal_parts 2)
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/o763722618/o763722618.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 32)
-   ('song_length' 212645)
-   ('preview' 42352 72352)
-   (
-      'rank'
-      ('vocals' 427)
-      ('drum' 241)
-      ('bass' 372)
-      ('guitar' 172)
-      ('band' 279)
-   )
-   ('genre' 'poprock')
-   ('vocal_gender' 'female')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 2013)
-   ('rating' 1)
-   ('sub_genre' 'subgenre_other')
-   ('song_id' '5034')
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "Paramore"
-   )
-   ('album_track_number' 9)
-   ('context' 2000)
-   ('decade' 'the10s')
-   (video_venues (video_04))
-   (downloaded TRUE)
-   ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210806
-;Song authored by Harmonix
-;Song=Still Into You
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
-)
-
-(
-   'recession'
-   (
-      'name'
-      "Recession"
-   )
-   (
-      'artist'
-      "Jeff Allen ft. Noelle LeBlanc and Naoko Takamoto"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/o289195163/o289195163"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2 3)
-            )
-            (
-               'guitar'
-               (4 5)
-            )
-            (
-               'vocals'
-               (6 7)
-            )
-         )
-      )
-      (
-         'pans'
-         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
-      )
-      (
-         'vols'
-         (-3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -4.0 -4.0 -4.0 -4.0)
-      )
-      (
-         'cores'
-         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
-      )
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/o289195163/o289195163.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 32)
-   ('song_length' 228968)
-   ('preview' 59006 89007)
-   (
-      'rank'
-      ('vocals' 287)
-      ('drum' 472)
-      ('bass' 460)
-      ('guitar' 357)
-      ('band' 393)
-   )
-   ('genre' 'other')
-   ('vocal_gender' 'female')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 2015)
-   ('rating' 2)
-   ('sub_genre' 'subgenre_electronica')
-   ('song_id' '5001')
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "As featured in Amplitude"
-   )
-   ('album_track_number' 1)
-   ('context' 2000)
-   ('decade' 'the10s')
-   (downloaded TRUE)
-   ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210806
-;Song authored by Harmonix
-;Song=Recession1
-;Languages=English,
-;Karaoke=0
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
-)
-
-(
-   'metropolis'
-   (
-      'name'
-      "Metropolis - Part 1 \qThe Miracle and the Sleeper\q"
-   )
-   (
-      'artist'
-      "Dream Theater"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/o870023041/o870023041"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2)
-            )
-            (
-               'guitar'
-               (3 4)
-            )
-            (
-               'vocals'
-               (5 6)
-            )
-         )
-      )
-      (
-         'pans'
-         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
-      )
-      (
-         'vols'
-         (-2.0 -2.0 -3.0 -2.5 -2.5 -2.0 -2.0 -2.0 -2.0)
-      )
-      (
-         'cores'
-         (-1 -1 -1 1 1 -1 -1 -1 -1)
-      )
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/o870023041/o870023041.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 32)
-   ('song_length' 573997)
-   ('preview' 109910 139910)
-   (
-      'rank'
-      ('band' 490)
-      ('guitar' 480)
-      ('bass' 495)
-      ('drum' 480)
-      ('vocals' 478)
-   )
-   ('genre' 'prog')
-   ('vocal_gender' 'male')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 1992)
-   ('rating' 1)
-   ('sub_genre' 'subgenre_progrock')
-   ('song_id' '5016')
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "Images and Words"
-   )
-   ('album_track_number' 5)
-   ('ugc' 1)
-   ('context' 2000)
-   ('decade' 'the90s')
-   (downloaded TRUE)
-   ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20211128
-;Song authored by Harmonix
-;Song=Metropolis - Part 1 "The Miracle and the Sleeper"
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
-)
-
-(
-   'somebodytoldme'
-   (
-      'name'
-      "Somebody Told Me"
-   )
-   (
-      'artist'
-      "The Killers"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/o985464786/o985464786"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2)
-            )
-            (
-               'guitar'
-               (3 4)
-            )
-            (
-               'vocals'
-               (5 6)
-            )
-         )
-      )
-      (
-         'pans'
-         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
-      )
-	  (crowd_channels 9 10)
-	  (vocal_parts 3)
-      (
-         'vols'
-         (-0.0 -0.0 -1.5 -0.0 -0.0 -0.0 -0.0 -0.5 -0.5 -1.0 -1.0)
-      )
-      (
-         'cores'
-         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
-      )
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/o985464786/o985464786.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/tambourine_bank.milo"
-   )
-   ('anim_tempo' 32)
-   ('song_length' 201809)
-   ('preview' 67823 97823)
-   (
-      'rank'
-      ('vocals' 190)
-      ('bass' 364)
-      ('guitar' 221)
-      ('drum' 464)
-      ('band' 310)
-   )
-   ('genre' 'alternative')
-   ('vocal_gender' 'male')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 2004)
-   ('rating' 2)
-   ('sub_genre' 'subgenre_alternative')
-   ('song_id' '5011')
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "Hot Fuss"
-   )
-   ('album_track_number' 4)
-   ('context' 2000)
-   ('decade' 'the00s')
-   (downloaded TRUE)
-   ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20201121
-;Song authored by Harmonix
-;Song=Somebody Told Me
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
-)
-
-(
-   'hailtotheking'
-   (
-      'name'
-      "Hail to the King"
-   )
-   (
-      'artist'
-      "Avenged Sevenfold"
-   )
-   ('master' 1)
-   (
-      'song'
-      (
-         'name'
-         "songs/o260432423/o260432423"
-      )
-      (
-         'tracks'
-         (
-            (
-               'drum'
-               (0 1)
-            )
-            (
-               'bass'
-               (2)
-            )
-            (
-               'guitar'
-               (3 4)
-            )
-            (
-               'vocals'
-               (5 6)
-            )
-         )
-      )
-      (
-         'pans'
-         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
-      )
-	  (vocal_parts 3)
-	  (crowd_channels 9 10)
-      (
-         'vols'
-         (-1.0 -1.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -2.0 -2.0)
-      )
-      (
-         'cores'
-         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
-      )
-      (
-         'drum_solo'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
-         )
-      )
-      (
-         'drum_freestyle'
-         (
-            'seqs'
-            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
-         )
-      )
-      (midi_file "songs/o260432423/o260432423.mid")
-   )
-   ('song_scroll_speed' 2300)
-   (
-      'bank'
-      "sfx/cowbell_bank.milo"
-   )
-   ('anim_tempo' 32)
-   ('song_length' 307117)
-   ('preview' 99661 129661)
-   (
-      'rank'
-      ('vocals' 113)
-      ('bass' 120)
-      ('guitar' 440)
-      ('drum' 100)
-      ('band' 286)
-   )
-   ('genre' 'metal')
-   ('vocal_gender' 'male')
-   ('version' 0)
-   ('format' 4)
-   ('album_art' 1)
-   ('year_released' 2013)
-   ('rating' 2)
-   ('sub_genre' 'subgenre_metal')
-   ('song_id' '5019')
-   ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb4')
-   (
-      'album_name'
-      "Hail to the King"
-   )
-   ('album_track_number' 2)
-   ('context' 2000)
-   ('decade' 'the10s')
-   (downloaded TRUE)
-   ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20190707
-;Song authored by Harmonix
-;Song=Hail to the King
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
