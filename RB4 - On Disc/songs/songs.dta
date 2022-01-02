@@ -2844,3 +2844,108 @@
    ('base_points' 0)
 )
 
+(
+   'superunknownrb4'
+   (
+      'name'
+      "Superunknown"
+   )
+   (
+      'artist'
+      "Soundgarden"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/superunknownrb4/superunknownrb4"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+	  (vocal_parts 2)
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-1.5 -1.5 -0.0 -1.5 -1.5 -1.0 -1.0 -1.5 -1.5)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/superunknownrb4/superunknownrb4.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 312224)
+   ('preview' 97293 127293)
+   (
+      'rank'
+      ('vocals' 313)
+      ('bass' 234)
+      ('guitar' 409)
+      ('drum' 194)
+      ('band' 281)
+   )
+   ('genre' 'grunge')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1994)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_grunge')
+   ('song_id' '5048')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Superunknown"
+   )
+   ('album_track_number' 5)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
+

@@ -26,6 +26,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Queens of the Stone Age - My God is the Sun
 *  R.E.M. - The One I Love
 *  Scandal - The Warrior
+*  Soundgarden - Superunknown
 *  System of a Down - Spiders
 *  Van Halen - Panama
 *  Van Morrison - Brown Eyed Girl
@@ -77,3 +78,5 @@ Thanks to RBVR (and some near perfect recreations) and some MIDI fixes included 
 
 ### Canonymous
 
+*  Rick Derringer - Rock and Roll, Hoochie Koo
+*  Rush - A Passage to Bangkok
