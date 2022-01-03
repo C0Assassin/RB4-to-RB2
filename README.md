@@ -49,6 +49,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  BABYMETAL - Gimme Chocolate!!
 *  Brian Setzer - Rock This Town
 *  Cranberries, The - Zombie
+*  Disturbed - The Sound of Silence
 *  Dream Theater - Pull Me Under
 *  Fuel - Hemorrhage (In My Hands)
 *  Generation X - Dancing with Myself
