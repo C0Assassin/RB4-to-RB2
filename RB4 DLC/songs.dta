@@ -4421,3 +4421,108 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'thereason'
+   (
+      'name'
+      "The Reason"
+   )
+   (
+      'artist'
+      "Hoobastank"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/thereason/thereason"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (vocal_parts 3)
+	  (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/thereason/thereason.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 236384)
+   ('preview' 48433 78433)
+   (
+      'rank'
+      ('vocals' 200)
+      ('bass' 108)
+      ('guitar' 285)
+      ('drum' 108)
+      ('band' 220)
+   )
+   ('genre' 'alternative')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2004)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_alternative')
+   ('song_id' '1020419')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "The Reason"
+   )
+   ('album_track_number' 8)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)

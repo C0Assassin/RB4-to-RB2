@@ -56,6 +56,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Goo Goo Dolls - Iris
 *  Heart - Crazy on You
 *  Hinder - Lips of an Angel
+*  Hoobastank - The Reason
 *  Los Lobos - La Bamba
 *  Pantera - Cowboys From Hell (Live)
 *  Paramore - Ain't It Fun
