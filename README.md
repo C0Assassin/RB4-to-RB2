@@ -59,6 +59,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Heart - Crazy on You
 *  Hinder - Lips of an Angel
 *  Hoobastank - The Reason
+*  Imagine Dragons - Radioactive
 *  Lil Nas X ft. Billy Ray Cyrus - Old Town Road (Remix)
 *  Los Lobos - La Bamba
 *  Pantera - Cowboys From Hell (Live)
