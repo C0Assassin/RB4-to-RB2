@@ -474,7 +474,7 @@
       'song'
       (
          'name'
-         "songs/o235485721/o235485721"
+         "songs/crazyonyou/crazyonyou"
       )
       (
          'tracks'
@@ -497,7 +497,8 @@
             )
          )
       )
-      (
+      (vocal_parts 3)
+	  (
          'pans'
          (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
       )
@@ -523,7 +524,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o235485721/o235485721.mid")
+      (midi_file "songs/crazyonyou/crazyonyou.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -531,15 +532,15 @@
       "sfx/tambourine_bank.milo"
    )
    ('anim_tempo' 32)
-   ('song_length' 291973)
-   ('preview' 88000 118000)
+   ('song_length' 294621)
+   ('preview' 87767 117767)
    (
       'rank'
-      ('vocals' 427)
-      ('bass' 181)
-      ('guitar' 333)
-      ('drum' 345)
-      ('band' 292)
+      ('vocals' 430)
+      ('bass' 202)
+      ('guitar' 399)
+      ('drum' 420)
+      ('band' 320)
    )
    ('genre' 'classicrock')
    ('vocal_gender' 'female')
@@ -549,7 +550,7 @@
    ('year_released' 1976)
    ('rating' 1)
    ('sub_genre' 'subgenre_classicrock')
-   ('song_id' 'o235485721')
+   ('song_id' '1020377')
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'dlc')
    (
@@ -561,19 +562,6 @@
    ('decade' 'the70s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20200426
-;Song authored by SB93
-;Song=Crazy On You
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
