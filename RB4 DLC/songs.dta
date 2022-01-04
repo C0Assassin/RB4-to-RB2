@@ -275,7 +275,8 @@
             )
          )
       )
-      (
+      (vocal_parts 3)
+	  (
          'pans'
          (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
       )
@@ -309,8 +310,8 @@
       "sfx/tambourine_bank.milo"
    )
    ('anim_tempo' 16)
-   ('song_length' 232108)
-   ('preview' 125500 155500)
+   ('song_length' 253195)
+   ('preview' 75075 105075)
    (
       'rank'
       ('vocals' 215)
@@ -327,7 +328,7 @@
    ('year_released' 1982)
    ('rating' 1)
    ('sub_genre' 'subgenre_punk')
-   ('song_id' 'o737217730')
+   ('song_id' '1020124')
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'dlc')
    (
