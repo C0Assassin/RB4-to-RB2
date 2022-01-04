@@ -73,6 +73,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Van Halen - Hot for Teacher
 *  Van Halen - Runnin' with the Devil
 *  Warrant - Cherry Pie
+*  Weeknd, The - The Hills
 *  Wheatus - Teenage Dirtbag
 *  Winger - Seventeen
 
