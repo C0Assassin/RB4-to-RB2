@@ -48,6 +48,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Alice In Chains - Them Bones
 *  Avenged Sevenfold - The Stage
 *  BABYMETAL - Gimme Chocolate!!
+*  Bad Company - Bad Company
 *  Brian Setzer - Rock This Town
 *  Cranberries, The - Zombie
 *  Cure, The - Lovesong

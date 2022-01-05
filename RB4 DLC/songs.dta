@@ -5669,3 +5669,107 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'badcompany'
+   (
+      'name'
+      "Bad Company"
+   )
+   (
+      'artist'
+      "Bad Company"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/badcompany/badcompany"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/badcompany/badcompany.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 298265)
+   ('preview' 187590 217590)
+   (
+      'rank'
+      ('vocals' 276)
+      ('bass' 202)
+      ('guitar' 261)
+      ('drum' 158)
+      ('band' 222)
+   )
+   ('genre' 'classicrock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1974)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_classicrock')
+   ('song_id' '1020366')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "Bad Company"
+   )
+   ('album_track_number' 5)
+   ('context' 2000)
+   ('decade' 'the70s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
