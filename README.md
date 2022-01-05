@@ -49,6 +49,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  BABYMETAL - Gimme Chocolate!!
 *  Brian Setzer - Rock This Town
 *  Cranberries, The - Zombie
+*  Cure, The - Lovesong
 *  Disturbed - The Sound of Silence
 *  Dream Theater - Pull Me Under
 *  Earth, Wind & Fire - September

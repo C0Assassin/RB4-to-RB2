@@ -5250,3 +5250,107 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'lovesong'
+   (
+      'name'
+      "Lovesong"
+   )
+   (
+      'artist'
+      "The Cure"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/lovesong/lovesong"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/lovesong/lovesong.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 209086)
+   ('preview' 30000 60000)
+   (
+      'rank'
+      ('vocals' 229)
+      ('bass' 235)
+      ('guitar' 214)
+      ('drum' 161)
+      ('band' 245)
+   )
+   ('genre' 'new_wave')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1989)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_new_wave')
+   ('song_id' 'o577488811')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "Disintegration"
+   )
+   ('album_track_number' 4)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
