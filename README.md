@@ -64,6 +64,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Los Lobos - La Bamba
 *  Pantera - Cowboys From Hell (Live)
 *  Paramore - Ain't It Fun
+*  Ram Jam - Black Betty (2x option available)
 *  Romantics, The - What I Like About You
 *  Skid Row - 18 and Life
 *  Steppenwolf - Born to be Wild
