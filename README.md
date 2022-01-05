@@ -46,6 +46,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Aerosmith - Love In An Elevator
 *  Aerosmith - Rag Doll
 *  Alice In Chains - Them Bones
+*  Avenged Sevenfold - The Stage
 *  BABYMETAL - Gimme Chocolate!!
 *  Brian Setzer - Rock This Town
 *  Cranberries, The - Zombie
