@@ -49,6 +49,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Aerosmith - Rag Doll
 *  Alice In Chains - Them Bones
 *  Avenged Sevenfold - The Stage (2x option available)
+*  Avril Lavigne - Complicated
 *  BABYMETAL - Gimme Chocolate!!
 *  Bad Company - Bad Company
 *  Brian Setzer - Rock This Town
