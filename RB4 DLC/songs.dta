@@ -5983,3 +5983,108 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'trust'
+   (
+      'name'
+      "Trust"
+   )
+   (
+      'artist'
+      "Megadeth"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/trust/trust"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/trust/trust.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 315686)
+   ('preview' 106934 136934)
+   (
+      'rank'
+      ('vocals' 196)
+      ('bass' 201)
+      ('guitar' 301)
+      ('drum' 165)
+      ('band' 238)
+   )
+   ('genre' 'metal')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1997)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_metal')
+   ('song_id' '1020265')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "Cryptic Writings"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
+
