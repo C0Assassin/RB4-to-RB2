@@ -2,7 +2,7 @@
 
 Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be converted to 360. Eventually a 360 version will be branched off of this one.
 
-## Songs Completed (28/65):
+## Songs Completed (29/65):
 *  .38 Special - Caught Up in You
 *  4 Non Blondes - What's Up?
 *  Aerosmith - Toys in the Attic
@@ -25,6 +25,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Protomen, The - Light Up The Night
 *  Queens of the Stone Age - My God is the Sun
 *  R.E.M. - The One I Love
+*  Rick Derringer - Rock and Roll, Hoochie Koo
 *  Scandal - The Warrior
 *  Soundgarden - Superunknown
 *  System of a Down - Spiders
@@ -94,5 +95,4 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 
 ### Canonymous
 *  Various RB4 DLC
-*  Rick Derringer - Rock and Roll, Hoochie Koo
 *  Rush - A Passage to Bangkok

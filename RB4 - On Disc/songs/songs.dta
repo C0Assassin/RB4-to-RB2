@@ -2949,3 +2949,108 @@
    ('base_points' 0)
 )
 
+(
+   'rockandrollhoochiekoo'
+   (
+      'name'
+      "Rock and Roll, Hoochie Koo"
+   )
+   (
+      'artist'
+      "Rick Derringer"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/rockandrollhoochiekoo/rockandrollhoochiekoo"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (vocal_parts 3)
+	  (crowd_channels 9 10)
+	  (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
+      )
+      (
+         'vols'
+         (-1.0 -1.0 -0.5 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -2.0 -2.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/rockandrollhoochiekoo/rockandrollhoochiekoo.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 227132)
+   ('preview' 36097 66097)
+   (
+      'rank'
+      ('vocals' 448)
+      ('bass' 486)
+      ('guitar' 430)
+      ('drum' 367)
+      ('band' 441)
+   )
+   ('genre' 'classicrock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1973)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_classicrock')
+   ('song_id' '5018')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "All American Boy"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the70s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
