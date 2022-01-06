@@ -6088,3 +6088,105 @@
    ('base_points' 0)
 )
 
+(
+   'facedownrb4'
+   (
+      'name'
+      "Face Down"
+   )
+   (
+      'artist'
+      "The Red Jumpsuit Apparatus"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/facedownrb4/facedownrb4"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/facedownrb4/facedownrb4.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 197597)
+   ('preview' 60000 90000)
+   (
+      'rank'
+      ('vocals' 180)
+      ('bass' 166)
+      ('guitar' 198)
+      ('drum' 230)
+      ('band' 219)
+   )
+   ('genre' 'emo')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2006)
+   ('rating' 2)
+   ('song_id' 'o943092883')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "Don't You Fake It"
+   )
+   ('album_track_number' 4)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)

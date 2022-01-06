@@ -73,6 +73,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Pantera - Cowboys From Hell (Live)
 *  Paramore - Ain't It Fun
 *  Ram Jam - Black Betty (2x option available)
+*  Red Jumpsuit Apparatus, The - Face Down
 *  Romantics, The - What I Like About You
 *  Semisonic - Closing Time
 *  Skid Row - 18 and Life
