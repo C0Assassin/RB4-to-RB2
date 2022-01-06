@@ -13,6 +13,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Elvis Presley - Suspicious Minds
 *  Fallout Boy - Centuries
 *  Fleetwood Mac - You Make Loving Fun
+*  Imagine Dragons - I Bet My Life
 *  Jeff Allen (ft. NLB and NT) - Recession\*
 *  Killers, The - Somebody Told Me 
 *  Lightning Bolt - Dream Genie\*
