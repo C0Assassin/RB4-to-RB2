@@ -38,6 +38,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 
 ## RB4 DLC:
 Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous sources who have dumped their DLC. The following DLC is available too:
+*  Ace of Base - The Sign
 *  Aerosmith - Angel
 *  Aerosmith - Crazy
 *  Aerosmith - Cryin'
