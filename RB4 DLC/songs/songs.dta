@@ -6296,3 +6296,109 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'iwannarock'
+   (
+      'name'
+      "I Wanna Rock"
+   )
+   (
+      'artist'
+      "Twisted Sister"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/iwannarock/iwannarock"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+	  (vocal_parts 3)
+	  (crowd_channels 10 11)
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 -0.2 -0.2)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/iwannarock/iwannarock.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 196640)
+   ('preview' 40683 70683)
+   (
+      'rank'
+      ('vocals' 155)
+      ('bass' 209)
+      ('guitar' 270)
+      ('drum' 231)
+      ('band' 249)
+   )
+   ('genre' 'glam')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1984)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_glam')
+   ('song_id' '1020284')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "Stay Hungry"
+   )
+   ('album_track_number' 5)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
