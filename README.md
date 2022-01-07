@@ -53,6 +53,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  BABYMETAL - Gimme Chocolate!!
 *  Bad Company - Bad Company
 *  Brian Setzer - Rock This Town
+*  Bruno Mars - 24k Magic
 *  Cranberries, The - Zombie
 *  Cure, The - Lovesong
 *  Disturbed - The Sound of Silence
