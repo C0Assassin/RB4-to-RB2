@@ -42,7 +42,7 @@
       )
       (
          'vols'
-         (-3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -4.0 -4.0 -4.0 -4.0)
+         (-1.5 -1.5 -1.5 -1.5 -1.5 -1.5 -2.5 -2.5 -2.5 -2.5)
       )
       (
          'cores'
@@ -355,7 +355,7 @@
       )
       (
          'vols'
-         (-1.5 -1.5 -1.5 -1.5 -1.5 -1.5 -1.5 -1.5 -1.5 -4.0 -4.0)
+         (-1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -3.5 -3.5)
       )
       (
          'cores'
@@ -1518,7 +1518,7 @@
       )
       (
          'vols'
-         (-4.0 -4.0 -4.0 -4.0 -4.0 -4.0 -4.0 -4.0 -4.0 -4.0 -9.0 -9.0)
+         (-3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -6.0 -6.0)
       )
       (
          'cores'
@@ -2046,7 +2046,7 @@
       )
       (
          'vols'
-         (-4.5 -4.5 -4.0 -5.0 -5.0 -5.0 -5.0 -5.5 -5.5)
+         (-4.0 -4.0 -3.5 -4.5 -4.5 -4.5 -4.5 -5.0 -5.0)
       )
       (
          'cores'
@@ -2361,7 +2361,7 @@
       )
       (
          'vols'
-         (-1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -2.0 -2.0)
+         (-2.0 -2.0 -2.0 -2.0 -2.0 -2.0 -2.0 -2.0 -2.0 -2.0 -3.0 -3.0)
       )
       (
          'cores'
@@ -2467,7 +2467,7 @@
       )
       (
          'vols'
-         (-1.0 -1.0 -0.5 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -3.0 -3.0)
+         (-1.5 -1.5 -1.0 -1.5 -1.5 -1.5 -1.5 -1.5 -1.5 -3.5 -3.5)
       )
       (
          'cores'
@@ -3160,3 +3160,108 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'aintmessinround'
+   (
+      'name'
+      "Ain't Messin 'Round"
+   )
+   (
+      'artist'
+      "Gary Clark Jr."
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/aintmessinround/aintmessinround"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-1.5 -1.5 -1.5 -1.5 -1.5 -1.5 -1.5 -1.5 -2.0 -2.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/aintmessinround/aintmessinround.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 247179)
+   ('preview' 43296 73296)
+   (
+      'rank'
+      ('vocals' 410)
+      ('bass' 150)
+      ('guitar' 267)
+      ('drum' 447)
+      ('band' 292)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2012)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '5045')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Blak and Blu"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
+
