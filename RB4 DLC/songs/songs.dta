@@ -15,7 +15,7 @@
       'song'
       (
          'name'
-         "songs/o828157275/o828157275"
+         "songs/hotforteacher/hotforteacher"
       )
       (
          'tracks'
@@ -67,7 +67,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o828157275/o828157275.mid")
+      (midi_file "songs/hotforteacher/hotforteacher.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -105,19 +105,6 @@
    ('decade' 'the80s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210110
-;Song authored by Unknown Author
-;Song=Hot For Teacher
-;Languages=
-;Karaoke=0
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -135,7 +122,7 @@
       'song'
       (
          'name'
-         "songs/o812721102/o812721102"
+         "songs/stranglehold/stranglehold"
       )
       (
          'tracks'
@@ -184,7 +171,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o812721102/o812721102.mid")
+      (midi_file "songs/stranglehold/stranglehold.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -222,19 +209,6 @@
    ('decade' 'the70s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210530
-;Song authored by Harmonix
-;Song=Stranglehold
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -357,7 +331,7 @@
       'song'
       (
          'name'
-         "songs/o414680709/o414680709"
+         "songs/ifyoucouldonlysee/ifyoucouldonlysee"
       )
       (
          'tracks'
@@ -406,7 +380,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o414680709/o414680709.mid")
+      (midi_file "songs/ifyoucouldonlysee/ifyoucouldonlysee.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -444,19 +418,6 @@
    ('decade' 'the90s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20190707
-;Song authored by Neversoft
-;Song=If You Could Only See
-;Languages=
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -580,7 +541,7 @@
       'song'
       (
          'name'
-         "songs/o859937253/o859937253"
+         "songs/seventeen/seventeen"
       )
       (
          'tracks'
@@ -629,7 +590,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o859937253/o859937253.mid")
+      (midi_file "songs/seventeen/seventeen.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -667,19 +628,6 @@
    ('decade' 'the80s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20201121
-;Song authored by Harmonix and ataeaf
-;Song=Seventeen
-;Languages=English,
-;Karaoke=0
-;Multitrack=0
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -697,7 +645,7 @@
       'song'
       (
          'name'
-         "songs/o579244803/o579244803"
+         "songs/lipsofanangel/lipsofanangel"
       )
       (
          'tracks'
@@ -746,7 +694,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o579244803/o579244803.mid")
+      (midi_file "songs/lipsofanangel/lipsofanangel.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -784,19 +732,6 @@
    ('decade' 'the00s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20201121
-;Song authored by Spindoctor6969
-;Song=Lips Of An Angel
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -814,7 +749,7 @@
       'song'
       (
          'name'
-         "songs/o20574188/o20574188"
+         "songs/nevertoolate/nevertoolate"
       )
       (
          'tracks'
@@ -863,7 +798,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o20574188/o20574188.mid")
+      (midi_file "songs/nevertoolate/nevertoolate.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -901,19 +836,6 @@
    ('decade' 'the00s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210530
-;Song authored by Harmonix
-;Song=Never Too Late
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -931,7 +853,7 @@
       'song'
       (
          'name'
-         "songs/o706436063/o706436063"
+         "songs/teenagedirtbag/teenagedirtbag"
       )
       (
          'tracks'
@@ -980,7 +902,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o706436063/o706436063.mid")
+      (midi_file "songs/teenagedirtbag/teenagedirtbag.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -1018,19 +940,6 @@
    ('decade' 'the00s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20200426
-;Song authored by anglebracket
-;Song=Teenage Dirtbag
-;Languages=English,
-;Karaoke=0
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -1048,7 +957,7 @@
       'song'
       (
          'name'
-         "songs/o569823089/o569823089"
+         "songs/zombie/zombie"
       )
       (
          'tracks'
@@ -1099,7 +1008,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o569823089/o569823089.mid")
+      (midi_file "songs/zombie/zombie.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -1137,19 +1046,6 @@
    ('decade' 'the90s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20190707
-;Song authored by Ollie
-;Song=Zombie
-;Languages=English,
-;Karaoke=0
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=1
 )
 
 (
@@ -1167,7 +1063,7 @@
       'song'
       (
          'name'
-         "songs/o853285005/o853285005"
+         "songs/borntobewild/borntobewild"
       )
       (
          'tracks'
@@ -1216,7 +1112,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o853285005/o853285005.mid")
+      (midi_file "songs/borntobewild/borntobewild.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -1254,19 +1150,6 @@
    ('decade' 'the60s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210530
-;Song authored by Harmonix
-;Song=Born to Be Wild
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -1285,7 +1168,7 @@
       'song'
       (
          'name'
-         "songs/o219576688/o219576688"
+         "songs/cryin/cryin"
       )
       (
          'tracks'
@@ -1335,7 +1218,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o219576688/o219576688.mid")
+      (midi_file "songs/cryin/cryin.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -1373,19 +1256,6 @@
    ('decade' 'the90s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210110
-;Song authored by Neversoft / TrojanNemo
-;Song=Cryin'
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -1403,7 +1273,7 @@
       'song'
       (
          'name'
-         "songs/o182401652/o182401652"
+         "songs/africa/africa"
       )
       (
          'tracks'
@@ -1453,7 +1323,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o182401652/o182401652.mid")
+      (midi_file "songs/africa/africa.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -1491,21 +1361,7 @@
    ('decade' 'the80s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20190707
-;Song authored by Four Neat Guys
-;Song=Africa
-;Languages=English,
-;Karaoke=0
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
-
 
 (
    'iris'
@@ -1522,7 +1378,7 @@
       'song'
       (
          'name'
-         "songs/o380338811/o380338811"
+         "songs/iris/iris"
       )
       (
          'tracks'
@@ -1572,7 +1428,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o380338811/o380338811.mid")
+      (midi_file "songs/iris/iris.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -1610,19 +1466,6 @@
    ('decade' 'the90s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20200223
-;Song authored by Guido
-;Song=Iris
-;Languages=English,
-;Karaoke=0
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=1
-;ExpertOnly=0
 )
 
 (
@@ -1728,19 +1571,6 @@
    ('decade' 'the00s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210530
-;Song authored by Harmonix
-;Song=Rock This Town
-;Languages=
-;Karaoke=0
-;Multitrack=0
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -1758,7 +1588,7 @@
       'song'
       (
          'name'
-         "songs/o847361339/o847361339"
+         "songs/pullmeunder/pullmeunder"
       )
       (
          'tracks'
@@ -1808,7 +1638,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o847361339/o847361339.mid")
+      (midi_file "songs/pullmeunder/pullmeunder.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -1846,19 +1676,6 @@
    ('decade' 'the90s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210806
-;Song authored by Harmonix
-;Song=Pull Me Under
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -1876,7 +1693,7 @@
       'song'
       (
          'name'
-         "songs/o682639794/o682639794"
+         "songs/gimmechocolate/gimmechocolate"
       )
       (
          'tracks'
@@ -1926,7 +1743,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o682639794/o682639794.mid")
+      (midi_file "songs/gimmechocolate/gimmechocolate.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -1964,19 +1781,6 @@
    ('decade' 'the10s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210806
-;Song authored by Harmonix
-;Song=Gimme Chocolate!!
-;Languages=English,Japanese,
-;Karaoke=0
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -2083,19 +1887,6 @@
    ('decade' 'the80s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210110
-;Song authored by Harmonix
-;Song=Angel
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -2113,7 +1904,7 @@
       'song'
       (
          'name'
-         "songs/o392829585/o392829585"
+         "songs/runninwiththedevil/runninwiththedevil"
       )
       (
          'tracks'
@@ -2164,7 +1955,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/o392829585/o392829585.mid")
+      (midi_file "songs/runninwiththedevil/runninwiththedevil.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -2202,19 +1993,6 @@
    ('decade' 'the70s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20200223
-;Song authored by Unknown Author
-;Song=Runnin' with the Devil
-;Languages=
-;Karaoke=0
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -2321,19 +2099,6 @@
    ('decade' 'the70s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210530
-;Song authored by Harmonix
-;Song=Ain't Talkin' 'Bout Love
-;Languages=
-;Karaoke=0
-;Multitrack=0
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -2440,19 +2205,6 @@
    ('decade' 'the80s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210530
-;Song authored by Harmonix
-;Song=And The Cradle Will Rock...
-;Languages=
-;Karaoke=0
-;Multitrack=0
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -2559,19 +2311,6 @@
    ('decade' 'the80s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210110
-;Song authored by Harmonix
-;Song=Janie's Got A Gun
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -2677,19 +2416,6 @@
    ('decade' 'the90s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210110
-;Song authored by Harmonix
-;Song=Crazy
-;Languages=English,
-;Karaoke=0
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=1
-;ExpertOnly=0
 )
 
 
@@ -2797,19 +2523,6 @@
    ('decade' 'the90s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20200223
-;Song authored by Harmonix
-;Song=I Don't Want to Miss a Thing
-;Languages=English,
-;Karaoke=1
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -2915,19 +2628,6 @@
    ('decade' 'the80s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210530
-;Song authored by Harmonix
-;Song=Rag Doll
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -3033,19 +2733,6 @@
    ('decade' 'the80s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210530
-;Song authored by Harmonix
-;Song=Love In An Elevator
-;Languages=English,
-;Karaoke=0
-;Multitrack=1
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -3152,19 +2839,6 @@
    ('decade' 'the90s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20201121
-;Song authored by Harmonix
-;Song=Livin' On The Edge
-;Languages=English,
-;Karaoke=0
-;Multitrack=0
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -3269,19 +2943,6 @@
    ('decade' 'the90s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit
-;Song authored by Harmonix
-;Song=Cowboys From Hell (Live From Monsters In Moscow)
-;Languages=
-;Karaoke=0
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -3386,19 +3047,6 @@
    ('decade' 'the00s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit
-;Song authored by Harmonix
-;Song=Hemorrhage
-;Languages=
-;Karaoke=0
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -3504,19 +3152,6 @@
    ('decade' 'the90s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20201121
-;Song authored by Harmonix
-;Song=Cherry Pie
-;Languages=
-;Karaoke=0
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -3622,19 +3257,6 @@
    ('decade' 'the80s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20201121
-;Song authored by Harmonix
-;Song=Dude (Looks Like a Lady)
-;Languages=English,
-;Karaoke=0
-;Multitrack=0
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=1
-;ExpertOnly=0
 )
 
 (
@@ -3740,19 +3362,6 @@
    ('decade' 'the10s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20201121
-;Song authored by Harmonix
-;Song=Ain't It Fun
-;Languages=English,
-;Karaoke=0
-;Multitrack=0
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -3858,19 +3467,6 @@
    ('decade' 'the90s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit version 20210110
-;Song authored by Harmonix
-;Song=Them Bones
-;Languages=
-;Karaoke=0
-;Multitrack=0
-;Convert=1
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
@@ -3976,19 +3572,6 @@
    ('decade' 'the80s')
    (downloaded TRUE)
    ('base_points' 0)
-;DO NOT EDIT THE FOLLOWING LINES MANUALLY
-;Created using Onyx Music Game Toolkit
-;Song authored by Harmonix
-;Song=18 and Life
-;Languages=
-;Karaoke=0
-;Multitrack=0
-;Convert=0
-;2xBass=0
-;RhythmKeys=0
-;RhythmBass=0
-;CATemh=0
-;ExpertOnly=0
 )
 
 (
