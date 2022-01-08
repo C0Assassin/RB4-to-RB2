@@ -6402,3 +6402,108 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'jumper'
+   (
+      'name'
+      "Jumper"
+   )
+   (
+      'artist'
+      "Third Eye Blind"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/jumper/jumper"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (vocal_parts 3)
+	  (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/jumper/jumper.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 275332)
+   ('preview' 114343 144343)
+   (
+      'rank'
+      ('vocals' 240)
+      ('bass' 231)
+      ('guitar' 209)
+      ('drum' 237)
+      ('band' 230)
+   )
+   ('genre' 'alternative')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1997)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_alternative')
+   ('song_id' '1020158')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "Third Eye Blind"
+   )
+   ('album_track_number' 4)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
