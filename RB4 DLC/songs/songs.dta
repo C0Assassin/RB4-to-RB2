@@ -6507,3 +6507,108 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'hangingbyamoment'
+   (
+      'name'
+      "Hanging By A Moment"
+   )
+   (
+      'artist'
+      "Lifehouse"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/hangingbyamoment/hangingbyamoment"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (vocal_parts 2)
+	  (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 -2.0 -2.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/hangingbyamoment/hangingbyamoment.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 217800)
+   ('preview' 77667 107668)
+   (
+      'rank'
+      ('vocals' 221)
+      ('bass' 231)
+      ('guitar' 179)
+      ('drum' 154)
+      ('band' 218)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2000)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '1020549')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "No Name Face"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
