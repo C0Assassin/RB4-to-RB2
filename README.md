@@ -91,7 +91,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  UB40 - Red Red Wine
 *  Van Halen - Ain't Talkin' 'Bout Love
 *  Van Halen - And The Cradle Will Rock...
-*  Van Halen - Hot for Teacher
+*  Van Halen - Hot for Teacher (2x option available)
 *  Van Halen - Runnin' with the Devil
 *  Warrant - Cherry Pie
 *  Weeknd, The - The Hills
