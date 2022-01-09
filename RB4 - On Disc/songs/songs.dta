@@ -3579,3 +3579,107 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'knockemdown'
+   (
+      'name'
+      "Knock Em Down"
+   )
+   (
+      'artist'
+      "Duck & Cover"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/knockemdown/knockemdown"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-4.0 -4.0 -5.0 -4.5 -4.5 -4.0 -4.0 -4.0 -4.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/knockemdown/knockemdown.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 155192)
+   ('preview' 29809 59809)
+   (
+      'rank'
+      ('vocals' 322)
+      ('bass' 310)
+      ('guitar' 302)
+      ('drum' 456)
+      ('band' 344)
+   )
+   ('genre' 'punk')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2014)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_punk')
+   ('song_id' '5042')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Duck & Cover"
+   )
+   ('album_track_number' 8)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)

@@ -2,7 +2,7 @@
 
 Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be converted to 360. Eventually a 360 version will be branched off of this one.
 
-## Songs Completed (34/65):
+## Songs Completed (35/65):
 *  .38 Special - Caught Up in You
 *  4 Non Blondes - What's Up?
 *  Aerosmith - Toys in the Attic
@@ -10,6 +10,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Avenged Sevenfold - Hail to the King
 *  Cure, The - Friday I'm In Love
 *  Dream Theater - Metropolis (2x option available)
+*  Duck & Cover - Knock Em Down
 *  Eddie Japan - Albert
 *  Elvis Presley - Suspicious Minds
 *  Fallout Boy - Centuries
