@@ -8,6 +8,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Aerosmith - Toys in the Attic
 *  Arctic Monkeys - Arabella
 *  Avenged Sevenfold - Hail to the King
+*  Benjamin Booker - Violent Shiver
 *  Cure, The - Friday I'm In Love
 *  Dream Theater - Metropolis (2x option available)
 *  Duck & Cover - Knock Em Down
