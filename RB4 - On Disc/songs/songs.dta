@@ -4104,3 +4104,109 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'littlewhitechurch'
+   (
+      'name'
+      "Little White Church"
+   )
+   (
+      'artist'
+      "Little Big Town"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/littlewhitechurch/littlewhitechurch"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (vocal_parts 3)
+	  (crowd_channels 9 10)
+	  (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
+      )
+      (
+         'vols'
+         (-4.0 -4.0 -5.0 -4.0 -4.0 -4.0 -4.0 -4.0 -4.0 -4.0 -4.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/littlewhitechurch/littlewhitechurch.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 190648)
+   ('preview' 71215 101215)
+   (
+      'rank'
+      ('vocals' 225)
+      ('bass' 180)
+      ('guitar' 175)
+      ('drum' 108)
+      ('band' 148)
+   )
+   ('genre' 'country')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2010)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_country')
+   ('song_id' '5013')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "The Reason Why"
+   )
+   ('album_track_number' 6)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
