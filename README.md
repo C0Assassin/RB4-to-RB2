@@ -2,7 +2,7 @@
 
 Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be converted to 360. Eventually a 360 version will be branched off of this one.
 
-## Songs Completed (42/65):
+## Songs Completed (43/65):
 *  .38 Special - Caught Up in You
 *  4 Non Blondes - What's Up?
 *  Aerosmith - Toys in the Attic
@@ -27,6 +27,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Lightning Bolt - Dream Genie\*
 *  Little Big Town - Little White Church
 *  Live - All Over You
+*  Lucius - Turn It Around
 *  Lynyrd Skynyrd - That Smell
 *  Mark Ronson ft. Bruno Mars - Uptown Funk
 *  Mighty Mighty Bosstones, The - The Impression That I Get

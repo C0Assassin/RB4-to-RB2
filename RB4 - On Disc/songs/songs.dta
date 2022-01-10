@@ -4421,3 +4421,110 @@
    ('base_points' 0)
 )
 
+(
+   'turnitaround'
+   (
+      'name'
+      "Turn It Around"
+   )
+   (
+      'artist'
+      "Lucius"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/turnitaround/turnitaround"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (vocal_parts 3)
+	  (crowd_channels 10 11)
+	  (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
+      )
+      (
+         'vols'
+         (-3.0 -3.0 -6.0 -6.0 -5.0 -5.0 -3.0 -3.0 -6.0 -6.0 -3.0 -3.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/turnitaround/turnitaround.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 215304)
+   ('preview' 35616 65616)
+   (
+      'rank'
+      ('vocals' 330)
+      ('bass' 319)
+      ('guitar' 133)
+      ('drum' 160)
+      ('band' 208)
+   )
+   ('genre' 'indierock')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2013)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_indierock')
+   ('song_id' '5049')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Wildewoman"
+   )
+   ('album_track_number' 2)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
+
+
