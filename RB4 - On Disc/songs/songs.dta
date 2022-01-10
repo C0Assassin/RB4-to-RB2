@@ -3998,3 +3998,109 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'imissthemisery'
+   (
+      'name'
+      "I Miss The Misery"
+   )
+   (
+      'artist'
+      "Halestorm"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/imissthemisery/imissthemisery"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (vocal_parts 3)
+	  (crowd_channels 9 10)
+	  (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
+      )
+      (
+         'vols'
+         (-4.0 -4.0 -3.0 -5.0 -5.0 -4.0 -4.0 -5.0 -5.0 -2.0 -2.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/imissthemisery/imissthemisery.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 188778)
+   ('preview' 42439 72439)
+   (
+      'rank'
+      ('vocals' 352)
+      ('bass' 292)
+      ('guitar' 215)
+      ('drum' 232)
+      ('band' 266)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2012)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '5047')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "The Strange Case Of..."
+   )
+   ('album_track_number' 3)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
