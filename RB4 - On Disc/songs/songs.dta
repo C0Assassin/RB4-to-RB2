@@ -4737,3 +4737,107 @@
    ('base_points' 0)
 )
 
+(
+   'tonguetied'
+   (
+      'name'
+      "Tongue Tied"
+   )
+   (
+      'artist'
+      "Grouplove"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/tonguetied/tonguetied"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (vocal_parts 3)
+	  (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-4.5 -4.5 -5.5 -5.5 -4.5 -4.5 -4.5 -4.5 -4.5 -4.5)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/tonguetied/tonguetied.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 220883)
+   ('preview' 49645 79645)
+   (
+      'rank'
+      ('vocals' 153)
+      ('bass' 208)
+      ('guitar' 139)
+      ('drum' 400)
+      ('band' 257)
+   )
+   ('genre' 'indierock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2011)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_indierock')
+   ('song_id' '5069')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Never Trust a Happy Song"
+   )
+   ('album_track_number' 2)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
