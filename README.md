@@ -119,4 +119,5 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 
 ### Canonymous
 *  Various RB4 DLC
-*  Rush - A Passage to Bangkok
+*  U2 - I Will Follow
+*  Grouplove - Tongue Tied
