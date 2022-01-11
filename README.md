@@ -2,7 +2,7 @@
 
 Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be converted to 360. Eventually a 360 version will be branched off of this one.
 
-## Songs Completed (43/65):
+## Songs Completed (44/65):
 *  .38 Special - Caught Up in You
 *  4 Non Blondes - What's Up?
 *  Aerosmith - Toys in the Attic
@@ -37,6 +37,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Queens of the Stone Age - My God is the Sun
 *  R.E.M. - The One I Love
 *  Rick Derringer - Rock and Roll, Hoochie Koo
+*  Rush - A Passage To Bangkok
 *  Scandal - The Warrior
 *  Soundgarden - Superunknown
 *  St. Vincent - Birth In Reverse
