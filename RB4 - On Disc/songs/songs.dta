@@ -4947,3 +4947,109 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'lazaretto'
+   (
+      'name'
+      "Lazaretto"
+   )
+   (
+      'artist'
+      "Jack White"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/lazaretto/lazaretto"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (vocal_parts 2)
+	  (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-2.0 -2.0 -2.0 -2.0 -2.0 -2.0 -2.0 -2.0 -2.0 -2.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/lazaretto/lazaretto.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 222943)
+   ('preview' 35087 65087)
+   (
+      'rank'
+      ('vocals' 217)
+      ('bass' 395)
+      ('guitar' 281)
+      ('drum' 319)
+      ('band' 296)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2014)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '5017')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Lazaretto"
+   )
+   ('album_track_number' 2)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
+
