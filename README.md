@@ -121,5 +121,6 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 
 ### Canonymous
 *  Various RB4 DLC
-*  U2 - I Will Follow
-*  Grouplove - Tongue Tied
+*  Mumford & Sons - The Wolf
+*  Jack White - Lazaretto
+*  Disturbed - Prayer
