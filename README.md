@@ -2,7 +2,7 @@
 
 Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be converted to 360. Eventually a 360 version will be branched off of this one.
 
-## Songs Completed (46/65):
+## Songs Completed (47/65):
 *  .38 Special - Caught Up in You
 *  4 Non Blondes - What's Up?
 *  Aerosmith - Toys in the Attic
@@ -32,6 +32,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Lynyrd Skynyrd - That Smell
 *  Mark Ronson ft. Bruno Mars - Uptown Funk
 *  Mighty Mighty Bosstones, The - The Impression That I Get
+*  Mumford & Sons - The Wolf
 *  Outfield, The - Your Love
 *  Paramore - Still Into You
 *  Protomen, The - Light Up The Night
@@ -121,6 +122,5 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 
 ### Canonymous
 *  Various RB4 DLC
-*  Mumford & Sons - The Wolf
 *  Jack White - Lazaretto
 *  Disturbed - Prayer
