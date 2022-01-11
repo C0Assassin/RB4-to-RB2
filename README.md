@@ -2,7 +2,7 @@
 
 Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be converted to 360. Eventually a 360 version will be branched off of this one.
 
-## Songs Completed (44/65):
+## Songs Completed (45/65):
 *  .38 Special - Caught Up in You
 *  4 Non Blondes - What's Up?
 *  Aerosmith - Toys in the Attic
@@ -43,6 +43,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  St. Vincent - Birth In Reverse
 *  System of a Down - Spiders
 *  Tijuana Sweetheart - Pistol Whipped
+*  U2 - I Will Follow
 *  Van Halen - Panama
 *  Van Morrison - Brown Eyed Girl
 *  White Denim - At Night In Dream

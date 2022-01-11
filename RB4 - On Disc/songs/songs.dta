@@ -4631,3 +4631,109 @@
    ('base_points' 0)
 )
 
+(
+   'iwillfollow'
+   (
+      'name'
+      "I Will Follow"
+   )
+   (
+      'artist'
+      "U2"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/iwillfollow/iwillfollow"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (vocal_parts 2)
+	  (crowd_channels 9 10)
+	  (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -2.5 2.5)
+      )
+      (
+         'vols'
+         (-4.0 -4.0 -4.0 -4.0 -5.0 -5.0 -4.0 -4.0 -5.0 -4.0 -4.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/iwillfollow/iwillfollow.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 218104)
+   ('preview' 66430 96430)
+   (
+      'rank'
+      ('vocals' 106)
+      ('bass' 128)
+      ('guitar' 112)
+      ('drum' 169)
+      ('band' 124)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1980)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '5066')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Boy"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
+
