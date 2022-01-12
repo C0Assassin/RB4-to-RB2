@@ -5474,3 +5474,108 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'freefallingwarning'
+   (
+      'name'
+      "Free Falling"
+   )
+   (
+      'artist'
+      "The Warning"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/freefallingwarning/freefallingwarning"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (vocal_parts 3)
+	  (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-3.5 -3.5 -3.5 -3.5 -3.5 -3.5 -3.5 -3.5 -3.5 -3.5)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/freefallingwarning/freefallingwarning.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/cowbell_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 237622)
+   ('preview' 61782 91782)
+   (
+      'rank'
+      ('vocals' 121)
+      ('bass' 127)
+      ('guitar' 104)
+      ('drum' 103)
+      ('band' 100)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2015)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '5064')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Escape the Mind"
+   )
+   ('album_track_number' 5)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
