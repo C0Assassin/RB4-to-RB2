@@ -2,7 +2,7 @@
 
 Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be converted to 360. Eventually a 360 version will be branched off of this one.
 
-## Songs Completed (51/65):
+## Songs Completed (52/65):
 *  .38 Special - Caught Up in You
 *  4 Non Blondes - What's Up?
 *  Aerosmith - Toys in the Attic
@@ -46,6 +46,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Rush - A Passage To Bangkok
 *  Scandal - The Warrior
 *  Soundgarden - Superunknown
+*  Spin Doctors - Little Miss Can't Be Wrong
 *  St. Vincent - Birth In Reverse
 *  System of a Down - Spiders
 *  Tijuana Sweetheart - Pistol Whipped
@@ -126,5 +127,4 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 
 ### Canonymous
 *  Various RB4 DLC
-*  Spin Doctors - Little Miss Can't Be Wrong
 *  Warning, The - Free Falling
