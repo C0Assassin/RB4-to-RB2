@@ -5157,3 +5157,109 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'miracleman'
+   (
+      'name'
+      "Miracle Man"
+   )
+   (
+      'artist'
+      "Ozzy Osbourne"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/miracleman/miracleman"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (vocal_parts 2)
+	  (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-2.0 -2.0 -1.0 -2.0 -2.0 -2.0 -2.0 -2.0 -2.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/miracleman/miracleman.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 228843)
+   ('preview' 25439 55439)
+   (
+      'rank'
+      ('vocals' 158)
+      ('bass' 428)
+      ('guitar' 408)
+      ('drum' 460)
+      ('band' 345)
+   )
+   ('genre' 'metal')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1988)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_metal')
+   ('song_id' '5059')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "No Rest for the Wicked"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
+
