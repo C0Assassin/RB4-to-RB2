@@ -2,7 +2,7 @@
 
 Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be converted to 360. Eventually a 360 version will be branched off of this one.
 
-## Songs Completed (48/65):
+## Songs Completed (49/65):
 *  .38 Special - Caught Up in You
 *  4 Non Blondes - What's Up?
 *  Aerosmith - Toys in the Attic
@@ -11,6 +11,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Benjamin Booker - Violent Shiver
 *  Cake - Short Skirt/Long Jacket
 *  Cure, The - Friday I'm In Love
+*  Disturbed - Prayer
 *  Dream Theater - Metropolis (2x option available)
 *  Duck & Cover - Knock Em Down
 *  Eddie Japan - Albert
@@ -123,4 +124,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 
 ### Canonymous
 *  Various RB4 DLC
-*  Disturbed - Prayer
+*  Ozzy Osbourne - Miracle Man
+*  Foo Fighters - The Feast and the Famine
+*  Spin Doctors - Little Miss Can't Be Wrong
+*  Warning, The - Free Falling
