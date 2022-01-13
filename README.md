@@ -2,7 +2,7 @@
 
 Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be converted to 360. Eventually a 360 version will be branched off of this one.
 
-## Songs Completed (55/65):
+## Songs Completed (56/65):
 *  .38 Special - Caught Up in You
 *  4 Non Blondes - What's Up?
 *  Aerosmith - Toys in the Attic
@@ -46,6 +46,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Rush - A Passage To Bangkok
 *  Scandal - The Warrior
 *  Scorpions - No One Like You
+*  Soul Remnants - Dead Black (Heart of Ice)
 *  Slydigs - Light the Fuse
 *  Soundgarden - Superunknown
 *  Spin Doctors - Little Miss Can't Be Wrong
