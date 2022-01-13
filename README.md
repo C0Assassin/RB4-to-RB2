@@ -2,7 +2,7 @@
 
 Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be converted to 360. Eventually a 360 version will be branched off of this one.
 
-## Songs Completed (54/65):
+## Songs Completed (55/65):
 *  .38 Special - Caught Up in You
 *  4 Non Blondes - What's Up?
 *  Aerosmith - Toys in the Attic
@@ -45,6 +45,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Rick Derringer - Rock and Roll, Hoochie Koo
 *  Rush - A Passage To Bangkok
 *  Scandal - The Warrior
+*  Scorpions - No One Like You
 *  Slydigs - Light the Fuse
 *  Soundgarden - Superunknown
 *  Spin Doctors - Little Miss Can't Be Wrong
@@ -129,7 +130,6 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 
 ### Canonymous
 *  Various RB4 DLC
-*  Scorpions - No One Like You
 *  Black Keys, The - Fever
 *  Brandi Carlile - Mainstream Kid
 *  Both, The  - Milwaukee
