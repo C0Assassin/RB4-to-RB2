@@ -173,7 +173,7 @@
       'bank'
       "sfx/tambourine_bank.milo"
    )
-   ('anim_tempo' 16)
+   ('anim_tempo' 64)
    ('song_length' 481364)
    ('preview' 139840 169840)
    (
