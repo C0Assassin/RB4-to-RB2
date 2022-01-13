@@ -2,13 +2,14 @@
 
 Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be converted to 360. Eventually a 360 version will be branched off of this one.
 
-## Songs Completed (56/65):
+## Songs Completed (57/65):
 *  .38 Special - Caught Up in You
 *  4 Non Blondes - What's Up?
 *  Aerosmith - Toys in the Attic
 *  Arctic Monkeys - Arabella
 *  Avenged Sevenfold - Hail to the King
 *  Benjamin Booker - Violent Shiver
+*  Black Keys, The - Fever
 *  Cake - Short Skirt/Long Jacket
 *  Cure, The - Friday I'm In Love
 *  Disturbed - Prayer
@@ -132,7 +133,6 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 
 ### Canonymous
 *  Various RB4 DLC
-*  Black Keys, The - Fever
 *  Brandi Carlile - Mainstream Kid
 *  Both, The  - Milwaukee
 *  U2 - Cedarwood Road
