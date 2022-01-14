@@ -6387,7 +6387,7 @@
       'bank'
       "sfx/cowbell_bank.milo"
    )
-   ('anim_tempo' 32)
+   ('anim_tempo' 16)
    ('song_length' 361126)
    ('preview' 109153 139153)
    (
