@@ -2,7 +2,7 @@
 
 Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be converted to 360. Eventually a 360 version will be branched off of this one.
 
-## Songs Completed (60/65):
+## Songs Completed (61/65):
 *  .38 Special - Caught Up in You
 *  4 Non Blondes - What's Up?
 *  Aerosmith - Toys in the Attic
@@ -30,6 +30,7 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 *  Imagine Dragons - I Bet My Life
 *  Jack White - Lazaretto
 *  Jeff Allen (ft. NLB and NT) - Recession\*
+*  Judas Priest - Halls of Valhalla
 *  Killers, The - Somebody Told Me 
 *  Lightning Bolt - Dream Genie\*
 *  Little Big Town - Little White Church
@@ -140,4 +141,3 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Johnny Blazes and The Pretty Boys - Cold Clear Light
 *  Dark Wheels - V-Bomb
 *  Brad Paisley ft. Keith Urban - Start A Band
-*  Judas Priest - Halls of Valhalla
