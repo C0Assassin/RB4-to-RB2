@@ -5,12 +5,15 @@ Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be convert
 ## Songs Completed (65/65):
 All Rock Band 4 disc songs are playable.
 
-#TODO:
+TODO:
+-
 
-*  Check volume issues with the songs listed in the issues list.
+*  ~~Check volume issues with the songs listed in the issues list.~~
+*  Make sure all songs are properly normalized/volume'd at or near the same loudness.
 *  Encrypt moggs so the songs can be playable in RB3.
 *  Test all songs once more to make sure there are no issues.
 *  Add harmonies to a couple of songs that are missing them.
+
 
 ## RB4 DLC:
 Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous sources who have dumped their DLC. The following DLC is available too:
