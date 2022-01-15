@@ -2,73 +2,9 @@
 
 Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be converted to 360. Eventually a 360 version will be branched off of this one.
 
-## Songs Completed (64/65):
-*  .38 Special - Caught Up in You
-*  4 Non Blondes - What's Up?
-*  Aerosmith - Toys in the Attic
-*  Arctic Monkeys - Arabella
-*  Avenged Sevenfold - Hail to the King
-*  Benjamin Booker - Violent Shiver
-*  Black Keys, The - Fever
-*  Both, The  - Milwaukee
-*  Brad Paisley ft. Keith Urban - Start A Band
-*  Brandi Carlile - Mainstream Kid
-*  Cake - Short Skirt/Long Jacket
-*  Cure, The - Friday I'm In Love
-*  Dark Wheels - V-Bomb
-*  Disturbed - Prayer
-*  Dream Theater - Metropolis (2x option available)
-*  Duck & Cover - Knock Em Down
-*  Eddie Japan - Albert
-*  Elvis Presley - Suspicious Minds
-*  Fallout Boy - Centuries
-*  Fleetwood Mac - You Make Loving Fun
-*  Foo Fighters - The Feast and the Famine
-*  Gary Clark Jr. - Ain't Messin 'Round
-*  Gin Blossoms - Follow You Down
-*  Grouplove - Tongue Tied
-*  Halestorm - I Miss The Misery
-*  Heart - Kick It Out
-*  Heaven's Basement - I Am Electric
-*  Imagine Dragons - I Bet My Life
-*  Jack White - Lazaretto
-*  Jeff Allen (ft. NLB and NT) - Recession\*
-*  Judas Priest - Halls of Valhalla
-*  Killers, The - Somebody Told Me 
-*  Lightning Bolt - Dream Genie\*
-*  Little Big Town - Little White Church
-*  Live - All Over You
-*  Lucius - Turn It Around
-*  Lynyrd Skynyrd - That Smell
-*  Mark Ronson ft. Bruno Mars - Uptown Funk
-*  Mighty Mighty Bosstones, The - The Impression That I Get
-*  Mumford & Sons - The Wolf
-*  Outfield, The - Your Love
-*  Ozzy Osbourne - Miracle Man
-*  Paramore - Still Into You
-*  Protomen, The - Light Up The Night
-*  Queens of the Stone Age - My God is the Sun
-*  R.E.M. - The One I Love
-*  Rick Derringer - Rock and Roll, Hoochie Koo
-*  Rush - A Passage To Bangkok
-*  Scandal - The Warrior
-*  Scorpions - No One Like You
-*  Soul Remnants - Dead Black (Heart of Ice)
-*  Slydigs - Light the Fuse
-*  Soundgarden - Superunknown
-*  Spin Doctors - Little Miss Can't Be Wrong
-*  St. Vincent - Birth In Reverse
-*  System of a Down - Spiders
-*  Tijuana Sweetheart - Pistol Whipped
-*  U2 - Cedarwood Road
-*  U2 - I Will Follow
-*  Van Halen - Panama
-*  Van Morrison - Brown Eyed Girl
-*  Warning, The - Free Falling
-*  White Denim - At Night In Dream
-*  Who, The - The Seeker
+## Songs Completed (65/65):
+All Rock Band 4 disc songs are playable.
 
-\* Investigate and see if RB4 venue should be ported
 
 ## RB4 DLC:
 Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous sources who have dumped their DLC. The following DLC is available too:
@@ -140,4 +76,3 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 
 ### Canonymous
 *  Various RB4 DLC
-*  Johnny Blazes and The Pretty Boys - Cold Clear Light
