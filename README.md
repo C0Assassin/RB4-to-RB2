@@ -10,7 +10,7 @@ TODO:
 
 *  ~~Check volume issues with the songs listed in the issues list.~~
 *  Make sure all songs are properly normalized/volume'd at or near the same loudness.
-*  Encrypt moggs so the songs can be playable in RB3.
+*  ~~Encrypt moggs so the songs can be playable in RB3.~~
 *  Test all songs once more to make sure there are no issues.
 *  Add harmonies to a couple of songs that are missing them.
 
