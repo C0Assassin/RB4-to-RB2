@@ -12,7 +12,7 @@ TODO:
 *  Make sure all songs are properly normalized/volume'd at or near the same loudness.
 *  ~~Encrypt moggs so the songs can be playable in RB3.~~
 *  Test all songs once more to make sure there are no issues.
-*  Add harmonies to a couple of songs that are missing them.
+*  ~~Add harmonies to a couple of songs that are missing them.~~
 
 
 ## RB4 DLC:
