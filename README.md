@@ -2,9 +2,13 @@
 ![RB4toRB2](https://raw.githubusercontent.com/C0Assassin/RB4-to-RB2/main/4to2.png)
 
 
-Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be converted to 360. Eventually a 360 version will be branched off of this one.
+Welcome to the RB4 to RB2 repo.
+360 cons can be found here: https://drive.google.com/drive/u/3/folders/1oBmSA-uMu55BNhtIiYafO5jC0vTtaOU6
+Disc songs only at the moment. The 360 branch of this repo contains DLC cons.
 
-## Songs Completed (65/65):
+Instructions on how to pull properly are in the instructions.txt file.
+
+## Disc Songs Completed (65/65):
 All Rock Band 4 disc songs are playable.
 
 
@@ -72,11 +76,3 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Weeknd, The - The Hills
 *  Wheatus - Teenage Dirtbag
 *  Winger - Seventeen
-
-## Songs in Progress
-
-### AddyMills
-
-
-### Canonymous
-*  Various RB4 DLC
