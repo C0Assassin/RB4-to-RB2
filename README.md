@@ -34,6 +34,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Bad Company - Bad Company
 *  Brian Setzer - Rock This Town
 *  Bruno Mars - 24k Magic
+*  Bruno Mars - Locked Out Of Heaven
 *  Cranberries, The - Zombie
 *  Cure, The - Lovesong
 *  Disturbed - The Sound of Silence
