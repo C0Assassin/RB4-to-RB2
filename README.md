@@ -1,4 +1,6 @@
 # RB4-to-RB2
+![RB4toRB2](https://raw.githubusercontent.com/C0Assassin/RB4-to-RB2/main/4to2.png)
+
 
 Welcome to the RB4 to RB2 repo. These files are for PS3 only, but can be converted to 360. Eventually a 360 version will be branched off of this one.
 
