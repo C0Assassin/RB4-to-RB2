@@ -51,6 +51,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  John Denver - Take Me Home, Country Roads
 *  Lifehouse - Hanging By A Moment
 *  Lil Nas X ft. Billy Ray Cyrus - Old Town Road (Remix)
+*  Lizzo - Juice
 *  Los Lobos - La Bamba
 *  Megadeth - Trust
 *  Pantera - Cowboys From Hell (Live)
