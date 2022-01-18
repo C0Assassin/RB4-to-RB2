@@ -54,6 +54,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Lizzo - Juice
 *  Los Lobos - La Bamba
 *  Megadeth - Trust
+*  Outkast - Hey Ya!
 *  Pantera - Cowboys From Hell (Live)
 *  Paramore - Ain't It Fun
 *  Ram Jam - Black Betty (2x option available)
