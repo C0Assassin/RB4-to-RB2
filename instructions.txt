@@ -26,6 +26,6 @@ Simply copy the folder (eg. RB4 DLC), and then paste the folder into ur RB1 USRD
 
 If it asks to overwrite anything, please do so. It is an update and sometimes older song fixes are uploaded.
 
-It can be in Rock Band 1 or Rock Band 2's USRDIR folder, it really doesn't matter. Its preferred that it be in Rock Band 1s.
+It should go in Rock Band 1s USRDIR folder. Its preferred that it be in Rock Band 1s as they are Rock Band 1 packages.
 BLUS30050 - Rock Band 1
 BLUS30147 - Rock Band 2
