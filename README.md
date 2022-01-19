@@ -2,7 +2,6 @@
 
 Welcome to the RB4 to RB2 Xbox DLC branch. PS3 files always on the main branch.
 This branch is largely not the main focus and does not get as frequently updated as a result. 
-https://drive.google.com/drive/folders/12d_pTs6C7I6nqjUpaZ6hVFhKi1cIurn2?usp=sharing Drive link for some songs
 
 ## Songs Completed (65/65):
 
