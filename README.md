@@ -10,10 +10,14 @@ All RB4 songs are available in con format singles or one large con pack.
 
 ## DLC Songs:
 
+*  Aerosmith - Crazy
 *  Aerosmith - Dude (Looks Like a Lady)
+*  Aerosmith - Rag Doll
 *  Alice in Chains - Them Bones
+*  Cranberries, The - Zombie
 *  Pantera - Cowboys from Hell (Live from Monsters In Moscow)
 *  Van Halen - Ain't Talkin' 'Bout Love
 *  Van Halen - And The Cradle Will Rock...
 *  Van Halen - Hot For Teacher
+*  Van Halen - Runnin' with the Devil
 *  Wheatus - Teenage Dirtbag
