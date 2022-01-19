@@ -6815,3 +6815,108 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'witharmswideopen'
+   (
+      'name'
+      "With Arms Wide Open"
+   )
+   (
+      'artist'
+      "Creed"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/witharmswideopen/witharmswideopen"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (vocal_parts 2)
+	  (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/witharmswideopen/witharmswideopen.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 263903)
+   ('preview' 99144 129144)
+   (
+      'rank'
+      ('vocals' 180)
+      ('bass' 190)
+      ('guitar' 230)
+      ('drum' 190)
+      ('band' 245)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1999)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '1020503')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "Human Clay"
+   )
+   ('album_track_number' 8)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)

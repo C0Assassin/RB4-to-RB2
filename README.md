@@ -33,6 +33,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Bruno Mars - 24k Magic
 *  Bruno Mars - Locked Out Of Heaven
 *  Cranberries, The - Zombie
+*  Creed - With Arms Wide Open
 *  Cure, The - Lovesong
 *  Daft Punk ft. Pharrell Williams - Get Lucky
 *  Disturbed - The Sound of Silence
