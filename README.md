@@ -29,6 +29,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Avril Lavigne - Complicated
 *  BABYMETAL - Gimme Chocolate!!
 *  Bad Company - Bad Company
+*  Belinda Carlisle - Heaven Is A Place On Earth
 *  Brian Setzer - Rock This Town
 *  Bruno Mars - 24k Magic
 *  Bruno Mars - Locked Out Of Heaven
