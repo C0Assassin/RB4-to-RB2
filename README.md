@@ -63,6 +63,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Red Jumpsuit Apparatus, The - Face Down
 *  Robin Thicke ft. Pharrell - Blurred Lines
 *  Romantics, The - What I Like About You
+*  Rupert Holmes - Escape (The Piña Colada Song)
 *  Semisonic - Closing Time
 *  Skid Row - 18 and Life
 *  Steppenwolf - Born to be Wild
