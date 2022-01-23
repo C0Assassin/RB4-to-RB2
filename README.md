@@ -61,6 +61,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Paramore - Ain't It Fun
 *  Ram Jam - Black Betty (2x option available)
 *  Red Jumpsuit Apparatus, The - Face Down
+*  Robert Palmer - Bad Case of Loving You (Doctor, Doctor)
 *  Robin Thicke ft. Pharrell - Blurred Lines
 *  Romantics, The - What I Like About You
 *  Rupert Holmes - Escape (The Piña Colada Song)

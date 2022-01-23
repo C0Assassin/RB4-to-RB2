@@ -7235,3 +7235,108 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'badcaseoflovingyou'
+   (
+      'name'
+      "Bad Case of Loving You (Doctor, Doctor)"
+   )
+   (
+      'artist'
+      "Robert Palmer"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/badcaseoflovingyou/badcaseoflovingyou"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (vocal_parts 2)
+	  (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/badcaseoflovingyou/badcaseoflovingyou.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 195739)
+   ('preview' 43681 73681)
+   (
+      'rank'
+      ('vocals' 229)
+      ('bass' 229)
+      ('guitar' 204)
+      ('drum' 170)
+      ('band' 240)
+   )
+   ('genre' 'poprock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1979)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_poprock')
+   ('song_id' '1020055')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'dlc')
+   (
+      'album_name'
+      "Secrets"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the70s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
