@@ -94,7 +94,7 @@
    ('sub_genre' 'subgenre_hardrock')
    ('song_id' '1020048')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "1984"
@@ -198,7 +198,7 @@
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' 'o812721102')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Ted Nugent"
@@ -303,7 +303,7 @@
    ('sub_genre' 'subgenre_punk')
    ('song_id' '1020124')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Kiss Me Deadly"
@@ -407,7 +407,7 @@
    ('sub_genre' 'subgenre_alternative')
    ('song_id' 'o414680709')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Lemon Parade"
@@ -512,7 +512,7 @@
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' '1020377')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Dreamboat Annie"
@@ -617,7 +617,7 @@
    ('sub_genre' 'subgenre_glam')
    ('song_id' 'o859937253')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Winger"
@@ -721,7 +721,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' 'o579244803')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Extreme Behaviour"
@@ -825,7 +825,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' 'o20574188')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "One-X"
@@ -929,7 +929,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' 'o706436063')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Wheatus"
@@ -1035,7 +1035,7 @@
    ('sub_genre' 'subgenre_alternative')
    ('song_id' '1020136')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "No Need to Argue"
@@ -1139,7 +1139,7 @@
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' 'o853285005')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Steppenwolf"
@@ -1245,7 +1245,7 @@
    ('sub_genre' 'subgenre_blues')
    ('song_id' '1020045')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Get a Grip"
@@ -1350,7 +1350,7 @@
    ('sub_genre' 'subgenre_softrock')
    ('song_id' 'o182401652')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Toto IV"
@@ -1455,7 +1455,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1020121')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Dizzy Up the Girl"
@@ -1560,7 +1560,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1020092')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "The Hits"
@@ -1665,7 +1665,7 @@
    ('sub_genre' 'subgenre_prog')
    ('song_id' '1020187')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Images and Words"
@@ -1770,7 +1770,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1020031')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "BABYMETAL"
@@ -1876,7 +1876,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1020258')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Permanent Vacation"
@@ -1982,7 +1982,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1020052')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Van Halen"
@@ -2088,7 +2088,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1020050')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Van Halen"
@@ -2194,7 +2194,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1020051')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Women and Children First"
@@ -2300,7 +2300,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1020259')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Pump"
@@ -2405,7 +2405,7 @@
    ('sub_genre' 'subgenre_blues')
    ('song_id' '1020257')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Get a Grip"
@@ -2512,7 +2512,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1020278')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Armageddon: The Album"
@@ -2617,7 +2617,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1020279')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Permanent Vacation"
@@ -2722,7 +2722,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' 'o782351311')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Pump"
@@ -2828,7 +2828,7 @@
    ('sub_genre' 'subgenre_blues')
    ('song_id' '1020256')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Get a Grip"
@@ -2932,7 +2932,7 @@
    ('sub_genre' 'subgenre_groove')
    ('song_id' '1020015')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "aLIVE and hostile ep"
@@ -3036,7 +3036,7 @@
    ('sub_genre' 'subgenre_alternative')
    ('song_id' 'o143673747')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Something Like Human"
@@ -3141,7 +3141,7 @@
    ('sub_genre' 'subgenre_glam')
    ('song_id' '1020089')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Cherry Pie"
@@ -3246,7 +3246,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1020040')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Permanent Vacation"
@@ -3351,7 +3351,7 @@
    ('sub_genre' 'subgenre_pop')
    ('song_id' '1020171')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Paramore"
@@ -3456,7 +3456,7 @@
    ('sub_genre' 'subgenre_grunge')
    ('song_id' 'o414798002')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Dirt"
@@ -3561,7 +3561,7 @@
    ('song_id' 'o879989460')
    ('loading_phrase' 'According to Dave Sabo, the song \q18 And Life\q was inspired by a newpaper article he read about an 18 year-old named Ricky who was sentenced to life for shooting and killing his friend with a gun he thought was not loaded.')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Skid Row"
@@ -3666,7 +3666,7 @@
    ('sub_genre' 'subgenre_pop')
    ('song_id' '1020434')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "La Bamba (Original Motion Picture Soundtrack)"
@@ -3771,7 +3771,7 @@
    ('sub_genre' 'subgenre_reggae')
    ('song_id' '1020386')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Labour of Love"
@@ -3876,7 +3876,7 @@
    ('sub_genre' 'subgenre_pop')
    ('song_id' '1020150')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "The Romantics"
@@ -3981,7 +3981,7 @@
    ('sub_genre' 'subgenre_metal')
    ('song_id' '1020236')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Immortalized"
@@ -4086,7 +4086,7 @@
    ('sub_genre' 'subgenre_alternative')
    ('song_id' '1020419')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "The Reason"
@@ -4191,7 +4191,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1020142')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Beauty Behind the Madness"
@@ -4296,7 +4296,7 @@
    ('sub_genre' 'subgenre_country')
    ('song_id' '1020454')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "7"
@@ -4401,7 +4401,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1020013')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "The Best of Earth, Wind & Fire, Vol. 1"
@@ -4506,7 +4506,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1020312')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Fool for the City"
@@ -4611,7 +4611,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1020163')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Night Visions"
@@ -4716,7 +4716,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1020288')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Ram Jam"
@@ -4820,7 +4820,7 @@
    ('sub_genre' 'subgenre_new_wave')
    ('song_id' 'o577488811')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Disintegration"
@@ -4925,7 +4925,7 @@
    ('sub_genre' 'subgenre_metal')
    ('song_id' '1020271')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "The Stage"
@@ -5030,7 +5030,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1020362')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Evolve"
@@ -5135,7 +5135,7 @@
    ('sub_genre' 'subgenre_alternative')
    ('song_id' '1020185')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Feeling Strangely Fine"
@@ -5239,7 +5239,7 @@
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' '1020366')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Bad Company"
@@ -5344,7 +5344,7 @@
    ('sub_genre' 'subgenre_poprock')
    ('song_id' '1020255')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Let Go"
@@ -5448,7 +5448,7 @@
    ('sub_genre' 'subgenre_metal')
    ('song_id' '1020265')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Cryptic Writings"
@@ -5551,7 +5551,7 @@
    ('rating' 2)
    ('song_id' 'o943092883')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Don't You Fake It"
@@ -5656,7 +5656,7 @@
    ('sub_genre' 'subgenre_pop')
    ('song_id' '1020272')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "24K Magic"
@@ -5761,7 +5761,7 @@
    ('sub_genre' 'subgenre_country')
    ('song_id' '1020559')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Poems, Prayers & Promises"
@@ -5866,7 +5866,7 @@
    ('sub_genre' 'subgenre_pop')
    ('song_id' '1020314')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "The Sign"
@@ -5973,7 +5973,7 @@
    ('sub_genre' 'subgenre_glam')
    ('song_id' '1020284')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Stay Hungry"
@@ -6078,7 +6078,7 @@
    ('sub_genre' 'subgenre_alternative')
    ('song_id' '1020158')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Third Eye Blind"
@@ -6183,7 +6183,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1020549')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "No Name Face"
@@ -6279,7 +6279,7 @@
    ('sub_genre' 'subgenre_power')
    ('song_id' '1010037')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Inhuman Rampage"
@@ -6384,7 +6384,7 @@
    ('sub_genre' 'subgenre_poprock')
    ('song_id' '1020105')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Unorthodox Jukebox"
@@ -6489,7 +6489,7 @@
    ('sub_genre' 'subgenre_pop')
    ('song_id' '1020112')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Random Access Memories"
@@ -6594,7 +6594,7 @@
    ('sub_genre' 'subgenre_pop')
    ('song_id' '1020499')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Cuz I Love You"
@@ -6699,7 +6699,7 @@
    ('sub_genre' 'subgenre_pop')
    ('song_id' '1020280')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Toto"
@@ -6804,7 +6804,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1020111')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Speakerboxxx/The Love Below"
@@ -6909,7 +6909,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1020503')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Human Clay"
@@ -7014,7 +7014,7 @@
    ('sub_genre' 'subgenre_pop')
    ('song_id' '1020120')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Heaven on Earth"
@@ -7119,7 +7119,7 @@
    ('sub_genre' 'subgenre_funk')
    ('song_id' '1020189')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Blurred Lines"
@@ -7224,7 +7224,7 @@
    ('sub_genre' 'subgenre_poprock')
    ('song_id' '1020385')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Partners in Crime"
@@ -7329,7 +7329,7 @@
    ('sub_genre' 'subgenre_poprock')
    ('song_id' '1020055')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Secrets"

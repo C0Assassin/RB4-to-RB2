@@ -93,7 +93,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' 'x1020288')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "Ram Jam"
@@ -198,7 +198,7 @@
    ('sub_genre' 'subgenre_metal')
    ('song_id' 'x1020271')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "The Stage"
@@ -305,7 +305,7 @@
    ('sub_genre' 'subgenre_hardrock')
    ('song_id' 'x1020048')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'dlc')
+   ('game_origin' 'rb4_dlc')
    (
       'album_name'
       "1984"
