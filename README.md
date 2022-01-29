@@ -59,6 +59,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Outkast - Hey Ya!
 *  Pantera - Cowboys From Hell (Live)
 *  Paramore - Ain't It Fun
+*  Post Malone - Circles
 *  Ram Jam - Black Betty (2x option available)
 *  Red Jumpsuit Apparatus, The - Face Down
 *  Robert Palmer - Bad Case of Loving You (Doctor, Doctor)

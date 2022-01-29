@@ -7340,3 +7340,110 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'circles2'
+   (
+      'name'
+      "Circles"
+   )
+   (
+      'artist'
+      "Post Malone"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/circles2/circles2"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (vocal_parts 3)
+	  (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-4.0 -4.0 -4.0 -4.0 -4.0 -4.0 -4.0 -4.0 -4.0 -4.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/circles2/circles2.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 215999)
+   ('preview' 91999 122000)
+   (
+      'rank'
+      ('vocals' 139)
+      ('bass' 35)
+      ('guitar' 144)
+      ('drum' 50)
+      ('band' 166)
+   )
+   ('genre' 'poprock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2019)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '1020487')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4_dlc')
+   (
+      'album_name'
+      "Holywood's Bleeding"
+   )
+   ('album_track_number' 6)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
+
+
