@@ -69,6 +69,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Rupert Holmes - Escape (The Piña Colada Song)
 *  Semisonic - Closing Time
 *  Skid Row - 18 and Life
+*  Skid Row - I Remember You
 *  Steppenwolf - Born to be Wild
 *  Ted Nugent - Strangehold
 *  Third Eye Blind - Jumper

@@ -7550,3 +7550,108 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'irememberyou'
+   (
+      'name'
+      "I Remember You"
+   )
+   (
+      'artist'
+      "Skid Row"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/irememberyou/irememberyou"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/irememberyou/irememberyou.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 317018)
+   ('preview' 59000 89000)
+   (
+      'rank'
+      ('vocals' 360)
+      ('bass' 255)
+      ('guitar' 300)
+      ('drum' 185)
+      ('band' 262)
+   )
+   ('genre' 'glam')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1989)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_glam')
+   ('song_id' 'o37880357')
+   ('loading_phrase' 'In a 2007 interview, vocalist Sebastian Bach commented that \qI Remember You\q was the #1 prom song in the U.S. in the year 1990.')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4_dlc')
+   (
+      'album_name'
+      "Skid Row"
+   )
+   ('album_track_number' 10)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
