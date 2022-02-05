@@ -7655,3 +7655,107 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'eattherich'
+   (
+      'name'
+      "Eat the Rich"
+   )
+   (
+      'artist'
+      "Aerosmith"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/eattherich/eattherich"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/eattherich/eattherich.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 258262)
+   ('preview' 73000 103000)
+   (
+      'rank'
+      ('vocals' 282)
+      ('bass' 320)
+      ('guitar' 380)
+      ('drum' 160)
+      ('band' 269)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1993)
+   ('rating' 3)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '19932123')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4_dlc')
+   (
+      'album_name'
+      "Get a Grip"
+   )
+   ('album_track_number' 2)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)

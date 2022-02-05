@@ -19,6 +19,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Aerosmith - Crazy
 *  Aerosmith - Cryin'
 *  Aerosmith - Dude (Looks Like a Lady)
+*  Aerosmith - Eat the Rich
 *  Aerosmith - I Don't Want to Miss a Thing
 *  Aerosmith - Janie's Got A Gun
 *  Aerosmith - Livin' On The Edge
