@@ -7694,7 +7694,8 @@
             )
          )
       )
-      (
+      (vocal_parts 3)
+	  (
          'pans'
          (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
       )
@@ -7728,8 +7729,8 @@
       "sfx/tambourine_bank.milo"
    )
    ('anim_tempo' 32)
-   ('song_length' 258262)
-   ('preview' 73000 103000)
+   ('song_length' 255932)
+   ('preview' 73325 103325)
    (
       'rank'
       ('vocals' 282)
@@ -7746,7 +7747,7 @@
    ('year_released' 1993)
    ('rating' 3)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '19932123')
+   ('song_id' '1020041')
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
    (
