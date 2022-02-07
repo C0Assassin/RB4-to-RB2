@@ -7865,3 +7865,108 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'partyrockanthem'
+   (
+      'name'
+      "Party Rock Anthem"
+   )
+   (
+      'artist'
+      "LMFAO ft. Lauren Bennett & GoonRock"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/partyrockanthem/partyrockanthem"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (vocal_parts 3)
+	  (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/partyrockanthem/partyrockanthem.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/handclap_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 265844)
+   ('preview' 121846 151846)
+   (
+      'rank'
+      ('vocals' 155)
+      ('bass' 141)
+      ('guitar' 166)
+      ('drum' 179)
+      ('band' 205)
+   )
+   ('genre' 'popdanceelectronic')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2011)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_pop')
+   ('song_id' '1020261')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4_dlc')
+   (
+      'album_name'
+      "Sorry for Party Rocking"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)

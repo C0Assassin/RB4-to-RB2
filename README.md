@@ -56,6 +56,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Lifehouse - Hanging By A Moment
 *  Lil Nas X ft. Billy Ray Cyrus - Old Town Road (Remix)
 *  Lizzo - Juice
+*  LMFAO - Party Rock Anthem
 *  Los Lobos - La Bamba
 *  Megadeth - Trust
 *  Outkast - Hey Ya!
