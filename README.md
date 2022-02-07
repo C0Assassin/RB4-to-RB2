@@ -35,6 +35,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Brian Setzer - Rock This Town
 *  Bruno Mars - 24k Magic
 *  Bruno Mars - Locked Out Of Heaven
+*  Chainsmokers, The ft. Halsey - Closer
 *  Cranberries, The - Zombie
 *  Creed - With Arms Wide Open
 *  Cure, The - Lovesong
