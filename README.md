@@ -78,6 +78,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Tonic - If You Could Only See
 *  Toto - Africa
 *  Toto - Hold The Line
+*  Twenty One Pilots - Heathens
 *  Twisted Sister - I Wanna Rock
 *  UB40 - Red Red Wine
 *  Van Halen - Ain't Talkin' 'Bout Love
