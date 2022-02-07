@@ -53,6 +53,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Imagine Dragons - Believer
 *  Imagine Dragons - Radioactive
 *  John Denver - Take Me Home, Country Roads
+*  Kenny Loggins - Danger Zone
 *  Lifehouse - Hanging By A Moment
 *  Lil Nas X ft. Billy Ray Cyrus - Old Town Road (Remix)
 *  Lizzo - Juice
