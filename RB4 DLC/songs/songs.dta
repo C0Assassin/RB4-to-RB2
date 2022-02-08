@@ -8180,3 +8180,109 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'stacysmom'
+   (
+      'name'
+      "Stacy's Mom"
+   )
+   (
+      'artist'
+      "Fountains of Wayne"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/stacysmom/stacysmom"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (vocal_parts 3)
+	  (crowd_channels 10 11)
+	  (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/stacysmom/stacysmom.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 201339)
+   ('preview' 69011 99011)
+   (
+      'rank'
+      ('vocals' 281)
+      ('bass' 183)
+      ('guitar' 141)
+      ('drum' 153)
+      ('band' 217)
+   )
+   ('genre' 'poprock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2003)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_poprock')
+   ('song_id' '1020547')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4_dlc')
+   (
+      'album_name'
+      "Welcome Interstate Managers"
+   )
+   ('album_track_number' 3)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)

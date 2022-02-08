@@ -45,6 +45,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Dream Theater - Pull Me Under
 *  Earth, Wind & Fire - September
 *  Foghat - Slow Ride
+*  Fountains of Wayne - Stacy's Mom
 *  Fuel - Hemorrhage (In My Hands)
 *  Generation X - Dancing with Myself
 *  Goo Goo Dolls - Iris
