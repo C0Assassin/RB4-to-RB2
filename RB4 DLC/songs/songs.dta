@@ -6196,7 +6196,7 @@
 )
 
 (
-   'throughthefireandflames'
+   'throughthefireandflamesrb4'
    (
       'name'
       "Through the Fire and Flames"
@@ -6210,7 +6210,7 @@
       'song'
       (
          'name'
-         "songs/throughthefireandflames/throughthefireandflames"
+         "songs/throughthefireandflamesrb4/throughthefireandflamesrb4"
       )
       (
          'tracks'
@@ -6251,7 +6251,7 @@
             ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
          )
       )
-      (midi_file "songs/throughthefireandflames/throughthefireandflames.mid")
+      (midi_file "songs/throughthefireandflamesrb4/throughthefireandflamesrb4.mid")
    )
    ('song_scroll_speed' 2300)
    (
@@ -6277,7 +6277,7 @@
    ('year_released' 2006)
    ('rating' 2)
    ('sub_genre' 'subgenre_power')
-   ('song_id' '1010037')
+   ('song_id' '1066637')
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
    (
