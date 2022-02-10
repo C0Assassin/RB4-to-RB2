@@ -21,6 +21,7 @@ All RB4 songs are available in con format singles or one large con pack.
 *  Aerosmith - Love In An Elevator
 *  Aerosmith - Rag Doll
 *  Alice in Chains - Them Bones
+*  Avenged Sevenfold - The Stage
 *  Cranberries, The - Zombie
 *  Foghat - Slow Ride
 *  Generation X - Dancing With Myself
@@ -32,6 +33,7 @@ All RB4 songs are available in con format singles or one large con pack.
 *  Pantera - Cowboys from Hell (Live from Monsters In Moscow)
 *  Steppenwolf - Born to Be Wild
 *  Toto - Africa
+*  Toto - Hold The Line
 *  Twisted Sister - I Wanna Rock
 *  Van Halen - Ain't Talkin' 'Bout Love
 *  Van Halen - And The Cradle Will Rock...
