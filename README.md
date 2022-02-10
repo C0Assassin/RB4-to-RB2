@@ -14,6 +14,10 @@ All RB4 songs are available in con format singles or one large con pack.
 *  Aerosmith - Crazy
 *  Aerosmith - Cryin'
 *  Aerosmith - Dude (Looks Like a Lady)
+*  Aerosmith - Eat The Rich
+*  Aerosmith - I Don't Want to Miss a Thing
+*  Aerosmith - Janie's Got A Gun
+*  Aerosmith - Livin' On The Edge
 *  Aerosmith - Love In An Elevator
 *  Aerosmith - Rag Doll
 *  Alice in Chains - Them Bones
@@ -35,3 +39,4 @@ All RB4 songs are available in con format singles or one large con pack.
 *  Van Halen - Runnin' with the Devil
 *  Warrant - Cherry Pie
 *  Wheatus - Teenage Dirtbag
+*  Winger - Seventeen
