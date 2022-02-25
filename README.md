@@ -3,8 +3,8 @@
 
 
 Welcome to the RB4 to RB2 repo.
-360 cons can be found here: https://drive.google.com/drive/u/3/folders/1oBmSA-uMu55BNhtIiYafO5jC0vTtaOU6
-Disc songs only at the moment. The 360 branch of this repo contains DLC cons.
+360 on-disc cons can be found here: https://drive.google.com/drive/u/3/folders/1oBmSA-uMu55BNhtIiYafO5jC0vTtaOU6
+360 DLC pack can be found here: https://drive.google.com/drive/u/1/folders/1-XCBzK_zawyf1mJQD4zCdH7FkUJKjW2q (Contains RB3toRB2 Xbox pack too!)
 
 Instructions on how to pull properly are in the instructions.txt file.
 
