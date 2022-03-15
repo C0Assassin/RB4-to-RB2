@@ -575,7 +575,8 @@
          'cores'
          (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
       )
-      (
+      (vocal_parts 3)
+	  (
          'drum_solo'
          (
             'seqs'
@@ -597,15 +598,15 @@
       "sfx/tambourine_bank.milo"
    )
    ('anim_tempo' 16)
-   ('song_length' 294294)
-   ('preview' 40000 70000)
+   ('song_length' 292812)
+   ('preview' 100312 130312)
    (
       'rank'
-      ('vocals' 175)
-      ('bass' 228)
-      ('guitar' 409)
-      ('drum' 242)
-      ('band' 292)
+      ('vocals' 210)
+      ('bass' 288)
+      ('guitar' 486)
+      ('drum' 292)
+      ('band' 300)
    )
    ('genre' 'glam')
    ('vocal_gender' 'male')
@@ -615,7 +616,7 @@
    ('year_released' 1988)
    ('rating' 3)
    ('sub_genre' 'subgenre_glam')
-   ('song_id' 'o859937253')
+   ('song_id' '1020206')
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
    (
