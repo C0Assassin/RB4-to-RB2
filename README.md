@@ -41,6 +41,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Creed - With Arms Wide Open
 *  Cure, The - Lovesong
 *  Daft Punk ft. Pharrell Williams - Get Lucky
+*  Disturbed - The Vengeful One
 *  Disturbed - The Sound of Silence
 *  Dragonforce - Through the Fire and Flames (RB4 chart)
 *  Dream Theater - Pull Me Under
