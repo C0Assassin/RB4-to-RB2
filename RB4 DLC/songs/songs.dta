@@ -8388,7 +8388,112 @@
    )
    ('album_track_number' 3)
    ('context' 2000)
-   ('decade' 'the10s') ;;;EDIT!
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
+
+(
+   'thiswillbetheday'
+   (
+      'name'
+      "This Will Be The Day"
+   )
+   (
+      'artist'
+      "Jeff Williams ft. Casey Lee Williams"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/thiswillbetheday/thiswillbetheday"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (vocal_parts 3)
+	  (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/thiswillbetheday/thiswillbetheday.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/cowbell_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 188198)
+   ('preview' 41356 71356)
+   (
+      'rank'
+      ('vocals' 311)
+      ('bass' 258)
+      ('guitar' 410)
+      ('drum' 438)
+      ('band' 301)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2013)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '1020393')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4_dlc')
+   (
+      'album_name'
+      "RWBY: Volume 1 Soundtrack"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the10s')
    (downloaded TRUE)
    ('base_points' 0)
 )
