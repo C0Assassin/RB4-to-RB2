@@ -3513,12 +3513,13 @@
       )
       (
          'vols'
-         (-0.0 -0.0 -4.0 -4.0 -0.7 -0.7 -2.8 -2.8 -4.5 -4.5)
+         (-0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0)
       )
       (
          'cores'
          (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
       )
+	  (vocal_parts 2)
       (
          'drum_solo'
          (
@@ -3541,8 +3542,8 @@
       "sfx/cowbell_bank.milo"
    )
    ('anim_tempo' 16)
-   ('song_length' 232838)
-   ('preview' 122000 152000)
+   ('song_length' 235235)
+   ('preview' 58390 88390)
    (
       'rank'
       ('vocals' 340)
@@ -3559,7 +3560,7 @@
    ('year_released' 1989)
    ('rating' 2)
    ('sub_genre' 'subgenre_glam')
-   ('song_id' 'o879989460')
+   ('song_id' '1020348')
    ('loading_phrase' 'According to Dave Sabo, the song \q18 And Life\q was inspired by a newpaper article he read about an 18 year-old named Ricky who was sentenced to life for shooting and killing his friend with a gun he thought was not loaded.')
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
