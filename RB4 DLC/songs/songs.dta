@@ -8498,3 +8498,108 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'iceicebaby'
+   (
+      'name'
+      "Ice Ice Baby"
+   )
+   (
+      'artist'
+      "Vanilla Ice"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/iceicebaby/iceicebaby"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+	  (vocal_parts 3)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/iceicebaby/iceicebaby.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 267214)
+   ('preview' 12320 42320)
+   (
+      'rank'
+      ('vocals' 115)
+      ('bass' 120)
+      ('guitar' 102)
+      ('drum' 107)
+      ('band' 130)
+   )
+   ('genre' 'hiphoprap')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1990)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_hiphoprap')
+   ('song_id' '1020295')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4_dlc')
+   (
+      'album_name'
+      "To the Extreme"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)

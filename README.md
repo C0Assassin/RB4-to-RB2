@@ -92,6 +92,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Van Halen - And The Cradle Will Rock...
 *  Van Halen - Hot for Teacher (2x option available)
 *  Van Halen - Runnin' with the Devil
+*  Vanilla Ice - Ice Ice Baby
 *  Warrant - Cherry Pie
 *  Weeknd, The - The Hills
 *  Wheatus - Teenage Dirtbag
