@@ -46,6 +46,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Dragonforce - Through the Fire and Flames (RB4 chart)
 *  Dream Theater - Pull Me Under
 *  Earth, Wind & Fire - September
+*  Five Finger Death Punch - Wrong Side Of Heaven
 *  Foghat - Slow Ride
 *  Fountains of Wayne - Stacy's Mom
 *  Fuel - Hemorrhage (In My Hands)
