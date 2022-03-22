@@ -66,6 +66,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  LMFAO - Party Rock Anthem
 *  Los Lobos - La Bamba
 *  Matchbox Twenty - Unwell
+*  Maroon 5 - Maps
 *  Megadeth - Trust
 *  Natasha Bedingfield - Unwritten 
 *  Outkast - Hey Ya!
