@@ -32,6 +32,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  BABYMETAL - Gimme Chocolate!!
 *  Bad Company - Bad Company
 *  Belinda Carlisle - Heaven Is A Place On Earth
+*  Blue Swede - Hooked On A Feeling
 *  Breaking Benjamin - Failure
 *  Brian Setzer - Rock This Town
 *  Bruno Mars - 24k Magic
