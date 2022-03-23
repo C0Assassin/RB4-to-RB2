@@ -9232,3 +9232,107 @@
    (downloaded TRUE)
    ('base_points' 0)
 )
+
+(
+   'heirapparent'
+   (
+      'name'
+      "Heir Apparent"
+   )
+   (
+      'artist'
+      "Opeth"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/heirapparent/heirapparent"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/heirapparent/heirapparent.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 533605)
+   ('preview' 251755 281755)
+   (
+      'rank'
+      ('vocals' 58)
+      ('bass' 490)
+      ('guitar' 438)
+      ('drum' 497)
+      ('band' 399)
+   )
+   ('genre' 'prog')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2008)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_prog')
+   ('song_id' '1020084')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4_dlc')
+   (
+      'album_name'
+      "Watershed"
+   )
+   ('album_track_number' 2)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)

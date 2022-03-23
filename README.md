@@ -69,7 +69,8 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Matchbox Twenty - Unwell
 *  Maroon 5 - Maps
 *  Megadeth - Trust
-*  Natasha Bedingfield - Unwritten 
+*  Natasha Bedingfield - Unwritten
+*  Opeth - Heir Apparent
 *  Outkast - Hey Ya!
 *  Pantera - Cowboys From Hell (Live)
 *  Paramore - Ain't It Fun
