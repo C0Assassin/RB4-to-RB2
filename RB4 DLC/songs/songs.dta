@@ -2910,7 +2910,7 @@
    ('song_scroll_speed' 2300)
    (
       'bank'
-      "sfx/tambourine_bank.milo"
+      "sfx/handclap_bank.milo"
    )
    ('anim_tempo' 'kTempoMedium')
    ('song_length' 267704)
@@ -9198,7 +9198,7 @@
    ('song_scroll_speed' 2300)
    (
       'bank'
-      "sfx/tambourine_bank.milo"
+      "sfx/cowbell_bank.milo"
    )
    ('anim_tempo' 32)
    ('song_length' 167873)
