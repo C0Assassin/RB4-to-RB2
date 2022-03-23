@@ -102,5 +102,6 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Warrant - Cherry Pie
 *  Weeknd, The - Can't Feel My Face
 *  Weeknd, The - The Hills
+*  Weezer - The End of the Game
 *  Wheatus - Teenage Dirtbag
 *  Winger - Seventeen
