@@ -9637,13 +9637,117 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' 823234740)
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb2')
+   (game_origin rb4_dlc)
    (
       'album_name'
       "Bethany"
    )
    ('album_track_number' 1)
-   ('ugc' 1)
+   ('context' 2000)
+   ('decade' 'the10s')
+   ('downloaded' 'TRUE')
+   ('base_points' 0)
+)
+
+(
+   'blackcorridor'
+   (
+      'name'
+      "Black Corridor"
+   )
+   (
+      'artist'
+      "Worshipper"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/blackcorridor/blackcorridor"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-3.0 -3.0 -2.0 -2.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      ('vocal_parts' 3)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/blackcorridor/blackcorridor.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/cowbell_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 241216)
+   ('preview' 61967 91967)
+   (
+      'rank'
+      ('band' 285)
+      ('guitar' 345)
+      ('bass' 385)
+      ('drum' 265)
+      ('vocals' 250)
+   )
+   ('genre' 'metal')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2016)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_metal')
+   ('song_id' 879970619)
+   ('tuning_offset_cents' 0.0)
+   (game_origin rb4_dlc)
+   (
+      'album_name'
+      "Shadow Hymns"
+   )
+   ('album_track_number' 8)
    ('context' 2000)
    ('decade' 'the10s')
    ('downloaded' 'TRUE')
