@@ -53,11 +53,13 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Fountains of Wayne - Stacy's Mom
 *  Fuel - Hemorrhage (In My Hands)
 *  Generation X - Dancing with Myself
+*  Goddamn Draculas - Bethany
 *  Goo Goo Dolls - Iris
 *  Heart - Crazy on You
 *  Hinder - Lips of an Angel
 *  Hoobastank - The Reason
 *  Imagine Dragons - Believer
+*  Imagine Dragons - Follow You
 *  Imagine Dragons - Radioactive
 *  Jeff Williams ft. Casey Lee Williams - This Will Be The Day
 *  John Denver - Take Me Home, Country Roads
@@ -107,3 +109,4 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Weezer - The End of the Game
 *  Wheatus - Teenage Dirtbag
 *  Winger - Seventeen
+*  Worshipper - Black Corridor
