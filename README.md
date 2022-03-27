@@ -106,6 +106,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Van Halen - Runnin' with the Devil
 *  Vanilla Ice - Ice Ice Baby
 *  Warrant - Cherry Pie
+*  Weeknd, The - Blinding Lights
 *  Weeknd, The - Can't Feel My Face
 *  Weeknd, The - The Hills
 *  Weezer - The End of the Game
