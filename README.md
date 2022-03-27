@@ -72,6 +72,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Matchbox Twenty - Unwell
 *  Maroon 5 - Maps
 *  Megadeth - Trust
+*  Michelle Branch - All You Wanted
 *  Natasha Bedingfield - Unwritten
 *  Opeth - Heir Apparent
 *  Outkast - Hey Ya!
