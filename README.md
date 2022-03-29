@@ -80,7 +80,8 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Paramore - Ain't It Fun
 *  Post Malone - Circles
 *  Ram Jam - Black Betty (2x option available)
-*  Red Chord, The - Hour of Rats
+*  Redbone - Come and Get Your Love added
+*  Red Chord, The - Hour of Rats (2x option available)
 *  Red Jumpsuit Apparatus, The - Face Down
 *  Robert Palmer - Bad Case of Loving You (Doctor, Doctor)
 *  Robin Thicke ft. Pharrell - Blurred Lines
