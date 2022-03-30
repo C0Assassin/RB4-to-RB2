@@ -12,6 +12,13 @@ Instructions on how to pull properly are in the instructions.txt file.
 ## Disc Songs Completed (65/65):
 All Rock Band 4 disc songs are playable.
 
+## RB4 Rivals Completed (5/24):
+Current progress of Rivals songs.
+*  Goddamn Draculas – Bethany
+*  Red Chord, The - Hour of Rats (2x option available)
+*  Nemes - Black Streak
+*  Tigerman WOAH - Alone Time
+*  Worshipper - Black Corridor
 
 ## RB4 DLC:
 Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous sources who have dumped their DLC. The following DLC is available too:
@@ -83,7 +90,6 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Post Malone - Circles
 *  Ram Jam - Black Betty (2x option available)
 *  Redbone - Come and Get Your Love added
-*  Red Chord, The - Hour of Rats (2x option available)
 *  Red Jumpsuit Apparatus, The - Face Down
 *  Robert Palmer - Bad Case of Loving You (Doctor, Doctor)
 *  Robin Thicke ft. Pharrell - Blurred Lines
@@ -116,4 +122,3 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Weezer - The End of the Game
 *  Wheatus - Teenage Dirtbag
 *  Winger - Seventeen
-*  Worshipper - Black Corridor
