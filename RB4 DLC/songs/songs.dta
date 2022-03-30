@@ -2995,6 +2995,7 @@
          'cores'
          (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
       )
+	  (vocal_parts 2)
       (
          'drum_solo'
          (
@@ -3017,8 +3018,8 @@
       "sfx/tambourine_bank.milo"
    )
    ('anim_tempo' 'kTempoFast')
-   ('song_length' 238415)
-   ('preview' 37800 67800)
+   ('song_length' 239999)
+   ('preview' 100657 130657)
    (
       'rank'
       ('vocals' 205)
@@ -3027,7 +3028,7 @@
       ('drum' 174)
       ('band' 225)
    )
-   ('genre' 'alternative')
+   ('genre' 'rock')
    ('vocal_gender' 'male')
    ('version' 0)
    ('format' 4)
@@ -3035,7 +3036,7 @@
    ('year_released' 2000)
    ('rating' 2)
    ('sub_genre' 'subgenre_alternative')
-   ('song_id' 'o143673747')
+   ('song_id' '1020168')
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
    (
