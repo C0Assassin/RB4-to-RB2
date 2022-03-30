@@ -29,6 +29,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Alice In Chains - Them Bones
 *  Avenged Sevenfold - The Stage (2x option available)
 *  Avril Lavigne - Complicated
+*  Avril Lavigne - My Happy Ending
 *  BABYMETAL - Gimme Chocolate!!
 *  Bad Company - Bad Company
 *  Belinda Carlisle - Heaven Is A Place On Earth
@@ -43,8 +44,8 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Creed - With Arms Wide Open
 *  Cure, The - Lovesong
 *  Daft Punk ft. Pharrell Williams - Get Lucky
-*  Disturbed - The Vengeful One
 *  Disturbed - The Sound of Silence
+*  Disturbed - The Vengeful One
 *  Dragonforce - Through the Fire and Flames (RB4 chart)
 *  Dream Theater - Pull Me Under
 *  Earth, Wind & Fire - September
@@ -74,6 +75,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Megadeth - Trust
 *  Michelle Branch - All You Wanted
 *  Natasha Bedingfield - Unwritten
+*  Nemes - Black Streak
 *  Opeth - Heir Apparent
 *  Outkast - Hey Ya!
 *  Pantera - Cowboys From Hell (Live)
@@ -95,6 +97,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Ted Nugent - Strangehold
 *  Third Eye Blind - Jumper
 *  Three Days Grace - Never Too Late
+*  Tigerman WOAH - Alone Time
 *  Tonic - If You Could Only See
 *  Toto - Africa
 *  Toto - Hold The Line
