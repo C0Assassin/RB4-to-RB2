@@ -537,3 +537,108 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+(
+   'casablanca'
+   (
+      'name'
+      "Casablanca"
+   )
+   (
+      'artist'
+      "Little Foot"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/casablanca/casablanca"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      ('vocal_parts' 3)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/casablanca/casablanca.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 203053)
+   ('preview' 67400 97400)
+   (
+      'rank'
+      ('band' 210)
+      ('guitar' 152)
+      ('bass' 162)
+      ('drum' 142)
+      ('vocals' 210)
+   )
+   ('genre' 'indierock')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2016)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_indierock')
+   ('song_id' 479449316)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4_rivals')
+   (
+      'album_name'
+      "Boston Sessions, Vol. 1: Beast"
+   )
+   ('album_track_number' 6)
+   ('context' 2000)
+   ('decade' 'the10s')
+   ('downloaded' 'TRUE')
+   ('base_points' 0)
+)

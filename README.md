@@ -12,10 +12,11 @@ Instructions on how to pull properly are in the instructions.txt file.
 ## Disc Songs Completed (65/65):
 All Rock Band 4 disc songs are playable.
 
-## RB4 Rivals Completed (5/24):
+## RB4 Rivals Completed (6/24):
 Current progress of Rivals songs.
 *  Goddamn Draculas – Bethany
 *  Red Chord, The - Hour of Rats (2x option available)
+*  Littlefoot - Casablanca
 *  Nemes - Black Streak
 *  Tigerman WOAH - Alone Time
 *  Worshipper - Black Corridor
