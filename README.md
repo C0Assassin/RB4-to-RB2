@@ -22,9 +22,9 @@ All Rock Band 4 disc songs are playable.
 ## RB4 Rivals Completed (6/24):
 Current progress of Rivals songs.
 *  Goddamn Draculas – Bethany
-*  Red Chord, The - Hour of Rats (2x option available)
 *  Littlefoot - Casablanca
 *  Nemes - Black Streak
+*  Red Chord, The - Hour of Rats (2x option available)
 *  Tigerman WOAH - Alone Time
 *  Worshipper - Black Corridor
 
@@ -69,7 +69,6 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Fountains of Wayne - Stacy's Mom
 *  Fuel - Hemorrhage (In My Hands)
 *  Generation X - Dancing with Myself
-*  Goddamn Draculas - Bethany
 *  Goo Goo Dolls - Iris
 *  Heart - Crazy on You
 *  Hinder - Lips of an Angel
@@ -90,7 +89,6 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Megadeth - Trust
 *  Michelle Branch - All You Wanted
 *  Natasha Bedingfield - Unwritten
-*  Nemes - Black Streak
 *  Opeth - Heir Apparent
 *  Outkast - Hey Ya!
 *  Pantera - Cowboys From Hell (Live)
@@ -111,7 +109,6 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Ted Nugent - Strangehold
 *  Third Eye Blind - Jumper
 *  Three Days Grace - Never Too Late
-*  Tigerman WOAH - Alone Time
 *  Tonic - If You Could Only See
 *  Toto - Africa
 *  Toto - Hold The Line
