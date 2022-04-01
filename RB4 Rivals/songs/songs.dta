@@ -91,7 +91,7 @@
    ('year_released' 2015)
    ('rating' 1)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' 823234740)
+   ('song_id' 6002)
    ('tuning_offset_cents' 0.0)
    (game_origin 'rb4_rivals')
    (
@@ -196,7 +196,7 @@
    ('year_released' 2016)
    ('rating' 2)
    ('sub_genre' 'subgenre_metal')
-   ('song_id' 879970619)
+   ('song_id' 6003)
    ('tuning_offset_cents' 0.0)
    (game_origin 'rb4_rivals')
    (
@@ -301,7 +301,7 @@
    ('year_released' 2009)
    ('rating' 2)
    ('sub_genre' 'subgenre_metal')
-   ('song_id' 181422127)
+   ('song_id' 6007)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_rivals')
    (
@@ -406,7 +406,7 @@
    ('year_released' 2016)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' 838469572)
+   ('song_id' 6014)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_rivals')
    (
@@ -511,7 +511,7 @@
    ('year_released' 2014)
    ('rating' 1)
    ('sub_genre' 'subgenre_indierock')
-   ('song_id' 494603842)
+   ('song_id' 6004)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_rivals')
    (
@@ -629,7 +629,7 @@
    ('year_released' 2016)
    ('rating' 1)
    ('sub_genre' 'subgenre_indierock')
-   ('song_id' 479449316)
+   ('song_id' 6023)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_rivals')
    (
