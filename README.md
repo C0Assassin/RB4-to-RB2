@@ -123,6 +123,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Van Halen - Dance The Night Away
 *  Van Halen - Hot for Teacher (2x option available)
 *  Van Halen - Runnin' with the Devil
+*  Van Halen - Unchained
 *  Vanilla Ice - Ice Ice Baby
 *  Warrant - Cherry Pie
 *  Weeknd, The - Blinding Lights
