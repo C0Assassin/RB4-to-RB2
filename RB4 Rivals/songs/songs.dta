@@ -852,3 +852,108 @@
    ('downloaded' 'TRUE')
    ('base_points' 0)
 )
+
+(
+   'crossthatline'
+   (
+      'name'
+      "Cross That Line"
+   )
+   (
+      'artist'
+      "Michael Christmas"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/crossthatline/crossthatline"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      ('vocal_parts' 3)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/crossthatline/crossthatline.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 177408)
+   ('preview' 4418 34420)
+   (
+      'rank'
+      ('band' 130)
+      ('guitar' 132)
+      ('bass' 140)
+      ('drum' 112)
+      ('vocals' 139)
+   )
+   ('genre' 'urban')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2016)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_hiphop')
+   ('song_id' 6017)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4_rivals')
+   (
+      'album_name'
+      "Boston Sessions, Vol. 1: Beast"
+   )
+   ('album_track_number' 2)
+   ('context' 2000)
+   ('decade' 'the10s')
+   ('downloaded' 'TRUE')
+   ('base_points' 0)
+)
