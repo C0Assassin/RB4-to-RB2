@@ -23,6 +23,7 @@ All Rock Band 4 disc songs are playable.
 Current progress of Rivals songs.
 *  Creaturos - History Repeats
 *  Goddamn Draculas – Bethany
+*  Julie Rhodes - Hurry Up (& Wait For You)
 *  Littlefoot - Casablanca
 *  Michael Christmas - Cross That Line
 *  Nemes - Black Streak

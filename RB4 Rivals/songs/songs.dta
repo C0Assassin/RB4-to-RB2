@@ -1167,3 +1167,121 @@
    ('downloaded' 'TRUE')
    ('base_points' 0)
 )
+
+(
+   'hurryupandwait'
+   (
+      'name'
+      "Hurry Up (& Wait for You)"
+   )
+   (
+      'artist'
+      "Julie Rhodes"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/hurryupandwait/hurryupandwait"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      ('vocal_parts' 3)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/hurryupandwait/hurryupandwait.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 187944)
+   ('preview' 40033 70035)
+   (
+      'rank'
+      ('band' 230)
+      ('guitar' 200)
+      ('bass' 155)
+      ('drum' 155)
+      ('vocals' 265)
+   )
+   ('genre' 'indierock')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2016)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_indierock')
+   ('song_id' 6020)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4_rivals')
+   (
+      'album_name'
+      "Boston Sessions, Vol. 1: Beast"
+   )
+   ('album_track_number' 11)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20220319
+;Song authored by Harmonix
+;Song=Hurry Up (& Wait for You)
+;Languages=English,
+;Karaoke=0
+;Multitrack=0
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
