@@ -107,8 +107,9 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Robin Thicke ft. Pharrell - Blurred Lines
 *  Romantics, The - What I Like About You
 *  Rupert Holmes - Escape (The Piña Colada Song)
-*  Sia - Chandelier
+*  Seether ft. Amy Lee - Broken
 *  Semisonic - Closing Time
+*  Sia - Chandelier
 *  Skid Row - 18 and Life
 *  Skid Row - I Remember You
 *  Steppenwolf - Born to be Wild
