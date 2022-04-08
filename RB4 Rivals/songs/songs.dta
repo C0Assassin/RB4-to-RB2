@@ -1062,3 +1062,108 @@
    ('downloaded' 'TRUE')
    ('base_points' 0)
 )
+
+(
+   'historyrepeats'
+   (
+      'name'
+      "History Repeats"
+   )
+   (
+      'artist'
+      "Creaturos"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/historyrepeats/historyrepeats"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      ('vocal_parts' 2)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/historyrepeats/historyrepeats.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 230629)
+   ('preview' 30512 60512)
+   (
+      'rank'
+      ('band' 185)
+      ('guitar' 150)
+      ('bass' 150)
+      ('drum' 170)
+      ('vocals' 101)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2016)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' 6018)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4_rivals')
+   (
+      'album_name'
+      "Boston Sessions, Vol. 1: Beast"
+   )
+   ('album_track_number' 10)
+   ('context' 2000)
+   ('decade' 'the10s')
+   ('downloaded' 'TRUE')
+   ('base_points' 0)
+)
