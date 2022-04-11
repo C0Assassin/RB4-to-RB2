@@ -110,6 +110,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Rupert Holmes - Escape (The Piña Colada Song)
 *  Seether ft. Amy Lee - Broken
 *  Semisonic - Closing Time
+*  Shania Twain - Man! I Feel Like a Woman!
 *  Sia - Chandelier
 *  Skid Row - 18 and Life
 *  Skid Row - I Remember You
