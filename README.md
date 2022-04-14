@@ -79,6 +79,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Heart - Crazy on You
 *  Hinder - Lips of an Angel
 *  Hoobastank - The Reason
+*  Hozier - Take Me To Church
 *  Imagine Dragons - Believer
 *  Imagine Dragons - Follow You
 *  Imagine Dragons - Radioactive
