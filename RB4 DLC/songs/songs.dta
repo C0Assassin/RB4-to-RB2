@@ -10303,3 +10303,72 @@
 	;(pack_name "^^^Moonwalk (or die...) 3-pack^^^")  ; OPTIONAL
    (base_points 0)
 )
+
+(heatofthemoment
+   (name "Heat Of The Moment")
+   (artist "Asia")
+   (master TRUE)
+   (context 2000)
+   (song
+     (name        "songs/heatofthemoment/heatofthemoment")
+     (tracks
+        ((drum (0 1))
+         (bass (2 3))
+         (guitar (4 5))
+         (vocals (6 7))
+        )
+     )
+     
+	 (vocal_parts 3)	;remove if no harmonies
+     ;(crowd_channels )
+	 
+	 ;                DRUMS    	  BS       GUITAR     VOCALS      FAKE
+     (pans        (-1.0  1.0  -1.0  1.0  -1.0  1.0  -1.0  1.0  -1.0  1.0))
+     (vols        (-0.0 -0.0  -0.0 -0.0  -0.0 -0.0  -0.0 -0.0  -0.0 -0.0))
+     (cores       ( -1   -1    -1   -1     1    1    -1   -1    -1   -1))
+	 
+	 
+     (drum_solo
+        (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
+     )
+     (drum_freestyle
+        (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue))
+     )
+     (midi_file "songs/heatofthemoment/heatofthemoment.mid")
+     ;(hopo_threshold 90)
+   )
+   (song_scroll_speed 2300)
+   (bank sfx/tambourine_bank.milo)
+   (anim_tempo 32)
+   (song_length 232646) 			; value is length of audio file in milliseconds
+   (preview 3000 33000)
+   (rank
+      (drum 192)
+      (guitar 229)
+      (bass 240)
+      (vocals 240)
+      (band 247)
+   )
+   (genre classicrock)
+   (decade the80s) ;@@@ADD@@@!!! (e.g. the90s, the00s, the10s, the20s)
+   (vocal_gender male)
+   ;(tuning_offset_cents 0.0)
+   ;(vocal_tonic_note 0) 
+   (format 4)				 ;@@@@C0Assassin - Always set to 4
+   (version 0)               ; Only modified by coders! @@@@C0Assassin - Always set to 0@@@@
+   ;(fake {== $SONG_VERSION 0})   
+   (downloaded TRUE) 
+   (game_origin rb4_dlc) 	; game origin that the song is from
+   (song_id 1107900108)     ; ALWAYS set this to 0, unless you are Heather 
+   (rating 1)          		; 1 = everyone, 2 = teen, 3 = mature, 4 = unrated
+   (short_version 0) 		; if set to 0, there is no short version of the song (milliseconds)
+   ;(extra_authoring ^^^) 	; flag to designate that a song has extra authoring (files, etc.) for a specific project(s)
+   (album_art TRUE) 		; if TRUE, the actual album art will be required
+   
+   (year_released 1982)
+   (album_name "Asia")   	; OPTIONAL  (e.g. for covers)
+   (album_track_number 1)   ; OPTIONAL (would require album_name if added). If omitted Set Challenges use difficulty sorting.
+	
+	;(pack_name "^^^Moonwalk (or die...) 3-pack^^^")  ; OPTIONAL
+   (base_points 0)
+)
