@@ -19,7 +19,7 @@ Instructions on how to pull properly are in the instructions.txt file.
 ## Disc Songs Completed (65/65):
 All Rock Band 4 disc songs are playable.
 
-## RB4 Rivals Completed (12/24):
+## RB4 Rivals Completed (13/24):
 Current progress of Rivals songs.
 *  Creaturos - History Repeats
 *  Goddamn Draculas – Bethany
@@ -27,6 +27,7 @@ Current progress of Rivals songs.
 *  Littlefoot - Casablanca
 *  Michael Christmas - Cross That Line
 *  Nemes - Black Streak
+*  Newfane - I Recognize
 *  Red Chord, The - Hour of Rats (2x option available)
 *  STL GLD - Good
 *  Tigerman WOAH - Alone Time
