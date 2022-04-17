@@ -94,9 +94,9 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  LMFAO - Party Rock Anthem
 *  Los Lobos - La Bamba
 *  Magic! - Rude
+*  Maroon 5 - Maps
 *  Matchbox Twenty - 3AM
 *  Matchbox Twenty - Unwell
-*  Maroon 5 - Maps
 *  Megadeth - Trust
 *  Michelle Branch - All You Wanted
 *  Natasha Bedingfield - Unwritten
