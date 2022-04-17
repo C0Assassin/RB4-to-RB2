@@ -49,6 +49,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Aerosmith - Love In An Elevator
 *  Aerosmith - Rag Doll
 *  Alice In Chains - Them Bones
+*  Asia - Heat Of The Moment
 *  Avenged Sevenfold - The Stage (2x option available)
 *  Avril Lavigne - Complicated
 *  Avril Lavigne - My Happy Ending
@@ -92,6 +93,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Lizzo - Juice
 *  LMFAO - Party Rock Anthem
 *  Los Lobos - La Bamba
+*  Magic! - Rude
 *  Matchbox Twenty - 3AM
 *  Matchbox Twenty - Unwell
 *  Maroon 5 - Maps
