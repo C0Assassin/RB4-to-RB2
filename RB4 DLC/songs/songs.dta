@@ -10372,3 +10372,141 @@
 	;(pack_name "^^^Moonwalk (or die...) 3-pack^^^")  ; OPTIONAL
    (base_points 0)
 )
+
+(rude
+   (name "Rude")
+   (artist "Magic!")
+   (master TRUE)
+   (context 2000)
+   (song
+     (name        "songs/rude/rude")
+     (tracks
+        ((drum (0 1))
+         (bass (2 3))
+         (guitar (4 5))
+         (vocals (6 7))
+        )
+     )
+     
+	 (vocal_parts 3)	;remove if no harmonies
+     ;(crowd_channels )
+	 
+	 ;                DRUMS    	  BS       GUITAR     VOCALS      FAKE
+     (pans        (-1.0  1.0  -1.0  1.0  -1.0  1.0  -1.0  1.0  -1.0  1.0))
+     (vols        (-0.0 -0.0  -0.0 -0.0  -0.0 -0.0  -0.0 -0.0  -0.0 -0.0))
+     (cores       ( -1   -1    -1   -1     1    1    -1   -1    -1   -1))
+	 
+	 
+     (drum_solo
+        (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
+     )
+     (drum_freestyle
+        (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue))
+     )
+     (midi_file "songs/rude/rude.mid")
+     ;(hopo_threshold 90)
+   )
+   (song_scroll_speed 2300)
+   (bank sfx/tambourine_bank.milo)
+   (anim_tempo 64)
+   (song_length 225832) 			; value is length of audio file in milliseconds
+   (preview 42916 72916)
+   (rank
+      (drum 243)
+      (guitar 214)
+      (bass 243)
+      (vocals 333)
+      (band 250)
+   )
+   (genre poprock)
+   (decade the10s) ;@@@ADD@@@!!! (e.g. the90s, the00s, the10s, the20s)
+   (vocal_gender male)
+   ;(tuning_offset_cents 0.0)
+   ;(vocal_tonic_note 0) 
+   (format 4)				 ;@@@@C0Assassin - Always set to 4
+   (version 0)               ; Only modified by coders! @@@@C0Assassin - Always set to 0@@@@
+   ;(fake {== $SONG_VERSION 0})   
+   (downloaded TRUE) 
+   (game_origin rb4_dlc) 	; game origin that the song is from
+   (song_id 1020161)        ; ALWAYS set this to 0, unless you are Heather 
+   (rating 1)          		; 1 = everyone, 2 = teen, 3 = mature, 4 = unrated
+   (short_version 0) 		; if set to 0, there is no short version of the song (milliseconds)
+   ;(extra_authoring ^^^) 	; flag to designate that a song has extra authoring (files, etc.) for a specific project(s)
+   (album_art TRUE) 		; if TRUE, the actual album art will be required
+   
+   (year_released 2014)
+   (album_name "Don't Kill the Magic")   		; OPTIONAL  (e.g. for covers)
+   (album_track_number 1)   ; OPTIONAL (would require album_name if added). If omitted Set Challenges use difficulty sorting.
+	
+	;(pack_name "^^^Moonwalk (or die...) 3-pack^^^")  ; OPTIONAL
+   (base_points 0)
+)
+
+(usesomebody
+   (name "Use Somebody")
+   (artist "Kings Of Leon")
+   (master TRUE)
+   (context 2000)
+   (song
+     (name        "songs/usesomebody/usesomebody")
+     (tracks
+        ((drum (0 1))
+         (bass (2 3))
+         (guitar (4 5))
+         (vocals (6 7))
+        )
+     )
+     
+	 (vocal_parts 3)	;remove if no harmonies
+     ;(crowd_channels )
+	 
+	 ;                DRUMS    	  BS       GUITAR     VOCALS      FAKE
+     (pans        (-1.0  1.0  -1.0  1.0  -1.0  1.0  -1.0  1.0  -1.0  1.0))
+     (vols        (-0.0 -0.0  -0.0 -0.0  -0.0 -0.0  -0.0 -0.0  -0.0 -0.0))
+     (cores       ( -1   -1    -1   -1     1    1    -1   -1    -1   -1))
+	 
+	 
+     (drum_solo
+        (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
+     )
+     (drum_freestyle
+        (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue))
+     )
+     (midi_file "songs/usesomebody/usesomebody.mid")
+     ;(hopo_threshold 90)
+   )
+   (song_scroll_speed 2300)
+   (bank sfx/tambourine_bank.milo)
+   (anim_tempo 32)
+   (song_length 229194) 			; value is length of audio file in milliseconds
+   (preview 73679 103679)
+   (rank
+      (drum 180)
+      (guitar 143)
+      (bass 139)
+      (vocals 167)
+      (band 210)
+   )
+   (genre rock)
+   (decade the00s) ;@@@ADD@@@!!! (e.g. the90s, the00s, the10s, the20s)
+   (vocal_gender male)
+   ;(tuning_offset_cents 0.0)
+   ;(vocal_tonic_note 0) 
+   (format 4)				 ;@@@@C0Assassin - Always set to 4
+   (version 0)               ; Only modified by coders! @@@@C0Assassin - Always set to 0@@@@
+   ;(fake {== $SONG_VERSION 0})   
+   (downloaded TRUE) 
+   (game_origin rb4_dlc) 	; game origin that the song is from
+   (song_id 1020241)        ; ALWAYS set this to 0, unless you are Heather 
+   (rating 1)          		; 1 = everyone, 2 = teen, 3 = mature, 4 = unrated
+   (short_version 0) 		; if set to 0, there is no short version of the song (milliseconds)
+   ;(extra_authoring ^^^) 	; flag to designate that a song has extra authoring (files, etc.) for a specific project(s)
+   (album_art TRUE) 		; if TRUE, the actual album art will be required
+   
+   (year_released 2008)
+   (album_name "Only by the Night")   		; OPTIONAL  (e.g. for covers)
+   (album_track_number 4)   ; OPTIONAL (would require album_name if added). If omitted Set Challenges use difficulty sorting.
+	
+	;(pack_name "^^^Moonwalk (or die...) 3-pack^^^")  ; OPTIONAL
+   (base_points 0)
+)

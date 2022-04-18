@@ -49,6 +49,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Aerosmith - Love In An Elevator
 *  Aerosmith - Rag Doll
 *  Alice In Chains - Them Bones
+*  Asia - Heat Of The Moment
 *  Avenged Sevenfold - The Stage (2x option available)
 *  Avril Lavigne - Complicated
 *  Avril Lavigne - My Happy Ending
@@ -86,15 +87,17 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Imagine Dragons - Radioactive
 *  Jeff Williams ft. Casey Lee Williams - This Will Be The Day
 *  John Denver - Take Me Home, Country Roads
+*  Kings Of Leon - Use Somebody
 *  Kenny Loggins - Danger Zone
 *  Lifehouse - Hanging By A Moment
 *  Lil Nas X ft. Billy Ray Cyrus - Old Town Road (Remix)
 *  Lizzo - Juice
 *  LMFAO - Party Rock Anthem
 *  Los Lobos - La Bamba
+*  Magic! - Rude
+*  Maroon 5 - Maps
 *  Matchbox Twenty - 3AM
 *  Matchbox Twenty - Unwell
-*  Maroon 5 - Maps
 *  Megadeth - Trust
 *  Michelle Branch - All You Wanted
 *  Natasha Bedingfield - Unwritten
