@@ -511,7 +511,7 @@
    ('rating' 1)
    ('sub_genre' 'subgenre_alternative')
    ('song_id' 5023)
-   ('tuning_offset_cents' 0.0)
+   ('tuning_offset_cents' -20)
    ('game_origin' 'rb4')
    (
       'album_name'
@@ -1357,7 +1357,7 @@
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
    ('song_id' 5065)
-   ('tuning_offset_cents' 0.0)
+   ('tuning_offset_cents' 30)
    ('game_origin' 'rb4')
    (
       'album_name'
@@ -1462,7 +1462,7 @@
    ('rating' 3)
    ('sub_genre' 'subgenre_southernrock')
    ('song_id' '5014')
-   ('tuning_offset_cents' 0.0)
+   ('tuning_offset_cents' 19)
    ('game_origin' 'rb4')
    (
       'album_name'
@@ -2415,7 +2415,7 @@
    ('rating' 2)
    ('sub_genre' 'subgenre_other')
    ('song_id' '5031')
-   ('tuning_offset_cents' 0.0)
+   ('tuning_offset_cents' 50)
    ('game_origin' 'rb4')
    (
       'album_name'
@@ -2943,7 +2943,7 @@
    ('rating' 2)
    ('sub_genre' 'subgenre_grunge')
    ('song_id' '5048')
-   ('tuning_offset_cents' 0.0)
+   ('tuning_offset_cents' 15)
    ('game_origin' 'rb4')
    (
       'album_name'
@@ -5469,7 +5469,7 @@
    ('rating' 2)
    ('sub_genre' 'subgenre_alternative')
    ('song_id' '5002')
-   ('tuning_offset_cents' 0.0)
+   ('tuning_offset_cents' 20)
    ('game_origin' 'rb4')
    (
       'album_name'
