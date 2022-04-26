@@ -120,6 +120,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Sia - Chandelier
 *  Skid Row - 18 and Life
 *  Skid Row - I Remember You
+*  Slayer - Angel of Death
 *  Steppenwolf - Born to be Wild
 *  Ted Nugent - Strangehold
 *  Third Eye Blind - Jumper
