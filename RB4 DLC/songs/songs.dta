@@ -178,7 +178,7 @@
       "sfx/tambourine_bank.milo"
    )
    ('anim_tempo' 16)
-   ('song_length' 505814)
+   ('song_length' 505992)
    ('preview' 41000 71000)
    (
       'rank'
@@ -196,7 +196,7 @@
    ('year_released' 1975)
    ('rating' 3)
    ('sub_genre' 'subgenre_classicrock')
-   ('song_id' 'o812721102')
+   ('song_id' '1020310')
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
    (
@@ -387,7 +387,7 @@
       "sfx/tambourine_bank.milo"
    )
    ('anim_tempo' 32)
-   ('song_length' 266408)
+   ('song_length' 267256)
    ('preview' 86325 116325)
    (
       'rank'
@@ -405,7 +405,7 @@
    ('year_released' 1996)
    ('rating' 1)
    ('sub_genre' 'subgenre_alternative')
-   ('song_id' 'o414680709')
+   ('song_id' '1020197')
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
    (
@@ -702,7 +702,7 @@
       "sfx/tambourine_bank.milo"
    )
    ('anim_tempo' 32)
-   ('song_length' 264363)
+   ('song_length' 270097)
    ('preview' 30000 60000)
    (
       'rank'
@@ -720,7 +720,7 @@
    ('year_released' 2005)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' 'o579244803')
+   ('song_id' '1020165')
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
    (
@@ -806,7 +806,7 @@
       "sfx/tambourine_bank.milo"
    )
    ('anim_tempo' 16)
-   ('song_length' 211046)
+   ('song_length' 212096)
    ('preview' 42000 72000)
    (
       'rank'
@@ -824,7 +824,7 @@
    ('year_released' 2006)
    ('rating' 3)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' 'o20574188')
+   ('song_id' '1020166')
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
    (
@@ -1120,15 +1120,15 @@
       "sfx/cowbell_bank.milo"
    )
    ('anim_tempo' 32)
-   ('song_length' 207003)
+   ('song_length' 210626)
    ('preview' 75000 105000)
    (
       'rank'
-      ('vocals' 279)
-      ('bass' 228)
-      ('guitar' 221)
-      ('drum' 242)
-      ('band' 267)
+      ('vocals' 299)
+      ('bass' 255)
+      ('guitar' 235)
+      ('drum' 260)
+      ('band' 249)
    )
    ('genre' 'classicrock')
    ('vocal_gender' 'male')
@@ -1138,7 +1138,7 @@
    ('year_released' 1968)
    ('rating' 1)
    ('sub_genre' 'subgenre_classicrock')
-   ('song_id' 'o853285005')
+   ('song_id' '1020500')
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
    (
@@ -1331,7 +1331,7 @@
       "sfx/tambourine_bank.milo"
    )
    ('anim_tempo' 16)
-   ('song_length' 294679)
+   ('song_length' 290344)
    ('preview' 81000 111000)
    (
       'rank'
@@ -1349,7 +1349,7 @@
    ('year_released' 1982)
    ('rating' 1)
    ('sub_genre' 'subgenre_softrock')
-   ('song_id' 'o182401652')
+   ('song_id' '1020162')
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
    (
@@ -2703,7 +2703,7 @@
       "sfx/tambourine_bank.milo"
    )
    ('anim_tempo' 16)
-   ('song_length' 350523)
+   ('song_length' 327611)
    ('preview' 60000 90000)
    (
       'rank'
@@ -2721,7 +2721,7 @@
    ('year_released' 1989)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' 'o782351311')
+   ('song_id' '1020043')
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
    (
@@ -3438,7 +3438,7 @@
       "sfx/tambourine_bank.milo"
    )
    ('anim_tempo' 'kTempoFast')
-   ('song_length' 152771)
+   ('song_length' 153332)
    ('preview' 59000 89000)
    (
       'rank'
@@ -3456,7 +3456,7 @@
    ('year_released' 1992)
    ('rating' 2)
    ('sub_genre' 'subgenre_grunge')
-   ('song_id' 'o414798002')
+   ('song_id' '1020301')
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
    (
@@ -4803,7 +4803,7 @@
       "sfx/tambourine_bank.milo"
    )
    ('anim_tempo' 32)
-   ('song_length' 209086)
+   ('song_length' 209081)
    ('preview' 30000 60000)
    (
       'rank'
@@ -4821,7 +4821,7 @@
    ('year_released' 1989)
    ('rating' 1)
    ('sub_genre' 'subgenre_new_wave')
-   ('song_id' 'o577488811')
+   ('song_id' '1020252')
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
    (
@@ -5535,15 +5535,15 @@
       "sfx/tambourine_bank.milo"
    )
    ('anim_tempo' 16)
-   ('song_length' 197597)
+   ('song_length' 193552)
    ('preview' 60000 90000)
    (
       'rank'
-      ('vocals' 180)
-      ('bass' 166)
-      ('guitar' 198)
-      ('drum' 230)
-      ('band' 219)
+      ('vocals' 365)
+      ('bass' 235)
+      ('guitar' 230)
+      ('drum' 237)
+      ('band' 261)
    )
    ('genre' 'emo')
    ('vocal_gender' 'male')
@@ -5552,7 +5552,7 @@
    ('album_art' 1)
    ('year_released' 2006)
    ('rating' 2)
-   ('song_id' 'o943092883')
+   ('song_id' '1020632')
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
    (
@@ -7626,7 +7626,7 @@
       "sfx/tambourine_bank.milo"
    )
    ('anim_tempo' 16)
-   ('song_length' 317018)
+   ('song_length' 318022)
    ('preview' 59000 89000)
    (
       'rank'
@@ -7644,7 +7644,7 @@
    ('year_released' 1989)
    ('rating' 2)
    ('sub_genre' 'subgenre_glam')
-   ('song_id' 'o37880357')
+   ('song_id' '1020349')
    ('loading_phrase' 'In a 2007 interview, vocalist Sebastian Bach commented that \qI Remember You\q was the #1 prom song in the U.S. in the year 1990.')
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
@@ -8887,7 +8887,7 @@
       "sfx/tambourine_bank.milo"
    )
    ('anim_tempo' 64)
-   ('song_length' 270395)
+   ('song_length' 267199)
    ('preview' 66000 96000)
    (
       'rank'
@@ -8905,7 +8905,7 @@
    ('year_released' 2013)
    ('rating' 2)
    ('sub_genre' 'subgenre_metal')
-   ('song_id' 'o20131504')
+   ('song_id' '1020220')
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
    (
@@ -10133,7 +10133,7 @@
    (song_scroll_speed 2300)
    (bank sfx/tambourine_bank.milo)
    (anim_tempo 32)
-   (song_length 261794) 			; value is length of audio file in milliseconds
+   (song_length 261803) 			; value is length of audio file in milliseconds
    (preview 49000 79000)
    (rank
       (drum 153)
@@ -10152,7 +10152,7 @@
    ;(fake {== $SONG_VERSION 0})   
    (downloaded TRUE) 
    (game_origin rb4_dlc) 	; game origin that the song is from
-   (song_id o112004797)     ; ALWAYS set this to 0, unless you are Heather 
+   (song_id 1020361)     ; ALWAYS set this to 0, unless you are Heather 
    (rating 2)          		; 1 = everyone, 2 = teen, 3 = mature, 4 = unrated
    (short_version 0) 		; if set to 0, there is no short version of the song (milliseconds)
    ;(extra_authoring ^^^) 	; flag to designate that a song has extra authoring (files, etc.) for a specific project(s)
@@ -10202,14 +10202,14 @@
    (song_scroll_speed 2300)
    (bank sfx/tambourine_bank.milo)
    (anim_tempo 32)
-   (song_length 244095) 			; value is length of audio file in milliseconds
+   (song_length 238079) 			; value is length of audio file in milliseconds
    (preview 52000 82000)
    (rank
       (drum 185)
-      (guitar 262)
-      (bass 177)
-      (vocals 362)
-      (band 195)
+      (guitar 225)
+      (bass 201)
+      (vocals 358)
+      (band 245)
    )
    (genre country)
    (decade the90s) ;@@@ADD@@@!!! (e.g. the90s, the00s, the10s, the20s)
@@ -10221,7 +10221,7 @@
    ;(fake {== $SONG_VERSION 0})   
    (downloaded TRUE) 
    (game_origin rb4_dlc) 	; game origin that the song is from
-   (song_id 10281965)       ; ALWAYS set this to 0, unless you are Heather @@@Shania Twain's Birthdate@@@ (at least until official ID is found)
+   (song_id 1020654)        ; ALWAYS set this to 0, unless you are Heather @@@)
    (rating 1)          		; 1 = everyone, 2 = teen, 3 = mature, 4 = unrated
    (short_version 0) 		; if set to 0, there is no short version of the song (milliseconds)
    ;(extra_authoring ^^^) 	; flag to designate that a song has extra authoring (files, etc.) for a specific project(s)
@@ -10340,8 +10340,8 @@
    (song_scroll_speed 2300)
    (bank sfx/tambourine_bank.milo)
    (anim_tempo 32)
-   (song_length 232646) 			; value is length of audio file in milliseconds
-   (preview 3000 33000)
+   (song_length 215336) 			; value is length of audio file in milliseconds
+   (preview 19000 49000)
    (rank
       (drum 192)
       (guitar 229)
@@ -10359,7 +10359,7 @@
    ;(fake {== $SONG_VERSION 0})   
    (downloaded TRUE) 
    (game_origin rb4_dlc) 	; game origin that the song is from
-   (song_id 1107900108)     ; ALWAYS set this to 0, unless you are Heather 
+   (song_id 1020327)     ; ALWAYS set this to 0, unless you are Heather 
    (rating 1)          		; 1 = everyone, 2 = teen, 3 = mature, 4 = unrated
    (short_version 0) 		; if set to 0, there is no short version of the song (milliseconds)
    ;(extra_authoring ^^^) 	; flag to designate that a song has extra authoring (files, etc.) for a specific project(s)
@@ -10547,8 +10547,8 @@
    (song_scroll_speed 2300)
    (bank sfx/tambourine_bank.milo)
    (anim_tempo 16)
-   (song_length 301105) 			; value is length of audio file in milliseconds
-   (preview 77000 107000)
+   (song_length 294390) 			; value is length of audio file in milliseconds
+   (preview 71000 101000)
    (rank
       (drum 490)
       (guitar 540)
@@ -10566,7 +10566,7 @@
    ;(fake {== $SONG_VERSION 0})   
    (downloaded TRUE) 
    (game_origin rb4_dlc) 	; game origin that the song is from
-   (song_id 1986454198)         		; ALWAYS set this to 0, unless you are Heather 
+   (song_id 1020415)         		; ALWAYS set this to 0, unless you are Heather 
    (rating 3)          		; 1 = everyone, 2 = teen, 3 = mature, 4 = unrated
    (short_version 0) 		; if set to 0, there is no short version of the song (milliseconds)
    ;(extra_authoring ^^^) 	; flag to designate that a song has extra authoring (files, etc.) for a specific project(s)
@@ -10616,7 +10616,7 @@
    (song_scroll_speed 2300)
    (bank sfx/tambourine_bank.milo)
    (anim_tempo 32)
-   (song_length 273397) 			; value is length of audio file in milliseconds
+   (song_length 275565) 			; value is length of audio file in milliseconds
    (preview 55000 85000)
    (rank
       (drum 231)
@@ -10635,7 +10635,7 @@
    ;(fake {== $SONG_VERSION 0})   
    (downloaded TRUE) 
    (game_origin rb4_dlc) 	; game origin that the song is from
-   (song_id o425785973)     ; ALWAYS set this to 0, unless you are Heather 
+   (song_id 1020322)     ; ALWAYS set this to 0, unless you are Heather 
    (rating 1)          		; 1 = everyone, 2 = teen, 3 = mature, 4 = unrated
    (short_version 0) 		; if set to 0, there is no short version of the song (milliseconds)
    ;(extra_authoring ^^^) 	; flag to designate that a song has extra authoring (files, etc.) for a specific project(s)
