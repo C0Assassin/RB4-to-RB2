@@ -81,6 +81,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Generation X - Dancing with Myself
 *  Goo Goo Dolls - Iris
 *  Heart - Crazy on You
+*  Heart - Magic Man
 *  Hinder - Lips of an Angel
 *  Hoobastank - The Reason
 *  Hozier - Take Me To Church
@@ -109,7 +110,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Paramore - Ain't It Fun
 *  Post Malone - Circles
 *  Ram Jam - Black Betty (2x option available)
-*  Redbone - Come and Get Your Love added
+*  Redbone - Come and Get Your Love
 *  Red Jumpsuit Apparatus, The - Face Down
 *  Robert Palmer - Bad Case of Loving You (Doctor, Doctor)
 *  Robin Thicke ft. Pharrell - Blurred Lines
