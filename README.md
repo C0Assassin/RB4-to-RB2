@@ -54,6 +54,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Avenged Sevenfold - The Stage (2x option available)
 *  Avril Lavigne - Complicated
 *  Avril Lavigne - My Happy Ending
+*  Avril Lavigne - Sk8er Boi
 *  BABYMETAL - Gimme Chocolate!!
 *  Bad Company - Bad Company
 *  Belinda Carlisle - Heaven Is A Place On Earth
