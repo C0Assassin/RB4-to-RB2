@@ -10221,7 +10221,7 @@
    ;(fake {== $SONG_VERSION 0})   
    (downloaded TRUE) 
    (game_origin rb4_dlc) 	; game origin that the song is from
-   (song_id 1020654)        ; ALWAYS set this to 0, unless you are Heather @@@)
+   (song_id 1020654)        ; ALWAYS set this to 0, unless you are Heather @@@
    (rating 1)          		; 1 = everyone, 2 = teen, 3 = mature, 4 = unrated
    (short_version 0) 		; if set to 0, there is no short version of the song (milliseconds)
    ;(extra_authoring ^^^) 	; flag to designate that a song has extra authoring (files, etc.) for a specific project(s)
