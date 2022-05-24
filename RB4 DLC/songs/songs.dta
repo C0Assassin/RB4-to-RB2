@@ -10221,7 +10221,7 @@
    ;(fake {== $SONG_VERSION 0})   
    (downloaded TRUE) 
    (game_origin rb4_dlc) 	; game origin that the song is from
-   (song_id 1020654)        ; ALWAYS set this to 0, unless you are Heather @@@
+   (song_id 1020654)        ; ALWAYS set this to 0, unless you are Heather @@@)
    (rating 1)          		; 1 = everyone, 2 = teen, 3 = mature, 4 = unrated
    (short_version 0) 		; if set to 0, there is no short version of the song (milliseconds)
    ;(extra_authoring ^^^) 	; flag to designate that a song has extra authoring (files, etc.) for a specific project(s)
@@ -11127,6 +11127,73 @@
    (year_released 1980)
    (album_name "Permanent Waves")   		; OPTIONAL  (e.g. for covers)
    (album_track_number 2)   ; OPTIONAL (would require album_name if added). If omitted Set Challenges use difficulty sorting.
+	
+	;(pack_name "^^^Moonwalk (or die...) 3-pack^^^")  ; OPTIONAL
+   (base_points 0)
+)
+
+(loveyourself
+   (name "Love Yourself")
+   (artist "Justin Bieber")
+   (master TRUE)
+   (context 2000)
+   (song
+     (name        "songs/loveyourself/loveyourself")
+     (tracks
+        ((guitar (0 1))
+         (vocals (2 3))
+        )
+     )
+     
+	 (vocal_parts 3)	;remove if no harmonies
+     ;(crowd_channels )
+	 
+	 ;               GUITAR     VOCALS      FAKE
+     (pans        (-1.0  1.0  -1.0  1.0  -1.0  1.0))
+     (vols        (-0.0 -0.0  -0.0 -0.0  -0.0 -0.0))
+     (cores       (  1    1    -1   -1    -1   -1))
+	 
+	 
+     (drum_solo
+        (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
+     )
+     (drum_freestyle
+        (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue))
+     )
+     (midi_file "songs/loveyourself/loveyourself.mid")
+     ;(hopo_threshold 90)
+   )
+   (song_scroll_speed 2300)
+   (bank sfx/tambourine_bank.milo)
+   (anim_tempo 32)
+   (song_length 235294) 			; value is length of audio file in milliseconds
+   (preview 61536 91536)
+   (rank
+      (drum 0)
+      (guitar 145)
+      (bass 0)
+      (vocals 195)
+      (band 165)
+   )
+   (genre popdanceelectronic)
+   (decade the10s) ;@@@ADD@@@!!! (e.g. the90s, the00s, the10s, the20s)
+   (vocal_gender male)
+   ;(tuning_offset_cents 0.0)
+   (vocal_tonic_note 4) 
+   (format 4)				 ;@@@@C0Assassin - Always set to 4
+   (version 0)               ; Only modified by coders! @@@@C0Assassin - Always set to 0@@@@
+   ;(fake {== $SONG_VERSION 0})   
+   (downloaded TRUE) 
+   (game_origin rb4_dlc) 	; game origin that the song is from
+   (song_id 1020148)        ; ALWAYS set this to 0, unless you are Heather 
+   (rating 1)          		; 1 = everyone, 2 = teen, 3 = mature, 4 = unrated
+   (short_version 0) 		; if set to 0, there is no short version of the song (milliseconds)
+   ;(extra_authoring ^^^) 	; flag to designate that a song has extra authoring (files, etc.) for a specific project(s)
+   (album_art TRUE) 		; if TRUE, the actual album art will be required
+   
+   (year_released 2015)
+   (album_name "Purpose")   		; OPTIONAL  (e.g. for covers)
+   (album_track_number 5)   ; OPTIONAL (would require album_name if added). If omitted Set Challenges use difficulty sorting.
 	
 	;(pack_name "^^^Moonwalk (or die...) 3-pack^^^")  ; OPTIONAL
    (base_points 0)
