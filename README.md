@@ -99,6 +99,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Imagine Dragons - Radioactive
 *  Jason Mraz - I'm Yours
 *  Jeff Williams ft. Casey Lee Williams - This Will Be The Day
+*  Jeff Williams ft. Casey Lee Williams - Time to Say Goodbye
 *  John Denver - Take Me Home, Country Roads
 *  Justin Bieber - Love Yourself
 *  Kings Of Leon - Use Somebody
