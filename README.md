@@ -138,7 +138,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Slayer - Angel of Death
 *  Staind - Outside
 *  Steppenwolf - Born to be Wild
-*  Ted Nugent - Strangehold
+*  Ted Nugent - Stranglehold
 *  Third Eye Blind - Jumper
 *  Three Days Grace - Never Too Late
 *  Tonic - If You Could Only See
