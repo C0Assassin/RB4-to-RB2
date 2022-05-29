@@ -102,8 +102,8 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Jeff Williams ft. Casey Lee Williams - Time to Say Goodbye
 *  John Denver - Take Me Home, Country Roads
 *  Justin Bieber - Love Yourself
-*  Kings Of Leon - Use Somebody
 *  Kenny Loggins - Danger Zone
+*  Kings Of Leon - Use Somebody
 *  Lifehouse - Hanging By A Moment
 *  Lil Nas X ft. Billy Ray Cyrus - Old Town Road (Remix)
 *  Lizzo - Juice
