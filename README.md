@@ -57,6 +57,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Aerosmith - Rag Doll
 *  Alice In Chains - Them Bones
 *  Asia - Heat Of The Moment
+*  Audioslave - Like A Stone
 *  Avenged Sevenfold - The Stage (2x option available)
 *  Avril Lavigne - Complicated
 *  Avril Lavigne - My Happy Ending
