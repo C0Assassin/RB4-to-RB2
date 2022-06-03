@@ -101,6 +101,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Jason Mraz - I'm Yours
 *  Jeff Williams ft. Casey Lee Williams - This Will Be The Day
 *  Jeff Williams ft. Casey Lee Williams - Time to Say Goodbye
+*  Joan Jett and the Blackhearts - I Hate Myself For Loving You
 *  John Denver - Take Me Home, Country Roads
 *  Justin Bieber - Love Yourself
 *  Kenny Loggins - Danger Zone
