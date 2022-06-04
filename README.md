@@ -89,6 +89,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Fountains of Wayne - Stacy's Mom
 *  Fuel - Hemorrhage (In My Hands)
 *  Generation X - Dancing with Myself
+*  Ghost - Cirice
 *  Goo Goo Dolls - Iris
 *  Heart - Crazy on You
 *  Heart - Magic Man
