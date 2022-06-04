@@ -136,6 +136,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Semisonic - Closing Time
 *  Shania Twain - Man! I Feel Like a Woman!
 *  Sia - Chandelier
+*  Simple Minds - Don't You (Forget About Me)
 *  Skid Row - 18 and Life
 *  Skid Row - I Remember You
 *  Slayer - Angel of Death
