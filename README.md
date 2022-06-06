@@ -119,6 +119,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Megadeth - Trust
 *  Michelle Branch - All You Wanted
 *  Natasha Bedingfield - Unwritten
+*  Offspring, The - You're Gonna Go Far, Kid
 *  Opeth - Heir Apparent
 *  Outkast - Hey Ya!
 *  Pantera - Cowboys From Hell (Live)
