@@ -4,6 +4,8 @@
 
 Welcome to the RB4 to RB2 repo.
 
+360 CON files can be found in the 360 branch of the repo: https://github.com/C0Assassin/RB4-to-RB2/tree/xbox
+
 360 On-Disc CON Pack can be found here: https://drive.google.com/file/d/1T1R2HSZhCDVSiaWlmoVOo10yHDWoGO_R
 
 PS3 On-Disc hardware compatible pack pkg can be found here: https://drive.google.com/file/d/1uJ09DkAEAcKA_stXZ0hx7vh5hRtpv6iY
