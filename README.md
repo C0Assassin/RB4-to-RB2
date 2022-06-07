@@ -115,6 +115,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Lizzo - Juice
 *  LMFAO - Party Rock Anthem
 *  Los Lobos - La Bamba
+*  Macklemore & Ryan Lewis ft. Ray Dalton - Can't Hold Us
 *  Magic! - Rude
 *  Maroon 5 - Maps
 *  Matchbox Twenty - 3AM
