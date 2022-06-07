@@ -108,6 +108,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  John Denver - Take Me Home, Country Roads
 *  Justin Bieber - Love Yourself
 *  Kenny Loggins - Danger Zone
+*  Killers, The - Caution
 *  Kings Of Leon - Use Somebody
 *  Lifehouse - Hanging By A Moment
 *  Lil Nas X ft. Billy Ray Cyrus - Old Town Road (Remix)
