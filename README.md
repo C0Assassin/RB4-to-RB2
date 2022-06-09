@@ -72,6 +72,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Blue Swede - Hooked On A Feeling
 *  Breaking Benjamin - Failure
 *  Brian Setzer - Rock This Town
+*  Bring Me The Horizon - Throne
 *  Bruno Mars - 24k Magic
 *  Bruno Mars - Locked Out Of Heaven
 *  Chainsmokers, The ft. Halsey - Closer
