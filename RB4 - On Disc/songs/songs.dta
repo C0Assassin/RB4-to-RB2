@@ -193,7 +193,7 @@
    ('year_released' 2015)
    ('rating' 2)
    ('sub_genre' 'subgenre_other')
-   ('song_id' '5068')
+   ('song_id' 5068)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -298,7 +298,7 @@
    ('year_released' 1994)
    ('rating' 2)
    ('sub_genre' 'subgenre_alternative')
-   ('song_id' '5057')
+   ('song_id' 5057)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -404,7 +404,7 @@
    ('year_released' 1985)
    ('rating' 1)
    ('sub_genre' 'subgenre_other')
-   ('song_id' '5004')
+   ('song_id' 5004)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -615,7 +615,7 @@
    ('year_released' 1975)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '5070')
+   ('song_id' 5070)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -721,7 +721,7 @@
    ('year_released' 2013)
    ('rating' 1)
    ('sub_genre' 'subgenre_other')
-   ('song_id' '5034')
+   ('song_id' 5034)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -933,7 +933,7 @@
    ('year_released' 1967)
    ('rating' 2)
    ('sub_genre' 'subgenre_pop')
-   ('song_id' '5050')
+   ('song_id' 5050)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -1144,7 +1144,7 @@
    ('year_released' 1984)
    ('rating' 1)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '5029')
+   ('song_id' 5029)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -1250,7 +1250,7 @@
    ('year_released' 2015)
    ('rating' 2)
    ('sub_genre' 'subgenre_softrock')
-   ('song_id' '5030')
+   ('song_id' 5030)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -1461,7 +1461,7 @@
    ('year_released' 1977)
    ('rating' 3)
    ('sub_genre' 'subgenre_southernrock')
-   ('song_id' '5014')
+   ('song_id' 5014)
    ('tuning_offset_cents' 19)
    ('game_origin' 'rb4')
    (
@@ -1567,7 +1567,7 @@
    ('year_released' 1969)
    ('rating' 1)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '5012')
+   ('song_id' 5012)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -1672,7 +1672,7 @@
    ('year_released' 1992)
    ('rating' 1)
    ('sub_genre' 'subgenre_progrock')
-   ('song_id' '5016')
+   ('song_id' 5016)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -1779,7 +1779,7 @@
    ('year_released' 1987)
    ('rating' 2)
    ('sub_genre' 'subgenre_alternative')
-   ('song_id' '5039')
+   ('song_id' 5039)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -1885,7 +1885,7 @@
    ('year_released' 2013)
    ('rating' 2)
    ('sub_genre' 'subgenre_metal')
-   ('song_id' '5019')
+   ('song_id' 5019)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -1991,7 +1991,7 @@
    ('year_released' 2004)
    ('rating' 2)
    ('sub_genre' 'subgenre_alternative')
-   ('song_id' '5011')
+   ('song_id' 5011)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -2308,7 +2308,7 @@
    ('year_released' 2009)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '5061')
+   ('song_id' 5061)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -2414,7 +2414,7 @@
    ('year_released' 1992)
    ('rating' 2)
    ('sub_genre' 'subgenre_other')
-   ('song_id' '5031')
+   ('song_id' 5031)
    ('tuning_offset_cents' 50)
    ('game_origin' 'rb4')
    (
@@ -2520,7 +2520,7 @@
    ('year_released' 1997)
    ('rating' 2)
    ('sub_genre' 'subgenre_ska')
-   ('song_id' '5037')
+   ('song_id' 5037)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -2625,7 +2625,7 @@
    ('year_released' 1998)
    ('rating' 2)
    ('sub_genre' 'subgenre_metal')
-   ('song_id' '5060')
+   ('song_id' 5060)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -2731,7 +2731,7 @@
    ('year_released' 1971)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '5022')
+   ('song_id' 5022)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -2837,7 +2837,7 @@
    ('year_released' 1977)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '5015')
+   ('song_id' 5015)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -2942,7 +2942,7 @@
    ('year_released' 1994)
    ('rating' 2)
    ('sub_genre' 'subgenre_grunge')
-   ('song_id' '5048')
+   ('song_id' 5048)
    ('tuning_offset_cents' 15)
    ('game_origin' 'rb4')
    (
@@ -3048,7 +3048,7 @@
    ('year_released' 1973)
    ('rating' 2)
    ('sub_genre' 'subgenre_classicrock')
-   ('song_id' '5018')
+   ('song_id' 5018)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -3154,7 +3154,7 @@
    ('year_released' 2015)
    ('rating' 2)
    ('sub_genre' 'subgenre_alternative')
-   ('song_id' '5003')
+   ('song_id' 5003)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -3258,7 +3258,7 @@
    ('year_released' 2012)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '5045')
+   ('song_id' 5045)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -3363,7 +3363,7 @@
    ('year_released' 2013)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '5038')
+   ('song_id' 5038)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -3468,7 +3468,7 @@
    ('year_released' 2013)
    ('rating' 2)
    ('sub_genre' 'subgenre_indierock')
-   ('song_id' '5046')
+   ('song_id' 5046)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -3573,7 +3573,7 @@
    ('year_released' 2012)
    ('rating' 2)
    ('sub_genre' 'subgenre_punk')
-   ('song_id' '5054')
+   ('song_id' 5054)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -3677,7 +3677,7 @@
    ('year_released' 2014)
    ('rating' 2)
    ('sub_genre' 'subgenre_punk')
-   ('song_id' '5042')
+   ('song_id' 5042)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -3782,7 +3782,7 @@
    ('year_released' 1977)
    ('rating' 2)
    ('sub_genre' 'subgenre_classicrock')
-   ('song_id' '5032')
+   ('song_id' 5032)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -3887,7 +3887,7 @@
    ('year_released' 2014)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '5052')
+   ('song_id' 5052)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -3992,7 +3992,7 @@
    ('year_released' 2013)
    ('rating' 3)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '5053')
+   ('song_id' 5053)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -4098,7 +4098,7 @@
    ('year_released' 2012)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '5047')
+   ('song_id' 5047)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -4204,7 +4204,7 @@
    ('year_released' 2010)
    ('rating' 2)
    ('sub_genre' 'subgenre_country')
-   ('song_id' '5013')
+   ('song_id' 5013)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -4308,7 +4308,7 @@
    ('year_released' 2014)
    ('rating' 2)
    ('sub_genre' 'subgenre_indierock')
-   ('song_id' '5062')
+   ('song_id' 5062)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -4414,7 +4414,7 @@
    ('year_released' 2001)
    ('rating' 2)
    ('sub_genre' 'subgenre_alternative')
-   ('song_id' '5028')
+   ('song_id' 5028)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -4520,7 +4520,7 @@
    ('year_released' 2013)
    ('rating' 2)
    ('sub_genre' 'subgenre_indierock')
-   ('song_id' '5049')
+   ('song_id' 5049)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -4624,7 +4624,7 @@
    ('year_released' 1976)
    ('rating' 2)
    ('sub_genre' 'subgenre_prog')
-   ('song_id' '5025')
+   ('song_id' 5025)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -4730,7 +4730,7 @@
    ('year_released' 1980)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '5066')
+   ('song_id' 5066)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -4835,7 +4835,7 @@
    ('year_released' 2011)
    ('rating' 2)
    ('sub_genre' 'subgenre_indierock')
-   ('song_id' '5069')
+   ('song_id' 5069)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -4941,7 +4941,7 @@
    ('year_released' 2015)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '5044')
+   ('song_id' 5044)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -5046,7 +5046,7 @@
    ('year_released' 2014)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '5017')
+   ('song_id' 5017)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -5151,7 +5151,7 @@
    ('year_released' 2002)
    ('rating' 2)
    ('sub_genre' 'subgenre_numetal')
-   ('song_id' '5008')
+   ('song_id' 5008)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -5256,7 +5256,7 @@
    ('year_released' 1988)
    ('rating' 2)
    ('sub_genre' 'subgenre_metal')
-   ('song_id' '5059')
+   ('song_id' 5059)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -5362,7 +5362,7 @@
    ('year_released' 2014)
    ('rating' 2)
    ('sub_genre' 'subgenre_alternative')
-   ('song_id' '5020')
+   ('song_id' 5020)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -5468,7 +5468,7 @@
    ('year_released' 1991)
    ('rating' 2)
    ('sub_genre' 'subgenre_alternative')
-   ('song_id' '5002')
+   ('song_id' 5002)
    ('tuning_offset_cents' 20)
    ('game_origin' 'rb4')
    (
@@ -5573,7 +5573,7 @@
    ('year_released' 2015)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '5064')
+   ('song_id' 5064)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -5678,7 +5678,7 @@
    ('year_released' 2015)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '5043')
+   ('song_id' 5043)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -5783,7 +5783,7 @@
    ('year_released' 2011)
    ('rating' 2)
    ('sub_genre' 'subgenre_metal')
-   ('song_id' '5033')
+   ('song_id' 5033)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -5887,7 +5887,7 @@
    ('year_released' 2013)
    ('rating' 2)
    ('sub_genre' 'subgenre_death')
-   ('song_id' '5056')
+   ('song_id' 5056)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -5993,7 +5993,7 @@
    ('year_released' 2014)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '5006')
+   ('song_id' 5006)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -6098,7 +6098,7 @@
    ('year_released' 2015)
    ('rating' 2)
    ('sub_genre' 'subgenre_blues')
-   ('song_id' '5051')
+   ('song_id' 5051)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -6203,7 +6203,7 @@
    ('year_released' 2014)
    ('rating' 2)
    ('sub_genre' 'subgenre_pop')
-   ('song_id' '5058')
+   ('song_id' 5058)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -6308,7 +6308,7 @@
    ('year_released' 2014)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '5067')
+   ('song_id' 5067)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -6413,7 +6413,7 @@
    ('year_released' 2014)
    ('rating' 2)
    ('sub_genre' 'subgenre_metal')
-   ('song_id' '5009')
+   ('song_id' 5009)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -6519,7 +6519,7 @@
    ('year_released' 1996)
    ('rating' 2)
    ('sub_genre' 'subgenre_alternative')
-   ('song_id' '5035')
+   ('song_id' 5035)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -6624,7 +6624,7 @@
    ('year_released' 2015)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' '5041')
+   ('song_id' 5041)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -6729,7 +6729,7 @@
    ('year_released' 2008)
    ('rating' 2)
    ('sub_genre' 'subgenre_country')
-   ('song_id' '5036')
+   ('song_id' 5036)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -6834,7 +6834,7 @@
    ('year_released' 2015)
    ('rating' 2)
    ('sub_genre' 'subgenre_funk')
-   ('song_id' '5063')
+   ('song_id' 5063)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
