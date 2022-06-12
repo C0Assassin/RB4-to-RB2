@@ -91,7 +91,7 @@
    ('year_released' 1977)
    ('rating' 2)
    ('sub_genre' 'subgenre_rock')
-   ('song_id' 'x1020288')
+   ('song_id' x1020288)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
    (
@@ -196,7 +196,7 @@
    ('year_released' 2016)
    ('rating' 2)
    ('sub_genre' 'subgenre_metal')
-   ('song_id' 'x1020271')
+   ('song_id' x1020271)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
    (
@@ -303,7 +303,7 @@
    ('year_released' 1984)
    ('rating' 3)
    ('sub_genre' 'subgenre_hardrock')
-   ('song_id' 'x1020048')
+   ('song_id' x1020048)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
    (

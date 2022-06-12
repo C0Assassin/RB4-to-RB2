@@ -88,7 +88,7 @@
    ('year_released' 1992)
    ('rating' 1)
    ('sub_genre' 'subgenre_progrock')
-   ('song_id' 'x5016')
+   ('song_id' x5016)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -192,7 +192,7 @@
    ('year_released' 2013)
    ('rating' 2)
    ('sub_genre' 'subgenre_death')
-   ('song_id' 'x5056')
+   ('song_id' x5056)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
@@ -297,7 +297,7 @@
    ('year_released' 1988)
    ('rating' 2)
    ('sub_genre' 'subgenre_metal')
-   ('song_id' 'x5059')
+   ('song_id' x5059)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4')
    (
