@@ -94,6 +94,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Generation X - Dancing with Myself
 *  Ghost - Cirice
 *  Goo Goo Dolls - Iris
+*  Hall & Oates - You Make My Dreams
 *  Heart - Crazy on You
 *  Heart - Magic Man
 *  Hinder - Lips of an Angel
@@ -148,6 +149,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Slayer - Angel of Death
 *  Staind - Outside
 *  Steppenwolf - Born to be Wild
+*  Stone Temple Pilots - Wicked Garden
 *  Ted Nugent - Stranglehold
 *  Third Eye Blind - Jumper
 *  Three Days Grace - Never Too Late
