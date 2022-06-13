@@ -68,6 +68,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Bad Company - Bad Company
 *  Belinda Carlisle - Heaven Is A Place On Earth
 *  Billy Joel - Uptown Girl
+*  Black Eyed Peas, The - I Gotta Feeling
 *  Blue Öyster Cult - Burnin' for You
 *  Blue Swede - Hooked On A Feeling
 *  Breaking Benjamin - Failure
