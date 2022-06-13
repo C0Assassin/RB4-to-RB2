@@ -38,9 +38,11 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Aerosmith - Rag Doll
 *  Alice In Chains - Them Bones
 *  Asia - Heat Of The Moment
+*  Audioslave - Like A Stone
 *  Avenged Sevenfold - The Stage (2x option available)
 *  Avril Lavigne - Complicated
 *  Avril Lavigne - My Happy Ending
+*  Avril Lavigne - Sk8er Boi
 *  BABYMETAL - Gimme Chocolate!!
 *  Bad Company - Bad Company
 *  Belinda Carlisle - Heaven Is A Place On Earth
@@ -49,6 +51,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Blue Swede - Hooked On A Feeling
 *  Breaking Benjamin - Failure
 *  Brian Setzer - Rock This Town
+*  Bring Me The Horizon - Throne
 *  Bruno Mars - 24k Magic
 *  Bruno Mars - Locked Out Of Heaven
 *  Chainsmokers, The ft. Halsey - Closer
@@ -56,33 +59,44 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Creed - With Arms Wide Open
 *  Cure, The - Lovesong
 *  Daft Punk ft. Pharrell Williams - Get Lucky
+*  Disturbed - Immortalized
 *  Disturbed - The Sound of Silence
 *  Disturbed - The Vengeful One
 *  Dragonforce - Through the Fire and Flames (RB4 chart)
 *  Dream Theater - Pull Me Under
 *  Earth, Wind & Fire - September
+*  Ed Sheeran - Sing
 *  Five Finger Death Punch - Wrong Side Of Heaven
 *  Foghat - Slow Ride
 *  Fountains of Wayne - Stacy's Mom
 *  Fuel - Hemorrhage (In My Hands)
 *  Generation X - Dancing with Myself
+*  Ghost - Cirice
 *  Goo Goo Dolls - Iris
+*  Hall & Oates - You Make My Dreams
 *  Heart - Crazy on You
+*  Heart - Magic Man
 *  Hinder - Lips of an Angel
 *  Hoobastank - The Reason
 *  Hozier - Take Me To Church
 *  Imagine Dragons - Believer
 *  Imagine Dragons - Follow You
 *  Imagine Dragons - Radioactive
+*  Jason Mraz - I'm Yours
 *  Jeff Williams ft. Casey Lee Williams - This Will Be The Day
+*  Jeff Williams ft. Casey Lee Williams - Time to Say Goodbye
+*  Joan Jett and the Blackhearts - I Hate Myself For Loving You
 *  John Denver - Take Me Home, Country Roads
-*  Kings Of Leon - Use Somebody
+*  Justin Bieber - Love Yourself
 *  Kenny Loggins - Danger Zone
+*  Killers, The - Caution
+*  Kings Of Leon - Use Somebody
 *  Lifehouse - Hanging By A Moment
 *  Lil Nas X ft. Billy Ray Cyrus - Old Town Road (Remix)
 *  Lizzo - Juice
 *  LMFAO - Party Rock Anthem
 *  Los Lobos - La Bamba
+*  Macklemore & Ryan Lewis ft. Ray Dalton - Can't Hold Us
 *  Magic! - Rude
 *  Maroon 5 - Maps
 *  Matchbox Twenty - 3AM
@@ -90,27 +104,32 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Megadeth - Trust
 *  Michelle Branch - All You Wanted
 *  Natasha Bedingfield - Unwritten
+*  Offspring, The - You're Gonna Go Far, Kid
 *  Opeth - Heir Apparent
 *  Outkast - Hey Ya!
 *  Pantera - Cowboys From Hell (Live)
 *  Paramore - Ain't It Fun
 *  Post Malone - Circles
 *  Ram Jam - Black Betty (2x option available)
-*  Redbone - Come and Get Your Love added
+*  Redbone - Come and Get Your Love
 *  Red Jumpsuit Apparatus, The - Face Down
 *  Robert Palmer - Bad Case of Loving You (Doctor, Doctor)
 *  Robin Thicke ft. Pharrell - Blurred Lines
 *  Romantics, The - What I Like About You
 *  Rupert Holmes - Escape (The Piña Colada Song)
+*  Rush - Freewill (Vault Edition)
 *  Seether ft. Amy Lee - Broken
 *  Semisonic - Closing Time
 *  Shania Twain - Man! I Feel Like a Woman!
 *  Sia - Chandelier
+*  Simple Minds - Don't You (Forget About Me)
 *  Skid Row - 18 and Life
 *  Skid Row - I Remember You
 *  Slayer - Angel of Death
+*  Staind - Outside
 *  Steppenwolf - Born to be Wild
-*  Ted Nugent - Strangehold
+*  Stone Temple Pilots - Wicked Garden
+*  Ted Nugent - Stranglehold
 *  Third Eye Blind - Jumper
 *  Three Days Grace - Never Too Late
 *  Tonic - If You Could Only See
@@ -126,6 +145,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Van Halen - Runnin' with the Devil
 *  Van Halen - Unchained
 *  Vanilla Ice - Ice Ice Baby
+*  Veruca Salt - Seether
 *  Warrant - Cherry Pie
 *  Weeknd, The - Blinding Lights
 *  Weeknd, The - Can't Feel My Face
