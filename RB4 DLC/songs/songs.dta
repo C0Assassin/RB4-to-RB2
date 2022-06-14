@@ -12118,7 +12118,7 @@
    (version 1)               ; Only modified by coders! @@@@C0Assassin - Always set to 0@@@@
    ;(fake {== $SONG_VERSION 0})   
    (downloaded TRUE) 
-   (game_origin dlc) 	; game origin that the song is from
+   (game_origin rb4_dlc) 	; game origin that the song is from
    (song_id 1020183)         		; ALWAYS set this to 0, unless you are Heather @@@Pull from 'rb4.app' if you can't source the id@@@
    (rating 2)          		; 1 = everyone, 2 = teen, 3 = mature, 4 = unrated
    (short_version 0) 		; if set to 0, there is no short version of the song (milliseconds)
