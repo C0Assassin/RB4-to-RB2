@@ -128,6 +128,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Natasha Bedingfield - Unwritten
 *  Of Mice & Men - Would You Still Be There
 *  Offspring, The - You're Gonna Go Far, Kid
+*  One Direction - Story of My Life
 *  Opeth - Heir Apparent
 *  Outkast - Hey Ya!
 *  Pantera - Cowboys From Hell (Live)
