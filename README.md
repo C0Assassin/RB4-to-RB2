@@ -47,6 +47,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Bad Company - Bad Company
 *  Belinda Carlisle - Heaven Is A Place On Earth
 *  Billy Joel - Uptown Girl
+*  Black Eyed Peas, The - I Gotta Feeling
 *  Blue Öyster Cult - Burnin' for You
 *  Blue Swede - Hooked On A Feeling
 *  Breaking Benjamin - Failure
@@ -104,7 +105,9 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Megadeth - Trust
 *  Michelle Branch - All You Wanted
 *  Natasha Bedingfield - Unwritten
+*  Of Mice & Men - Would You Still Be There
 *  Offspring, The - You're Gonna Go Far, Kid
+*  One Direction - Story of My Life
 *  Opeth - Heir Apparent
 *  Outkast - Hey Ya!
 *  Pantera - Cowboys From Hell (Live)
@@ -149,6 +152,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Warrant - Cherry Pie
 *  Weeknd, The - Blinding Lights
 *  Weeknd, The - Can't Feel My Face
+*  Weeknd, The ft. Daft Punk - Starboy
 *  Weeknd, The - The Hills
 *  Weezer - The End of the Game
 *  Wheatus - Teenage Dirtbag
