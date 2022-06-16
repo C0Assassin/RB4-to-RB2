@@ -10,7 +10,7 @@ When you're done with all that, hit the File tab on the top left and click the c
 A window will popup, with 3 tabs. Hit the URL tab.
 
 Insert this url: https://github.com/C0Assassin/RB4-to-RB2
-And be sure to choose ur local path; this is where the it will constantly download updates to. I recommend making it where its
+And be sure to choose ur local path; this is where it will constantly download updates to. I recommend making it where its
 easily accessible and has a decent amount of storage space. 
 
 Once done, it will clone the repo into ur local path directory. (This will take awhile with slow speeds)
