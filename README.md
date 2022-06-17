@@ -88,6 +88,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Dream Theater - Pull Me Under
 *  Earth, Wind & Fire - September
 *  Ed Sheeran - Sing
+*  Elle King - Ex's & Oh's
 *  Five Finger Death Punch - Wrong Side Of Heaven
 *  Foghat - Slow Ride
 *  Fountains of Wayne - Stacy's Mom
