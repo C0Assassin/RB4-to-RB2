@@ -150,6 +150,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Shania Twain - Man! I Feel Like a Woman!
 *  Sia - Chandelier
 *  Simple Minds - Don't You (Forget About Me)
+*  Simple Plan & State Champs - Where I Belong feat. We The Kings
 *  Skid Row - 18 and Life
 *  Skid Row - I Remember You
 *  Slayer - Angel of Death
