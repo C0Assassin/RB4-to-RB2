@@ -130,6 +130,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Michelle Branch - All You Wanted
 *  Natalie Imbruglia - Torn
 *  Natasha Bedingfield - Unwritten
+*  Oasis - Champagne Supernova
 *  Of Mice & Men - Would You Still Be There
 *  Offspring, The - You're Gonna Go Far, Kid
 *  One Direction - Story of My Life
