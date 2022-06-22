@@ -7879,6 +7879,12 @@
       'artist'
       "LMFAO ft. Lauren Bennett & GoonRock"
    )
+   (context
+		{do
+			{$world iterate PostProc $p
+			{$p set saturation 100}}
+		}
+	)
    ('master' 1)
    (
       'song'
