@@ -84,6 +84,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Disturbed - Immortalized
 *  Disturbed - The Sound of Silence
 *  Disturbed - The Vengeful One
+*  DNCE - Cake By The Ocean
 *  Dragonforce - Through the Fire and Flames (RB4 chart)
 *  Dream Theater - Pull Me Under
 *  Earth, Wind & Fire - September
