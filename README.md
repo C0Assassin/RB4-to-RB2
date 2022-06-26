@@ -128,6 +128,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Matchbox Twenty - Unwell
 *  Megadeth - Trust
 *  Meghan Trainor - All About That Bass
+*  MGMT - Kids
 *  Michelle Branch - All You Wanted
 *  Natalie Imbruglia - Torn
 *  Natasha Bedingfield - Unwritten
