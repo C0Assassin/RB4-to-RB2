@@ -10652,6 +10652,7 @@
    (album_track_number 2)   ; OPTIONAL (would require album_name if added). If omitted Set Challenges use difficulty sorting.
 	
 	;(pack_name "^^^Moonwalk (or die...) 3-pack^^^")  ; OPTIONAL
+   (encoding latin1)
    (base_points 0)
 )
 
