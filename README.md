@@ -63,10 +63,12 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Disturbed - Immortalized
 *  Disturbed - The Sound of Silence
 *  Disturbed - The Vengeful One
+*  DNCE - Cake By The Ocean
 *  Dragonforce - Through the Fire and Flames (RB4 chart)
 *  Dream Theater - Pull Me Under
 *  Earth, Wind & Fire - September
 *  Ed Sheeran - Sing
+*  Elle King - Ex's & Oh's
 *  Five Finger Death Punch - Wrong Side Of Heaven
 *  Foghat - Slow Ride
 *  Fountains of Wayne - Stacy's Mom
@@ -97,14 +99,18 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Lizzo - Juice
 *  LMFAO - Party Rock Anthem
 *  Los Lobos - La Bamba
+*  Machine Gun Kelly - bloody valentine
 *  Macklemore & Ryan Lewis ft. Ray Dalton - Can't Hold Us
 *  Magic! - Rude
 *  Maroon 5 - Maps
 *  Matchbox Twenty - 3AM
 *  Matchbox Twenty - Unwell
 *  Megadeth - Trust
+*  Meghan Trainor - All About That Bass
 *  Michelle Branch - All You Wanted
+*  Natalie Imbruglia - Torn
 *  Natasha Bedingfield - Unwritten
+*  Oasis - Champagne Supernova
 *  Of Mice & Men - Would You Still Be There
 *  Offspring, The - You're Gonna Go Far, Kid
 *  One Direction - Story of My Life
@@ -124,8 +130,10 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Seether ft. Amy Lee - Broken
 *  Semisonic - Closing Time
 *  Shania Twain - Man! I Feel Like a Woman!
+*  Shania Twain - That Don't Impress Me Much
 *  Sia - Chandelier
 *  Simple Minds - Don't You (Forget About Me)
+*  Simple Plan & State Champs - Where I Belong feat. We The Kings
 *  Skid Row - 18 and Life
 *  Skid Row - I Remember You
 *  Slayer - Angel of Death
