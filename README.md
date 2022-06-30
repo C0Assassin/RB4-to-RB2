@@ -66,6 +66,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Avril Lavigne - Sk8er Boi
 *  BABYMETAL - Gimme Chocolate!!
 *  Bad Company - Bad Company
+*  Beastie Boys - Fight for Your Right
 *  Belinda Carlisle - Heaven Is A Place On Earth
 *  Billy Joel - Uptown Girl
 *  Black Eyed Peas, The - I Gotta Feeling
