@@ -45,7 +45,7 @@ Current progress of Rivals songs.
 *  Worshipper - Black Corridor
 
 ## RB4 DLC:
-Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous sources who have dumped their DLC. The following DLC is available too:
+The following DLC is available too: (@ = Recreation chart)
 *  Ace of Base - The Sign
 *  Aerosmith - Angel
 *  Aerosmith - Crazy
@@ -55,22 +55,22 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Aerosmith - I Don't Want to Miss a Thing
 *  Aerosmith - Janie's Got A Gun
 *  Aerosmith - Livin' On The Edge
-*  Aerosmith - Love In An Elevator
+*  Aerosmith - Love In An Elevator @
 *  Aerosmith - Rag Doll
-*  Alice In Chains - Them Bones
-*  Asia - Heat Of The Moment
-*  Audioslave - Like A Stone
+*  Alice In Chains - Them Bones @
+*  Asia - Heat Of The Moment @
+*  Audioslave - Like A Stone @
 *  Avenged Sevenfold - The Stage (2x option available)
 *  Avril Lavigne - Complicated
 *  Avril Lavigne - My Happy Ending
-*  Avril Lavigne - Sk8er Boi
+*  Avril Lavigne - Sk8er Boi @
 *  BABYMETAL - Gimme Chocolate!!
 *  Bad Company - Bad Company
-*  Beastie Boys - Fight for Your Right
+*  Beastie Boys - Fight for Your Right @
 *  Belinda Carlisle - Heaven Is A Place On Earth
 *  Billy Joel - Uptown Girl
 *  Black Eyed Peas, The - I Gotta Feeling
-*  Blue Öyster Cult - Burnin' for You
+*  Blue Öyster Cult - Burnin' for You @
 *  Blue Swede - Hooked On A Feeling
 *  Breaking Benjamin - Failure
 *  Brian Setzer - Rock This Town
@@ -80,7 +80,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Chainsmokers, The ft. Halsey - Closer
 *  Cranberries, The - Zombie
 *  Creed - With Arms Wide Open
-*  Cure, The - Lovesong
+*  Cure, The - Lovesong @
 *  Daft Punk ft. Pharrell Williams - Get Lucky
 *  Disturbed - Immortalized
 *  Disturbed - The Sound of Silence
@@ -91,7 +91,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Earth, Wind & Fire - September
 *  Ed Sheeran - Sing
 *  Elle King - Ex's & Oh's
-*  Five Finger Death Punch - Wrong Side Of Heaven
+*  Five Finger Death Punch - Wrong Side Of Heaven @
 *  Foghat - Slow Ride
 *  Fountains of Wayne - Stacy's Mom
 *  Fuel - Hemorrhage (In My Hands)
@@ -100,7 +100,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Goo Goo Dolls - Iris
 *  Hall & Oates - You Make My Dreams
 *  Heart - Crazy on You
-*  Heart - Magic Man
+*  Heart - Magic Man @
 *  Hinder - Lips of an Angel
 *  Hoobastank - The Reason
 *  Hozier - Take Me To Church
@@ -109,7 +109,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Imagine Dragons - Radioactive
 *  Jason Mraz - I'm Yours
 *  Jeff Williams ft. Casey Lee Williams - This Will Be The Day
-*  Jeff Williams ft. Casey Lee Williams - Time to Say Goodbye
+*  Jeff Williams ft. Casey Lee Williams - Time to Say Goodbye @
 *  Joan Jett and the Blackhearts - I Hate Myself For Loving You
 *  John Denver - Take Me Home, Country Roads
 *  Justin Bieber - Love Yourself
@@ -135,7 +135,7 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Natasha Bedingfield - Unwritten
 *  Oasis - Champagne Supernova
 *  Of Mice & Men - Would You Still Be There
-*  Offspring, The - You're Gonna Go Far, Kid
+*  Offspring, The - You're Gonna Go Far, Kid @
 *  One Direction - Story of My Life
 *  Opeth - Heir Apparent
 *  Outkast - Hey Ya!
@@ -144,30 +144,30 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Post Malone - Circles
 *  Ram Jam - Black Betty (2x option available)
 *  Redbone - Come and Get Your Love
-*  Red Jumpsuit Apparatus, The - Face Down
+*  Red Jumpsuit Apparatus, The - Face Down @
 *  Robert Palmer - Bad Case of Loving You (Doctor, Doctor)
 *  Robin Thicke ft. Pharrell - Blurred Lines
 *  Romantics, The - What I Like About You
 *  Rupert Holmes - Escape (The Piña Colada Song)
 *  Rush - Freewill (Vault Edition)
-*  Seether ft. Amy Lee - Broken
+*  Seether ft. Amy Lee - Broken @
 *  Semisonic - Closing Time
-*  Shania Twain - Man! I Feel Like a Woman!
+*  Shania Twain - Man! I Feel Like a Woman! @
 *  Shania Twain - That Don't Impress Me Much
 *  Sia - Chandelier
 *  Simple Minds - Don't You (Forget About Me)
 *  Simple Plan & State Champs - Where I Belong feat. We The Kings
 *  Skid Row - 18 and Life
-*  Skid Row - I Remember You
+*  Skid Row - I Remember You @
 *  Slayer - Angel of Death
-*  Staind - Outside
+*  Staind - Outside @
 *  Steppenwolf - Born to be Wild
 *  Stone Temple Pilots - Wicked Garden
-*  Ted Nugent - Stranglehold
+*  Ted Nugent - Stranglehold @
 *  Third Eye Blind - Jumper
-*  Three Days Grace - Never Too Late
-*  Tonic - If You Could Only See
-*  Toto - Africa
+*  Three Days Grace - Never Too Late @
+*  Tonic - If You Could Only See @
+*  Toto - Africa @
 *  Toto - Hold The Line
 *  Twenty One Pilots - Heathens
 *  Twisted Sister - I Wanna Rock
@@ -179,12 +179,12 @@ Thanks to multiple sources like RBVR, Midi fixes from Rivals, and some anonymous
 *  Van Halen - Runnin' with the Devil
 *  Van Halen - Unchained
 *  Vanilla Ice - Ice Ice Baby
-*  Veruca Salt - Seether
+*  Veruca Salt - Seether @
 *  Warrant - Cherry Pie
 *  Weeknd, The - Blinding Lights
 *  Weeknd, The - Can't Feel My Face
 *  Weeknd, The ft. Daft Punk - Starboy
 *  Weeknd, The - The Hills
 *  Weezer - The End of the Game
-*  Wheatus - Teenage Dirtbag
+*  Wheatus - Teenage Dirtbag @
 *  Winger - Seventeen
