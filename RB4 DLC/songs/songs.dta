@@ -11367,7 +11367,7 @@
         )
      )
      
-	 ;(vocal_parts -)	; OPTIONAL but REQUIRED for vocal harmony @@@remove if no harmony@@@
+	 (vocal_parts 2)	; OPTIONAL but REQUIRED for vocal harmony @@@remove if no harmony@@@
      (crowd_channels 10 11)
 	 
 	 ;                DRUMS    	  BS       GUITAR     VOCALS      FAKE		CROWD
