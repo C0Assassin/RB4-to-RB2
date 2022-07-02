@@ -159,7 +159,7 @@ The following DLC is available too: (@ = Recreation chart)
 *  Simple Plan & State Champs - Where I Belong feat. We The Kings
 *  Skid Row - 18 and Life
 *  Skid Row - I Remember You @
-*  Slayer - Angel of Death
+*  Slayer - Angel of Death @
 *  Staind - Outside @
 *  Steppenwolf - Born to be Wild
 *  Stone Temple Pilots - Wicked Garden
