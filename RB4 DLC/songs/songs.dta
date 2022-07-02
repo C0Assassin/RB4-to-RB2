@@ -674,12 +674,13 @@
       )
       (
          'vols'
-         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 -2.0 -2.0)
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 -0.0 -0.0)
       )
       (
          'cores'
          (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
       )
+	  (vocal_parts 3)
       (
          'drum_solo'
          (
@@ -703,7 +704,7 @@
    )
    ('anim_tempo' 32)
    ('song_length' 270097)
-   ('preview' 30000 60000)
+   ('preview' 56395 86395)
    (
       'rank'
       ('vocals' 147)
@@ -719,13 +720,14 @@
    ('album_art' 1)
    ('year_released' 2005)
    ('rating' 2)
+   (vocal_tonic_note 2)
    ('sub_genre' 'subgenre_rock')
    ('song_id' 1020165)
    ('tuning_offset_cents' 0.0)
    ('game_origin' 'rb4_dlc')
    (
       'album_name'
-      "Extreme Behaviour"
+      "Extreme Behavior"
    )
    ('album_track_number' 8)
    ('context' 2000)
