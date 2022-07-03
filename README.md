@@ -142,7 +142,7 @@ The following DLC is available too: (@ = Recreation chart)
 *  Pantera - Cowboys From Hell (Live)
 *  Paramore - Ain't It Fun
 *  Post Malone - Circles
-*  Public Enemy ft. Anthrax - Bring tha Noize
+*  Public Enemy ft. Anthrax - Bring tha Noize @
 *  Ram Jam - Black Betty (2x option available)
 *  Redbone - Come and Get Your Love
 *  Red Jumpsuit Apparatus, The - Face Down @
