@@ -111,6 +111,7 @@ The following DLC is available too: (@ = Recreation chart)
 *  Jason Mraz - I'm Yours
 *  Jeff Williams ft. Casey Lee Williams - This Will Be The Day
 *  Jeff Williams ft. Casey Lee Williams - Time to Say Goodbye @
+*  Jefferson Starship - Jane
 *  Joan Jett and the Blackhearts - I Hate Myself For Loving You
 *  John Denver - Take Me Home, Country Roads
 *  Justin Bieber - Love Yourself
