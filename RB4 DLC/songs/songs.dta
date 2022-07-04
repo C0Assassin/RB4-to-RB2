@@ -13167,3 +13167,75 @@
    (base_points 0)
    ;(encoding latin1) ; OPTIONAL, required if name, artist, album_name, or pack_name contain non-ascii characters
 )
+
+(lonelyisthenight
+   (name "Lonely Is The Night")
+   (artist "Billy Squier")
+   (master TRUE)
+   (context 2000)
+   (song
+     (name        "songs/lonelyisthenight/lonelyisthenight")
+     (tracks
+        ((drum (0 1))
+         (bass (2 3))
+         (guitar (4 5))
+         (vocals (6 7))
+        )
+     )
+     
+	 (vocal_parts 3)	; OPTIONAL but REQUIRED for vocal harmony @@@remove if no harmony@@@
+     ;(crowd_channels )
+	 
+	 ;                DRUMS    	  BS       GUITAR     VOCALS      FAKE
+     (pans        (-1.0  1.0  -1.0  1.0  -1.0  1.0  -1.0  1.0  -1.0  1.0))
+     (vols        (-0.0 -0.0  -0.0 -0.0  -0.0 -0.0  -0.0 -0.0  -0.0 -0.0))
+     (cores       ( -1   -1    -1   -1     1    1    -1   -1    -1   -1))
+	 
+	 
+     (drum_solo
+        (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
+     )
+     (drum_freestyle
+        (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue))
+     )
+     (midi_file "songs/lonelyisthenight/lonelyisthenight.mid")
+     ;(hopo_threshold 90)
+   )
+   (song_scroll_speed 2300)
+   (bank sfx/tambourine_bank.milo)
+   (anim_tempo 16)
+   (song_length 280609) 			; value is length of audio file in milliseconds
+   (preview 16000 46000)
+   (rank
+      (drum 185)
+      (guitar 285)
+      (bass 348)
+      (vocals 310)
+      (band 282)
+   )
+   (genre classicrock)
+   (decade the80s) ;@@@ADD@@@!!! (e.g. the90s, the00s, the10s, the20s)
+   (vocal_gender male)
+   ;(tuning_offset_cents 0.0)
+   ;(song_tonality 0)			; REQUIRED - VOX team - 0 = major, 1 = minorfor all RB3 songs
+   ;(vocal_tonic_note 0)		; REQUIRED - VOX team - set this to correct note!
+   (format 4)				 ;@@@@C0Assassin - Always set to 4
+   (version 0)               ; Only modified by coders! @@@@C0Assassin - Always set to 0@@@@
+   ;(fake {== $SONG_VERSION 0})   
+   (downloaded TRUE) 
+   (game_origin rb4_dlc) 	; game origin that the song is from
+   (song_id 1020353)        ; ALWAYS set this to 0, unless you are Heather @@@Pull from 'rb4.app' if you can't source the id@@@
+   (rating 2)          		; 1 = everyone, 2 = teen, 3 = mature, 4 = unrated
+   (short_version 0) 		; if set to 0, there is no short version of the song (milliseconds)
+   ;(extra_authoring ^^^) 	; flag to designate that a song has extra authoring (files, etc.) for a specific project(s)
+   (album_art TRUE) 		; if TRUE, the actual album art will be required
+   
+   (year_released 1981)
+   ;(year_recorded 2010)  	; OPTIONAL - only to be used for re-records
+   (album_name "Don't Say No")   		; OPTIONAL  (e.g. for covers)
+   (album_track_number 6)   ; OPTIONAL (would require album_name if added). If omitted Set Challenges use difficulty sorting.
+	
+   (pack_name "RBLONELYISTH2766")  ; OPTIONAL
+   (base_points 0)
+   ;(encoding latin1) ; OPTIONAL, required if name, artist, album_name, or pack_name contain non-ascii characters
+)
