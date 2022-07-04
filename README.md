@@ -69,7 +69,7 @@ The following DLC is available too: (@ = Recreation chart)
 *  Beastie Boys - Fight for Your Right @
 *  Belinda Carlisle - Heaven Is A Place On Earth
 *  Billy Joel - Uptown Girl
-*  Billy Squier - Lonely Is The Night
+*  Billy Squier - Lonely Is The Night @
 *  Black Eyed Peas, The - I Gotta Feeling
 *  Blue Öyster Cult - Burnin' for You @
 *  Blue Swede - Hooked On A Feeling
