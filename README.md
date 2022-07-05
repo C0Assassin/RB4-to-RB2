@@ -143,6 +143,7 @@ The following DLC is available too: (@ = Recreation chart)
 *  Outkast - Hey Ya!
 *  Pantera - Cowboys From Hell (Live)
 *  Paramore - Ain't It Fun
+*  Pierce the Veil - King For A Day (ft. Kellin Quinn)
 *  Post Malone - Circles
 *  Public Enemy ft. Anthrax - Bring tha Noize @
 *  Ram Jam - Black Betty (2x option available)
