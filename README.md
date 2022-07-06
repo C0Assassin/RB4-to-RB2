@@ -124,7 +124,7 @@ The following DLC is available too: (@ = Recreation chart)
 *  LMFAO - Party Rock Anthem
 *  Los Lobos - La Bamba
 *  Machine Gun Kelly - bloody valentine
-*  Macklemore & Ryan Lewis ft. Ray Dalton - Can't Hold Us
+*  Macklemore & Ryan Lewis ft. Ray Dalton - Can't Hold Us @
 *  Magic! - Rude
 *  Maroon 5 - Maps
 *  Matchbox Twenty - 3AM
