@@ -191,4 +191,5 @@ The following DLC is available too: (@ = Recreation chart)
 *  Weeknd, The - The Hills
 *  Weezer - The End of the Game
 *  Wheatus - Teenage Dirtbag @
+*  Wild Cherry - Play That Funky Music @
 *  Winger - Seventeen
