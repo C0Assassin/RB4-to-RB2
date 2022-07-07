@@ -57,6 +57,7 @@ The following DLC is available too: (@ = Recreation chart)
 *  Aerosmith - Livin' On The Edge
 *  Aerosmith - Love In An Elevator @
 *  Aerosmith - Rag Doll
+*  Alice Cooper - No More Mr. Nice Guy @
 *  Alice In Chains - Them Bones @
 *  Asia - Heat Of The Moment @
 *  Audioslave - Like A Stone @
