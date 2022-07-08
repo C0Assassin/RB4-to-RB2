@@ -65,6 +65,7 @@ The following DLC is available too: (@ = Recreation chart)
 *  Avril Lavigne - Complicated
 *  Avril Lavigne - My Happy Ending
 *  Avril Lavigne - Sk8er Boi @
+*  BØRNS - Electric Love
 *  BABYMETAL - Gimme Chocolate!!
 *  Bad Company - Bad Company
 *  Beastie Boys - Fight for Your Right @
