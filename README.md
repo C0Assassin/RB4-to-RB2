@@ -45,7 +45,7 @@ Current progress of Rivals songs.
 *  Worshipper - Black Corridor
 
 ## RB4 DLC:
-The following DLC is available too: (@ = Recreation chart)
+The following DLC is available too: (@ = Recreation chart) (% = real midi/recreational animations, mogg, and/or lipsync)
 *  Ace of Base - The Sign
 *  Aerosmith - Angel
 *  Aerosmith - Crazy
@@ -66,7 +66,7 @@ The following DLC is available too: (@ = Recreation chart)
 *  Avril Lavigne - My Happy Ending
 *  Avril Lavigne - Sk8er Boi @
 *  BØRNS - Electric Love
-*  BABYMETAL - Gimme Chocolate!!
+*  BABYMETAL - Gimme Chocolate!! %
 *  Bad Company - Bad Company
 *  Beastie Boys - Fight for Your Right @
 *  Belinda Carlisle - Heaven Is A Place On Earth
@@ -77,7 +77,7 @@ The following DLC is available too: (@ = Recreation chart)
 *  Blue Swede - Hooked On A Feeling
 *  Breaking Benjamin - Failure
 *  Brian Setzer - Rock This Town
-*  Bring Me The Horizon - Throne
+*  Bring Me The Horizon - Throne %
 *  Bruno Mars - 24k Magic
 *  Bruno Mars - Locked Out Of Heaven
 *  Chainsmokers, The ft. Halsey - Closer
@@ -106,7 +106,7 @@ The following DLC is available too: (@ = Recreation chart)
 *  Heart - Magic Man @
 *  Hinder - Lips of an Angel
 *  Hoobastank - The Reason
-*  Hozier - Take Me To Church
+*  Hozier - Take Me To Church %
 *  Imagine Dragons - Believer
 *  Imagine Dragons - Follow You
 *  Imagine Dragons - Radioactive
@@ -115,7 +115,7 @@ The following DLC is available too: (@ = Recreation chart)
 *  Jeff Williams ft. Casey Lee Williams - This Will Be The Day
 *  Jeff Williams ft. Casey Lee Williams - Time to Say Goodbye @
 *  Jefferson Starship - Jane
-*  Joan Jett and the Blackhearts - I Hate Myself For Loving You
+*  Joan Jett and the Blackhearts - I Hate Myself For Loving You %
 *  John Denver - Take Me Home, Country Roads
 *  Justin Bieber - Love Yourself
 *  Kenny Loggins - Danger Zone
@@ -144,7 +144,7 @@ The following DLC is available too: (@ = Recreation chart)
 *  One Direction - Story of My Life
 *  Opeth - Heir Apparent
 *  Outkast - Hey Ya!
-*  Pantera - Cowboys From Hell (Live)
+*  Pantera - Cowboys From Hell (Live) %
 *  Paramore - Ain't It Fun
 *  Pierce the Veil - King For A Day (ft. Kellin Quinn)
 *  Post Malone - Circles
@@ -162,14 +162,14 @@ The following DLC is available too: (@ = Recreation chart)
 *  Shania Twain - Man! I Feel Like a Woman! @
 *  Shania Twain - That Don't Impress Me Much
 *  Sia - Chandelier
-*  Simple Minds - Don't You (Forget About Me)
+*  Simple Minds - Don't You (Forget About Me) %
 *  Simple Plan & State Champs - Where I Belong feat. We The Kings
 *  Skid Row - 18 and Life
 *  Skid Row - I Remember You @
 *  Slayer - Angel of Death @
 *  Staind - Outside @
 *  Steppenwolf - Born to be Wild
-*  Stone Temple Pilots - Wicked Garden
+*  Stone Temple Pilots - Wicked Garden %
 *  Ted Nugent - Stranglehold @
 *  Third Eye Blind - Jumper
 *  Three Days Grace - Never Too Late @
@@ -187,7 +187,7 @@ The following DLC is available too: (@ = Recreation chart)
 *  Van Halen - Unchained
 *  Vanilla Ice - Ice Ice Baby
 *  Veruca Salt - Seether @
-*  Warrant - Cherry Pie
+*  Warrant - Cherry Pie %
 *  Weeknd, The - Blinding Lights
 *  Weeknd, The - Can't Feel My Face
 *  Weeknd, The ft. Daft Punk - Starboy
