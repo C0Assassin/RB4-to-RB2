@@ -178,6 +178,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Toto - Africa @
 *  Toto - Hold The Line
 *  Twenty One Pilots - Heathens
+*  Twenty One Pilots - Stressed Out
 *  Twisted Sister - I Wanna Rock
 *  UB40 - Red Red Wine
 *  Van Halen - Ain't Talkin' 'Bout Love
