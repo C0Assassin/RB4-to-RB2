@@ -161,6 +161,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Semisonic - Closing Time
 *  Shania Twain - Man! I Feel Like a Woman! @
 *  Shania Twain - That Don't Impress Me Much
+*  Shawn Mendes - Treat You Better
 *  Sia - Chandelier
 *  Simple Minds - Don't You (Forget About Me) %
 *  Simple Plan & State Champs - Where I Belong feat. We The Kings
