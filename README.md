@@ -80,6 +80,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Bring Me The Horizon - Throne %
 *  Bruno Mars - 24k Magic
 *  Bruno Mars - Locked Out Of Heaven
+*  Capital Cities - Safe and Sound
 *  Chainsmokers, The ft. Halsey - Closer
 *  Cranberries, The - Zombie
 *  Creed - With Arms Wide Open
