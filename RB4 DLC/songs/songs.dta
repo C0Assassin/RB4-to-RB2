@@ -13666,7 +13666,7 @@
      ;(hopo_threshold 90)
    )
    (song_scroll_speed 2300)
-   (bank sfx/tambourine_bank.milo)
+   (bank sfx/cowbell_bank.milo)
    (anim_tempo 64)
    (song_length 254543) 			; value is length of audio file in milliseconds
    (preview 36863 66863)
