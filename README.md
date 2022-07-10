@@ -111,7 +111,7 @@ The following DLC is available too: (@ = Recreation chart)
 *  Imagine Dragons - Follow You
 *  Imagine Dragons - Radioactive
 *  Jason Mraz - I'm Yours
-*  Jeff Williams ft. Casey Lee Williams - The Triumph
+*  Jeff Williams ft. Casey Lee Williams - The Triumph @
 *  Jeff Williams ft. Casey Lee Williams - This Will Be The Day
 *  Jeff Williams ft. Casey Lee Williams - Time to Say Goodbye @
 *  Jefferson Starship - Jane
