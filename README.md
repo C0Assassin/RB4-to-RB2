@@ -139,7 +139,7 @@ The following DLC is available too: (@ = Recreation chart)
 *  Natalie Imbruglia - Torn
 *  Natasha Bedingfield - Unwritten
 *  Oasis - Champagne Supernova
-*  Of Mice & Men - Would You Still Be There
+*  Of Mice & Men - Would You Still Be There %
 *  Offspring, The - You're Gonna Go Far, Kid @
 *  One Direction - Story of My Life
 *  Opeth - Heir Apparent
