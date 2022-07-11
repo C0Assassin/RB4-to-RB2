@@ -196,6 +196,6 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Weeknd, The ft. Daft Punk - Starboy
 *  Weeknd, The - The Hills
 *  Weezer - The End of the Game
-*  Wheatus - Teenage Dirtbag @
+*  Wheatus - Teenage Dirtbag (2020)
 *  Wild Cherry - Play That Funky Music @
 *  Winger - Seventeen
