@@ -66,7 +66,8 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Avril Lavigne - My Happy Ending
 *  Avril Lavigne - Sk8er Boi @
 *  BØRNS - Electric Love
-*  BABYMETAL - Gimme Chocolate!! %
+*  BABYMETAL - Gimme Chocolate!!
+*  BABYMETAL - Starlight @
 *  Bad Company - Bad Company
 *  Beastie Boys - Fight for Your Right @
 *  Belinda Carlisle - Heaven Is A Place On Earth
