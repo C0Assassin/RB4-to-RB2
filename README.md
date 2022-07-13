@@ -196,6 +196,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Weeknd, The - The Hills
 *  Weezer - The End of the Game
 *  Wheatus - Teenage Dirtbag (2020)
+*  Wild Cherry - Play That Funky Music @
 *  Winger - Seventeen
 
 ## Temporarily Pulled:
@@ -203,4 +204,3 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  BABYMETAL - Starlight @
 *  Jeff Williams ft. Casey Lee Williams - The Triumph @
 *  Jeff Williams ft. Casey Lee Williams - Time to Say Goodbye @
-*  Wild Cherry - Play That Funky Music @
