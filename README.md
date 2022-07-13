@@ -188,6 +188,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Van Halen - Unchained
 *  Vanilla Ice - Ice Ice Baby
 *  Veruca Salt - Seether @
+*  Walk The Moon - Shut Up and Dance
 *  Warrant - Cherry Pie %
 *  Weeknd, The - Blinding Lights
 *  Weeknd, The - Can't Feel My Face
