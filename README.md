@@ -67,6 +67,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Avril Lavigne - Sk8er Boi @
 *  BØRNS - Electric Love
 *  BABYMETAL - Gimme Chocolate!!
+*  BABYMETAL - Starlight @
 *  Bad Company - Bad Company
 *  Beastie Boys - Fight for Your Right @
 *  Belinda Carlisle - Heaven Is A Place On Earth
@@ -201,6 +202,5 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 
 ## Temporarily Pulled:
 
-*  BABYMETAL - Starlight @
 *  Jeff Williams ft. Casey Lee Williams - The Triumph @
 *  Jeff Williams ft. Casey Lee Williams - Time to Say Goodbye @
