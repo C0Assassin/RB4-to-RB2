@@ -114,6 +114,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Imagine Dragons - Radioactive
 *  Jason Mraz - I'm Yours
 *  Jeff Williams ft. Casey Lee Williams - This Will Be The Day
+*  Jeff Williams ft. Casey Lee Williams - Time to Say Goodbye @
 *  Jefferson Starship - Jane
 *  Joan Jett and the Blackhearts - I Hate Myself For Loving You %
 *  John Denver - Take Me Home, Country Roads
@@ -203,4 +204,3 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 ## Temporarily Pulled:
 
 *  Jeff Williams ft. Casey Lee Williams - The Triumph @
-*  Jeff Williams ft. Casey Lee Williams - Time to Say Goodbye @
