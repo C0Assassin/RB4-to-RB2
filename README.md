@@ -163,6 +163,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Semisonic - Closing Time
 *  Shania Twain - Man! I Feel Like a Woman! @
 *  Shania Twain - That Don't Impress Me Much
+*  Shawn Mendes - Stitches
 *  Shawn Mendes - Treat You Better
 *  Sia - Chandelier
 *  Simple Minds - Don't You (Forget About Me) %
