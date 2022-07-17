@@ -93,6 +93,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  DNCE - Cake By The Ocean
 *  Dragonforce - Through the Fire and Flames (RB4 chart)
 *  Dream Theater - Pull Me Under
+*  Eagle-Eye Cherry - Save Tonight
 *  Earth, Wind & Fire - September
 *  Ed Sheeran - Sing
 *  Elle King - Ex's & Oh's
