@@ -77,6 +77,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Blue Öyster Cult - Burnin' for You @
 *  Blue Swede - Hooked On A Feeling
 *  Breaking Benjamin - Failure
+*  Breaking Benjamin - Torn In Two
 *  Brian Setzer - Rock This Town
 *  Bring Me The Horizon - Throne %
 *  Bruno Mars - 24k Magic
